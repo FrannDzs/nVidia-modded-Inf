@@ -1,5 +1,8 @@
 ### nVidia modded Inf project created 2017 by CHEF-KOCH under GNU GENERAL PUBLIC LICENSE v3.
 
+This project is unofficial and not in any relationship or support with nVidia Cooperation. 
+
+
 
 What is a modded INF?
 ===================
@@ -13,6 +16,18 @@ nVidia by default don't support laptop GPUs with beta and WHQL driver updates on
 For example a Toshiba OEM driver with a toshiba INF (nvts.inf) will only work with the models included in that INF.
 
 
+Modded drivers will NEVER transform your GPU to another one, and will NEVER add features that you do not already have.
+
+
+
+Remove your old nVidia driver:
+===================
+
+1) Extract Display Driver Uninstaller (DDU) and start it, boot into safe mode and clean it. You not need to uninstall the driver or any package via Windows own uninstaller program first. 
+2) Reboot Windows and install your modded nVidia driver.
+
+
+
 
 
 Easy installation:
@@ -23,6 +38,25 @@ Easy installation:
 * Search "nv_disp.cat" (or corresponding file) in 'Display.Driver Folder'
 * Follow the Video instruction to install the certificate
 * Now you can install all my modded drivers, without disabling 'driver signature enforcement' in Windows.
+
+
+
+Troubleshoot
+===================
+
+
+before installing
+
+bcdedit -set loadoptions DISABLE_INTEGRITY_CHECKS
+bcdedit -set TESTSIGNING ON
+
+
+
+after installing
+
+bcdedit -set loadoptions ENABLE_INTEGRITY_CHECKS
+bcdedit -set TESTSIGNING OFF
+
 
 
 
@@ -45,5 +79,5 @@ Research and tools:
 * https://github.com/Wagnard/display-drivers-uninstaller
 * http://forums.guru3d.com/showthread.php?t=377158
 * https://laptopvideo2go.com/
-* 
-* 
+* https://forums.geforce.com/default/topic/467215/geforce-driver-installation-guide-a-guide-to-ensure-your-drivers-are-installed-properly-/
+* https://forums.geforce.com/default/topic/862424/geforce-drivers/windows-10-faq-and-driver-installation-tips-/

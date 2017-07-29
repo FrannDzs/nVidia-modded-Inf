@@ -1,0 +1,16 @@
+Acer & Gateway = nvaci.inf
+Asus = nvami.inf
+Apple = nvaoi.inf
+Compal = nvcti.inf
+Clevo (Sager & other re-brands) = nvcvi.inf
+Dell & Alienware = nvdmi.inf
+Fujitsu = nvfmi.inf
+HP = nvbli.inf
+HP = nvhmi.inf
+LG = nvloi.inf
+Lenovo = nvlti.inf
+MSI = nvmii.inf
+NEC = nvqni.inf Siemens = nvfui.inf
+Sony = nvszci.inf
+Toshiba Qosmio = nvtdi.inf
+Toshiba = nvtsi.inf
