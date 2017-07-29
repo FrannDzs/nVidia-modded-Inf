@@ -1,0 +1,9 @@
+Display Driver Uninstaller (DDU):
+https://www.wagnardsoft.com/
+
+
+nvFlash
+https://www.techpowerup.com/download/nvidia-nvflash/
+
+
+Credits and thanks, I provide untouched files as mirror!
