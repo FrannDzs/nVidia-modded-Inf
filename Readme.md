@@ -13,7 +13,7 @@ nVidia provides UDA (Unified Driver Architecture) where the driver should work f
 
 nVidia by default don't support laptop GPUs with beta and WHQL driver updates on their server. This is left up to the OEM to organize. I assume nVidia must charge to have an OEM driver made or be included, as they are very rear for OEM to actually update a video driver. So an OEM driver has specific instructions for that laptop (ie model specific) and will only work with a select few laptops.
 
-For example a Toshiba OEM driver with a toshiba INF (nvts.inf) will only work with the models included in that INF.
+For example a Toshiba OEM driver with a Toshiba INF (nvts.inf) will only work with the models included in that INF.
 
 
 Modded drivers will NEVER transform your GPU to another one, and will NEVER add features that you do not already have.
@@ -59,6 +59,8 @@ bcdedit -set TESTSIGNING OFF
 
 
 
+After executing these two commands you need to reboot your OS.
+
 
 ToDo:
 ======
@@ -70,7 +72,7 @@ ToDo:
 * Add manual 'create own inf' section
 * Add 'how to install driver manually' + video?
 * Add devide Id list
-
+* I only support win x64 modded infs, do not ask for 7, 8 or x86 versions!
 
 
 Research and tools:
