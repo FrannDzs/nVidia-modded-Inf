@@ -47,7 +47,9 @@ Troubleshoot
 
 before installing
 
+
 bcdedit -set loadoptions DISABLE_INTEGRITY_CHECKS
+
 bcdedit -set TESTSIGNING ON
 
 
@@ -55,6 +57,7 @@ bcdedit -set TESTSIGNING ON
 after installing
 
 bcdedit -set loadoptions ENABLE_INTEGRITY_CHECKS
+
 bcdedit -set TESTSIGNING OFF
 
 
