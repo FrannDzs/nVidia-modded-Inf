@@ -21,14 +21,17 @@ For example a Toshiba OEM driver with a Toshiba INF (nvts.inf) will only work wi
 Modded drivers will NEVER transform your GPU to another one, and will NEVER add features that you do not already have.
 
 
+Keep in mind:
+
+Fermi GPU's (400 and 500 series) as from 396 driver are official no longer supported!
+
+
 
 Remove your old nVidia driver:
 ===================
 
 1) Extract Display Driver Uninstaller (DDU) and start it, boot into safe mode and clean it. You not need to uninstall the driver or any package via Windows own uninstaller program first. 
 2) Reboot Windows and install your modded nVidia driver.
-
-
 
 
 
