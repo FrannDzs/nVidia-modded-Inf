@@ -50,24 +50,25 @@ Troubleshoot
 ===================
 
 
-before installing
+Before you install unsigned drivers:
 
-
+```
 bcdedit -set loadoptions DISABLE_INTEGRITY_CHECKS
 
 bcdedit -set TESTSIGNING ON
+```
 
 
+After you're finished installing the unsigned driver:
 
-after installing
-
+```
 bcdedit -set loadoptions ENABLE_INTEGRITY_CHECKS
 
 bcdedit -set TESTSIGNING OFF
+```
 
 
-
-After executing these two commands you need to reboot your OS.
+After executing these two commands you need to reboot Windows.
 
 
 
@@ -95,12 +96,14 @@ C = US
 E = Your Email
 
 3.) OK now that you have your PFX, you can generate a CAT for your modded driver and sing it (you will need the latest Windows Driver Kit)
-4.) Re-generate a new CAT with Inf2Cat like
+4.) ```
+	Re-generate a new CAT with Inf2Cat like
 	Inf2Cat /driver:<path_to_folder_with_INF_&_Files> /os:Vista_X86,Vista_X64,Server2008_X86,Server2008_X64,7_X86,7_X64,Server8_X64,8_X86,8_X64,Server6_3_X64,6_3_X86,6_3_X64
+	```
 5.) Sign the new CAT with your PFX
-	signtool sign /f <filename>.pfx /p <password> "<path_to_folder>\nv_disp.cat"
-6). Timesamp your CAT
-	signtool timestamp /t http://timestamp.verisign.com/scripts/timstamp.dll "<path_to_folder>\nv_disp.cat"
+	signtool sign `/f <filename>.pfx /p <password> "<path_to_folder>\nv_disp.cat"`
+6.)	Timesamp your CAT file
+	`signtool timestamp /t http://timestamp.verisign.com/scripts/timstamp.dll "<path_to_folder>\nv_disp.cat"`
 7.) Now what you need to do, is get the cert from your PFX, install it in the Trusted Root Cert. Auth. and get the reg from this to give to users to apply
 
 
