@@ -1,10 +1,10 @@
 ### nVidia modded Inf project created 2017 by CHEF-KOCH under GNU GENERAL PUBLIC LICENSE v3.
 
-This project is unofficial and not in any relationship or support with nVidia Cooperation. 
+This project is unofficial and not in any relationship or supported by nVidia Cooperation. 
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/FZeven)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
-[![Discord](https://discordapp.com/api/guilds/204394292519632897/widget.png)](https://discord.me/NVinside)
+[![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
 What is a modded INF?
 ===================
@@ -27,20 +27,19 @@ Keep in mind:
 
 
 
-Remove your old nVidia driver:
+Remove old nVidia drivers
 ===================
 
-1) Extract [Display Driver Uninstaller (DDU)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/tools) and start it, boot into safe mode and clean it. You not need to uninstall the driver or any package via Windows own uninstaller program first. 
-2) Reboot Windows and install your modded nVidia driver.
+* Extract [Display Driver Uninstaller (DDU)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/tools) and start it, boot into safe mode and clean it. You not need to uninstall the driver or any package via Windows own uninstaller program first. 
+* Reboot Windows and install your modded nVidia driver, if the driver isn't signed you need to do it yourself or disable driver signature enforcement under Windows.
 
 
 
-Easy installation:
+Modded Inf Driver installation
 ===================
-
 
 * Download and extract the Driver (download from official source) - wait until the installer has unzipped the files e.g. to C:\Nvidia
-* Search "nv_disp.cat" (or corresponding file) in 'Display.Driver Folder'
+* Search for e.g. "nv_disp.cat" (or corresponding file) in 'Display.Driver Folder'
 * Follow the Video instruction to install the certificate
 * Now you can install all my modded drivers, without disabling 'driver signature enforcement' in Windows.
 
@@ -75,7 +74,7 @@ After executing these two commands you need to reboot Windows.
 How to sign your driver?
 ===================
 
-1.) Download and install (or portable) [SelfCert](https://www.pluralsight.com/blog/software-development/selfcert-create-a-self-signed-certificate-interactively-gui-or-programmatically-in-net).
+* Download and install (or portable) [SelfCert](https://www.pluralsight.com/blog/software-development/selfcert-create-a-self-signed-certificate-interactively-gui-or-programmatically-in-net).
 
 Select:
 ```
@@ -88,7 +87,7 @@ Valid from: today
 Valid to: Your choice like 5 up to 10 years
 ```
 
-2). Now put in a password in and save as PFX
+* Now put in a password in and save as PFX
 
 ```
 CN = Microsoft Windows Hardware Compatibility PCA
@@ -99,20 +98,20 @@ C = US
 E = Your Email
 ```
 
-3.) OK now that you have your PFX, you can generate a CAT for your modded driver and sing it (you will need the latest Windows Driver Kit)
-4.) ```
+* OK now that you have your PFX, you can generate a CAT for your modded driver and sing it (you will need the latest Windows Driver Kit)
+*	```
 	Re-generate a new CAT with Inf2Cat like
 	Inf2Cat /driver:<path_to_folder_with_INF_&_Files> /os:Vista_X86,Vista_X64,Server2008_X86,Server2008_X64,7_X86,7_X64,Server8_X64,8_X86,8_X64,Server6_3_X64,6_3_X86,6_3_X64
 	```
-5.) Sign the new CAT with your PFX
+*	Sign the new CAT with your PFX
 	signtool sign `/f <filename>.pfx /p <password> "<path_to_folder>\nv_disp.cat"`
-6.)	Timesamp your CAT file
+*	Timesamp your CAT file
 	`signtool timestamp /t http://timestamp.verisign.com/scripts/timstamp.dll "<path_to_folder>\nv_disp.cat"`
-7.) Now what you need to do, is get the cert from your PFX, install it in the Trusted Root Cert. Auth. and get the reg from this to give to users to apply
+* 	 Now what you need to do, is get the cert from your PFX, install it in the Trusted Root Cert. Auth. and get the reg from this to give to users to apply
 
 
 
-ToDo:
+ToDo
 ======
 
 * Add video (?)
