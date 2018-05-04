@@ -18,19 +18,19 @@ nVidia by default don't support laptop GPUs with beta and WHQL driver updates on
 For example a Toshiba OEM driver with a Toshiba INF (nvts.inf) will only work with the models included in that INF.
 
 
-Modded drivers will NEVER transform your GPU to another one, and will NEVER add features that you do not already have.
+Modded drivers will NEVER transform your GPU to another one and will NEVER add features that you do not already have.
 
 
 Keep in mind:
 
-Fermi GPU's (400 and 500 series) as from 396 driver are official no longer supported!
+> Fermi GPU's (400 and 500 series) as from 396 driver are official no longer supported!
 
 
 
 Remove your old nVidia driver:
 ===================
 
-1) Extract Display Driver Uninstaller (DDU) and start it, boot into safe mode and clean it. You not need to uninstall the driver or any package via Windows own uninstaller program first. 
+1) Extract [Display Driver Uninstaller (DDU)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/tools) and start it, boot into safe mode and clean it. You not need to uninstall the driver or any package via Windows own uninstaller program first. 
 2) Reboot Windows and install your modded nVidia driver.
 
 
@@ -77,7 +77,8 @@ How to sign your driver?
 
 1.) Download and install (or portable) [SelfCert](https://www.pluralsight.com/blog/software-development/selfcert-create-a-self-signed-certificate-interactively-gui-or-programmatically-in-net).
 
-Select: 
+Select:
+```
 x.500 distinguished name: cn=name_here,o=org_here,e=email@example.com
 
 Key size: 2048
@@ -85,15 +86,18 @@ Key size: 2048
 Valid from: today
 
 Valid to: Your choice like 5 up to 10 years
+```
 
 2). Now put in a password in and save as PFX
 
+```
 CN = Microsoft Windows Hardware Compatibility PCA
 O = Microsoft Corporation
 L = Redmond
 S = Washington
 C = US
 E = Your Email
+```
 
 3.) OK now that you have your PFX, you can generate a CAT for your modded driver and sing it (you will need the latest Windows Driver Kit)
 4.) ```
@@ -116,15 +120,13 @@ ToDo:
 * Mention nvFlash and DDU
 * ~~Add manual 'create own inf' section + selfsign~~
 * Add 'how to install driver manually' + video?
-* ~~Add Devide Id list~~
+* ~~Add Devise Id list~~
 * ~~Add branch list~~
 * I only support win x64 modded infs, do not ask for 7, 8 or x86 versions!
 * Fix the markdown ... 
 
 
-Research and tools:
-===================
-
+## Acknowledgements and References
 * https://github.com/Wagnard/display-drivers-uninstaller
 * http://forums.guru3d.com/showthread.php?t=377158
 * https://laptopvideo2go.com/
