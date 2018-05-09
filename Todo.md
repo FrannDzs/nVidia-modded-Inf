@@ -9,4 +9,4 @@ ToDo
 - [x] ~~Add branch list~~
 - [x] I only support win x64 modded infs, do not ask for 7, 8 or x86 versions!
 - [x] ~~Fix the markdown~~
-- [ ] Add crap free setup.exe under Release? Need to ask GitHub in order to not get trouble.
+- [x] Add crap free setup.exe under Release? Need to ask GitHub in order to not get trouble.

@@ -126,6 +126,9 @@ All information regarding to the driver bundled telemetry can be found under the
 It's not necessary to block telemetry with your firewall, since you can manually opt-out, install a 'crap free' version or remove the folders/services manually. It's also unclear if blocking with firewall is effective since the data are tunneled transmitted + encrypted [needs confirmation]. 
 
 
+The latest Vulkan Runtimes and de-bloated Drivers can be found under the [release page](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases).
+
+
 
 ## Acknowledgements and References
 * [DDU Source Code](https://github.com/Wagnard/display-drivers-uninstaller)
