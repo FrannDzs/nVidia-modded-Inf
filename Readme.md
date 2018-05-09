@@ -38,7 +38,7 @@ Modded drivers will NEVER transform your GPU to another one and will NEVER add f
 Remove old nVidia drivers
 ===================
 
-* Extract [Display Driver Uninstaller (DDU)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/tools) and start it, boot into safe mode and clean it. You not need to uninstall the driver or any package via Windows own uninstaller program first. Keep in mind that DDU should only be used in case you get troubles while uninstalling the driver with nVidia's own Setup, it's not recommend and needed to use DDU as 'normal' driver removal, nVidia's own setup routine usually does the job fine.
+* Extract [Display Driver Uninstaller (DDU)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/tools) and start it, boot into safe mode and let DDU auto-clean and restart you. You not need to uninstall the driver or any package via Windows own uninstaller program firstwhen you use DDU but keep in mind that **DDU should only be used in case you get troubles while uninstalling/installing the driver with nVidia's own Setup**, it's not recommend and needed to use DDU as 'normal' driver removal, nVidia's own setup routine usually does the job fine.
 * Reboot Windows and install your modded nVidia driver, if the driver isn't signed you need to do it yourself or disable driver signature enforcement under Windows.
 
 
