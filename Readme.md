@@ -1,6 +1,13 @@
-### nVidia modded Inf project created 2017 by CHEF-KOCH under GNU GENERAL PUBLIC LICENSE v3.
+#### nVidia modded Inf project created 2017 by CHEF-KOCH under GNU GENERAL PUBLIC LICENSE v3.
 
-This project is unofficial and not in any relationship or supported by nVidia Cooperation. I only support x64 Windows, if you like to see x86 ask nVidia to extend the support or make a pull request. 
+<p align="center">
+  <img src="https://github.com/CHEF-KOCH/nVidia-modded-Inf/blob/master/geforce.png" width="350"/>
+  <img src="https://github.com/CHEF-KOCH/nVidia-modded-Inf/blob/master/inf%20mod.png?raw=true" width="350"/>
+</p>
+
+This project is unofficial and not in any relationship or supported by nVidia Cooperation. 
+
+This project only support x64 Windows versions, if you like to see x86 ask nVidia to extend the support or make a pull request. 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
@@ -22,7 +29,7 @@ For example a Toshiba OEM driver with a Toshiba INF (nvts.inf) will only work wi
 Modded drivers will NEVER transform your GPU to another one and will NEVER add features that you do not already have.
 
 
-Keep in mind:
+**Keep in mind**:
 
 > Fermi GPU's (400 and 500 series) as from 396 driver are official no longer supported!
 
