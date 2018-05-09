@@ -15,3 +15,5 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment
 390.77 | r390_00-154 | 01/23/2018 | // |
 
 
+* Hotfix drivers are always Beta.
+** All drivers are WHQL unless there test/NDA or Hotfix drivers. Since Windows requires to sign all driver, otherwise you get the popup warning. 

@@ -1,6 +1,6 @@
 ### nVidia modded Inf project created 2017 by CHEF-KOCH under GNU GENERAL PUBLIC LICENSE v3.
 
-This project is unofficial and not in any relationship or supported by nVidia Cooperation. 
+This project is unofficial and not in any relationship or supported by nVidia Cooperation. I only support x64 Windows, if you like to see x86 ask nVidia to extend the support or make a pull request. 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
@@ -30,7 +30,7 @@ Keep in mind:
 Remove old nVidia drivers
 ===================
 
-* Extract [Display Driver Uninstaller (DDU)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/tools) and start it, boot into safe mode and clean it. You not need to uninstall the driver or any package via Windows own uninstaller program first. 
+* Extract [Display Driver Uninstaller (DDU)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/tools) and start it, boot into safe mode and clean it. You not need to uninstall the driver or any package via Windows own uninstaller program first. Keep in mind that DDU should only be used in case you get troubles while uninstalling the driver with nvidia's own Setup, it's not recommed and needed to use DDU as 'normal' driver removal, nVidia's own setup routine usually does the job fine.
 * Reboot Windows and install your modded nVidia driver, if the driver isn't signed you need to do it yourself or disable driver signature enforcement under Windows.
 
 
@@ -67,7 +67,7 @@ bcdedit -set TESTSIGNING OFF
 ```
 
 
-After executing these two commands you need to reboot Windows.
+After executing these two commands you need to reboot Windows in order to apply the changes.
 
 
 
@@ -110,19 +110,11 @@ E = Your Email
 * 	 Now what you need to do, is get the cert from your PFX, install it in the Trusted Root Cert. Auth. and get the reg from this to give to users to apply
 
 
-
-ToDo
+Telemetry
 ======
 
-* Add video (?)
-* Add more instruction and project details in Readme.md 
-* Mention nvFlash and DDU
-* ~~Add manual 'create own inf' section + selfsign~~
-* Add 'how to install driver manually' + video?
-* ~~Add Devise Id list~~
-* ~~Add branch list~~
-* I only support win x64 modded infs, do not ask for 7, 8 or x86 versions!
-* Fix the markdown ... 
+All information regarding to the driver bundled telemetry can be found under the `/Telemetry & Crap free` folder.
+
 
 
 ## Acknowledgements and References
