@@ -6,6 +6,7 @@ This project is unofficial and not in any relationship or supported by nVidia Co
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
+
 What is a modded INF?
 ===================
 
@@ -74,9 +75,9 @@ After executing these two commands you need to reboot Windows in order to apply 
 How to sign your driver?
 ===================
 
-* Download and install (or portable) [SelfCert](https://www.pluralsight.com/blog/software-development/selfcert-create-a-self-signed-certificate-interactively-gui-or-programmatically-in-net).
+Download and install (or portable) [SelfCert](https://www.pluralsight.com/blog/software-development/selfcert-create-a-self-signed-certificate-interactively-gui-or-programmatically-in-net).
 
-Select:
+Select the following after starting the app:
 ```
 x.500 distinguished name: cn=name_here,o=org_here,e=email@example.com
 
@@ -87,7 +88,7 @@ Valid from: today
 Valid to: Your choice like 5 up to 10 years
 ```
 
-* Now put in a password in and save as PFX
+Now put in a password in and save as PFX
 
 ```
 CN = Microsoft Windows Hardware Compatibility PCA
@@ -98,11 +99,11 @@ C = US
 E = Your Email
 ```
 
-* OK now that you have your PFX, you can generate a CAT for your modded driver and sing it (you will need the latest Windows Driver Kit)
-*	```
+OK, now that you have your PFX, you can generate a CAT for your modded driver and sing it (you will need the latest Windows Driver Kit)
+```
 	Re-generate a new CAT with Inf2Cat like
 	Inf2Cat /driver:<path_to_folder_with_INF_&_Files> /os:Vista_X86,Vista_X64,Server2008_X86,Server2008_X64,7_X86,7_X64,Server8_X64,8_X86,8_X64,Server6_3_X64,6_3_X86,6_3_X64
-	```
+```
 *	Sign the new CAT with your PFX
 	signtool sign `/f <filename>.pfx /p <password> "<path_to_folder>\nv_disp.cat"`
 *	Timesamp your CAT file
