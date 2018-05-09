@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\NVIDIA Corporation\Global\FTS]
+"EnableRID44231"=dword:00000001
+"EnableRID64640"=dword:00000001
+"EnableRID66610"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\NVIDIA Corporation\NvControlPanel2\Client]
+"OptInOrOutPreference"=dword:00000001

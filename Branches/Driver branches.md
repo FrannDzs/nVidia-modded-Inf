@@ -1,4 +1,4 @@
-Driver | Branch | Date | Release Note | Comment 
+Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | --- 
 397.64 | r397_05-25  | 05/07/2018 | [Release Notes](http://us.download.nvidia.com/Windows/397.64/397.64-win10-win8-win7-desktop-release-notes.pdf) | Official 
 391.58 | r391_05-20  | 04/30/2018 | // | Last driver support Fermi Cards
