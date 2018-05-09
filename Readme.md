@@ -38,7 +38,7 @@ Modded drivers will NEVER transform your GPU to another one and will NEVER add f
 Remove old nVidia drivers
 ===================
 
-* Extract [Display Driver Uninstaller (DDU)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/tools) and start it, boot into safe mode and clean it. You not need to uninstall the driver or any package via Windows own uninstaller program first. Keep in mind that DDU should only be used in case you get troubles while uninstalling the driver with nvidia's own Setup, it's not recommed and needed to use DDU as 'normal' driver removal, nVidia's own setup routine usually does the job fine.
+* Extract [Display Driver Uninstaller (DDU)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/tools) and start it, boot into safe mode and clean it. You not need to uninstall the driver or any package via Windows own uninstaller program first. Keep in mind that DDU should only be used in case you get troubles while uninstalling the driver with nVidia's own Setup, it's not recommend and needed to use DDU as 'normal' driver removal, nVidia's own setup routine usually does the job fine.
 * Reboot Windows and install your modded nVidia driver, if the driver isn't signed you need to do it yourself or disable driver signature enforcement under Windows.
 
 
@@ -46,9 +46,9 @@ Remove old nVidia drivers
 Modded Inf Driver installation
 ===================
 
-* Download and extract the Driver (download from official source) - wait until the installer has unzipped the files e.g. to C:\Nvidia
-* Search for e.g. "nv_disp.cat" (or corresponding file) in 'Display.Driver Folder'
-* Follow the Video instruction to install the certificate
+* Download and extract the Driver (download from official source) - wait until the installer has unzipped the files e.g. to `C:\Nvidia`.
+* Search for e.g. "nv_disp.cat" (or corresponding file) in 'Display.Driver Folder'.
+* Follow the Video/written instruction to install the certificate manually (optional).
 * Now you can install all my modded drivers, without disabling 'driver signature enforcement' in Windows.
 
 
@@ -125,6 +125,10 @@ All information regarding to the driver bundled telemetry can be found under the
 
 It's not necessary to block telemetry with your firewall, since you can manually opt-out, install a 'crap free' version or remove the folders/services manually. It's also unclear if blocking with firewall is effective since the data are tunneled transmitted + encrypted [needs confirmation]. 
 
+
+
+Release
+======
 
 The latest Vulkan Runtimes and de-bloated Drivers can be found under the [release page](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases). 
 
