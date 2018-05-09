@@ -113,13 +113,15 @@ E = Your Email
 Telemetry
 ======
 
-All information regarding to the driver bundled telemetry can be found under the `/Telemetry & Crap free` folder.
+All information regarding to the driver bundled telemetry can be found under the `/Telemetry & Crap free` folder. 
+
+It's not necessary to block telemetry with your firewall, since you can manually opt-out, install a 'crap free' version or remove the folders/services manually. It's also unclear if blocking with firewall is effective since the data are tunneled transmitted + encrypted [needs confirmation]. 
 
 
 
 ## Acknowledgements and References
-* https://github.com/Wagnard/display-drivers-uninstaller
-* http://forums.guru3d.com/showthread.php?t=377158
-* https://laptopvideo2go.com/
-* https://forums.geforce.com/default/topic/467215/geforce-driver-installation-guide-a-guide-to-ensure-your-drivers-are-installed-properly-/
-* https://forums.geforce.com/default/topic/862424/geforce-drivers/windows-10-faq-and-driver-installation-tips-/
+* [DDU Source Code](https://github.com/Wagnard/display-drivers-uninstaller)
+* [Nvidia INF driver modding](http://forums.guru3d.com/showthread.php?t=377158)
+* [LaptopVideo2Go](https://laptopvideo2go.com/)
+* [GeForce Driver Installation Guide A guide to ensure your drivers are installed properly.](https://forums.geforce.com/default/topic/467215/geforce-driver-installation-guide-a-guide-to-ensure-your-drivers-are-installed-properly-/)
+* [Windows 10 FAQ and Driver installation tips](https://forums.geforce.com/default/topic/862424/geforce-drivers/windows-10-faq-and-driver-installation-tips-/)
