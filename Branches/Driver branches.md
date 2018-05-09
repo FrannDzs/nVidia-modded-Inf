@@ -17,4 +17,4 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment
 
 * Hotfix drivers are always Beta.
 ** All drivers are WHQL unless there test/NDA or Hotfix drivers. Since Windows requires to sign all driver, otherwise you get the popup warning.
-*** x86 will be shutdown official by nvidia.
+*** [x86 will be shutdown official by nVidia](https://www.phoronix.com/scan.php?page=news_item&px=32-bit-NVIDIA-Drop-Dropping).
