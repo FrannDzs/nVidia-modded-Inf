@@ -15,10 +15,11 @@ rd /s /q NV3DVisionUSB.Driver
 rd /s /q NvCamera
 rd /s /q NvVAD
 rd /s /q NVWMI
+rd /s /q NvvHCI
+rd /s /q NvContainer
 rd /s /q ShadowPlay
 rd /s /q ShieldWirelessController
 rd /s /q Update.Core
 rd /s /q nodejs
 rd /s /q NvBackend
 rd /s /q NvTelemetry
-rd /s /q NvvHCI
