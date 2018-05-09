@@ -108,8 +108,8 @@ E = Your Email
 
 OK, now that you have your PFX, you can generate a CAT for your modded driver and sing it (you will need the latest Windows Driver Kit)
 ```
-	Re-generate a new CAT with Inf2Cat like
-	Inf2Cat /driver:<path_to_folder_with_INF_&_Files> /os:Vista_X86,Vista_X64,Server2008_X86,Server2008_X64,7_X86,7_X64,Server8_X64,8_X86,8_X64,Server6_3_X64,6_3_X86,6_3_X64
+Re-generate a new CAT with Inf2Cat with:
+Inf2Cat /driver:<path_to_folder_with_INF_&_Files> /os:Vista_X86,Vista_X64,Server2008_X86,Server2008_X64,7_X86,7_X64,Server8_X64,8_X86,8_X64,Server6_3_X64,6_3_X86,6_3_X64
 ```
 *	Sign the new CAT with your PFX
 	signtool sign `/f <filename>.pfx /p <password> "<path_to_folder>\nv_disp.cat"`
@@ -126,7 +126,10 @@ All information regarding to the driver bundled telemetry can be found under the
 It's not necessary to block telemetry with your firewall, since you can manually opt-out, install a 'crap free' version or remove the folders/services manually. It's also unclear if blocking with firewall is effective since the data are tunneled transmitted + encrypted [needs confirmation]. 
 
 
-The latest Vulkan Runtimes and de-bloated Drivers can be found under the [release page](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases).
+The latest Vulkan Runtimes and de-bloated Drivers can be found under the [release page](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases). 
+
+
+**Do not request new drivers/runtimes/inf via Issue ticket, it will result in a permanent project ban!** 
 
 
 
