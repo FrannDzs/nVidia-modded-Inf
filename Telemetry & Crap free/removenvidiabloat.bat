@@ -1,6 +1,7 @@
 rd /s /q Display.Optimus
 rd /s /q Display.NView
 rd /s /q Display.Update
+rd /s /q DisplayDriverCrashAnalyzer
 rd /s /q GFExperience
 rd /s /q GFExperience.NvStreamSrv
 rd /s /q GfExperienceService
