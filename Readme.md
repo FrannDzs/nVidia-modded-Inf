@@ -143,3 +143,4 @@ The latest Vulkan Runtimes and de-bloated Drivers can be found under the [releas
 * [LaptopVideo2Go](https://laptopvideo2go.com/)
 * [GeForce Driver Installation Guide A guide to ensure your drivers are installed properly.](https://forums.geforce.com/default/topic/467215/geforce-driver-installation-guide-a-guide-to-ensure-your-drivers-are-installed-properly-/)
 * [Windows 10 FAQ and Driver installation tips](https://forums.geforce.com/default/topic/862424/geforce-drivers/windows-10-faq-and-driver-installation-tips-/)
+* [PC Gaming Wiki](https://pcgamingwiki.com/wiki/Home)
