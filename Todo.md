@@ -12,3 +12,4 @@ Overview
 - [x] Add crap free setup.exe under Release? Need to ask GitHub in order to not get trouble.
 - [ ] Removal.png needs to be updated in order to address latest drivers and their folders.
 - [ ] Maybe add nvidia flash guide (short one) and explain how to adjust inf (low-prio) cause flashing is dead since there is no tool anymore for 1xx, 11xx cards and there might never will be one due protection mechanism. Modding is uninteresting without working tools.
+- [ ] Complete the driver <-> inf table list (low-prio)

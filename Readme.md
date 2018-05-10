@@ -25,6 +25,12 @@ nVidia by default don't support laptop GPUs with beta and WHQL driver updates on
 
 For example a Toshiba OEM driver with a Toshiba INF (nvts.inf) will only work with the models included in that INF.
 
+Driver | Inf | Comment
+--- | --- | ---
+Geforce | nv_dispi.inf | //
+Quadro | nv_dispwi.inf | //
+Toshiba OEM | nvts.inf | //
+
 
 Modded drivers will NEVER transform your GPU to another one and will NEVER add features that you do not already have.
 
