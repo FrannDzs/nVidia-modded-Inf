@@ -35,6 +35,13 @@ Toshiba OEM | nvts.inf | //
 Modded drivers will NEVER transform your GPU to another one and will NEVER add features that you do not already have.
 
 
+**Reasons for modding**
+* You like to test a newer driver which is not available for your card.
+* New feature tests.
+* It could be used to force installation of newer drivers on OEM locked GPU's.
+* You need an older driver that is not officially supported for your GPU because you have a specific application that is broken in newer ones and you cannot wait for a fix.
+
+
 **Keep in mind**:
 
 > Fermi GPU's (400 and 500 series) as from 396 driver are official no longer supported!
@@ -150,3 +157,4 @@ The latest Vulkan Runtimes and de-bloated Drivers can be found under the [releas
 * [GeForce Driver Installation Guide A guide to ensure your drivers are installed properly.](https://forums.geforce.com/default/topic/467215/geforce-driver-installation-guide-a-guide-to-ensure-your-drivers-are-installed-properly-/)
 * [Windows 10 FAQ and Driver installation tips](https://forums.geforce.com/default/topic/862424/geforce-drivers/windows-10-faq-and-driver-installation-tips-/)
 * [PC Gaming Wiki](https://pcgamingwiki.com/wiki/Home)
+* [PCI ID Project](http://pci-ids.ucw.cz/pci.ids)
