@@ -1,3 +1,5 @@
+rem Put this file into the driver folder and execute it. 
+rem Removal.png shows what is safe to remove. 
 rd /s /q Display.Optimus
 rd /s /q Display.NView
 rd /s /q Display.Update
