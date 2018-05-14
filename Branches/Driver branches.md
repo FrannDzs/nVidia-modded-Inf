@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | --- 
+397.64 QNF | R396 U1.5 | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/397.64/397.64-win10-win8-win7-quadro-grid-release-notes.pdf) | [DL](http://www.nvidia.com/download/driverResults.aspx/134074/en-us)
 397.76 Vulkan Dev | VK396_42-37 | 05/11/2018 | Pick up the latest fixes from general release driver 397.64 |
 397.64 QNF | r397_05-25 | 05/07/2018 | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/397.64/397.64-win10-win8-win7-quadro-grid-release-notes.pdf) | Official 
 397.64 | r397_05-25  | 05/07/2018 | [Release Notes](http://us.download.nvidia.com/Windows/397.64/397.64-win10-win8-win7-desktop-release-notes.pdf) | Official 
@@ -16,9 +17,9 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment
 391.01 | r390_99-2   | 02/23/2018 | // | //
 390.85 | r390_00-168 | 01/22/2018 | // | //
 390.77 | r390_00-154 | 01/23/2018 | // | // 
-377.55 | // | // | // | Offical 
+377.55 | // | // | // | Official 
 368.86 | // | // | // | Official
-342.01 Quadro | // | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/342.01/342.01-win10-quadro-release-notes.pdf) | Official 
+342.01 QNF | // | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/342.01/342.01-win10-quadro-release-notes.pdf) | Official 
 
 
 * Hotfix drivers are always Beta.
