@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | --- 
+398.82 | r398_75-7 | 07/30/2018 | [Release Notes](http://uk.download.nvidia.com/Windows/398.82/398.82-win10-win8-win7-desktop-release-notes.pdf) | Official
 398.46 | r398_35-3 | 24.21.13.9846 (07-03-2018) | Black Textures in Wolfenstein II: The New Colossus | Hotfix Driver for 398.36 WHQL
 398.36 | r398_35-2 | 24.21.13.9836 (06-24-2018) | [Release Notes](http://us.download.nvidia.com/Windows/398.36/398.36-win10-win8-win7-desktop-release-notes.pdf) | Official
 398.18 | R398.18 (r397_91-11) | 24.21.13.9818 (06-06-2018) | [Original Source](http://nvidia.custhelp.com/app/answers/detail/a_id/4678) | Beta HotFix Driver which fixes Black Screen when booting Windows after installing 397.93 display driver
