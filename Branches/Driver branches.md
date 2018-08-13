@@ -1,6 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | --- 
-398.98 | r398_75-11 | // | [Release Notes](https://nvidia.custhelp.com/app/answers/detail/a_id/4694) | Beta Hotfix 
+398.98 | r398_75-11 | 08/09/2018 | [Release Notes](https://nvidia.custhelp.com/app/answers/detail/a_id/4694) | Beta Hotfix 
 398.86 | r398_75-8 | 08/02/2018 | [Release Notes](https://nvidia.custhelp.com/app/answers/detail/a_id/4693) | Beta 
 398.82 | r398_75-7 | 07/30/2018 | [Release Notes](http://uk.download.nvidia.com/Windows/398.82/398.82-win10-win8-win7-desktop-release-notes.pdf) | Official
 398.46 | r398_35-3 | 24.21.13.9846 (07-03-2018) | Black Textures in Wolfenstein II: The New Colossus | Hotfix Driver for 398.36 WHQL
