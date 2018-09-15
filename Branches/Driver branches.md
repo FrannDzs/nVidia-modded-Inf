@@ -4,7 +4,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment
 410.35 | ? | ? | // | NDA driver, not officially released
 400.04 | ? | ? | // | NDA driver, not officially released
 399.24 | r399_07-8 | 09/05/2018 | [Release Notes](http://us.download.nvidia.com/Windows/399.24/399.24-win10-win8-win7-desktop-release-notes.pdf) | Official
-399.28 | VK_? | 09/10/2018 | Developer branch, see [here](https://developer.nvidia.com/vulkan-driver) | Vulkan
+399.28 | VK_396_42-53 | 7/09/2018 | Developer branch, see [here](https://developer.nvidia.com/vulkan-driver) | Vulkan
 399.17 | VK396.42-50 | // | Developer branch, see [here](https://developer.nvidia.com/vulkan-driver) | Vulkan
 399.07 | r396_00-312 | 08/21/2018 | [Release Notes](https://www.guru3d.com/files-get/geforce-399-07-whql-driver-download,5.html) | Official
 398.98 | r398_75-11 | 08/09/2018 | [Release Notes](https://nvidia.custhelp.com/app/answers/detail/a_id/4694) | Beta Hotfix 
