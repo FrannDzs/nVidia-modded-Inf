@@ -1,6 +1,8 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | --- 
 411.51 | r400_00-280 | 08/21/2018 | NDA Turing Test Driver | [RTX 2080 driver for 3DMark](https://www.3dmark.com/spy/4404946) | Not released for public 
+410.35 | ? | ? | // | NDA driver, not officially released
+400.04 | ? | ? | // | NDA driver, not officially released
 399.24 | r399_07-8 | 09/05/2018 | [Release Notes](http://us.download.nvidia.com/Windows/399.24/399.24-win10-win8-win7-desktop-release-notes.pdf) | Official
 399.28 | VK_? | 09/10/2018 | Developer branch, see [here](https://developer.nvidia.com/vulkan-driver) | Vulkan
 399.17 | VK396.42-50 | // | Developer branch, see [here](https://developer.nvidia.com/vulkan-driver) | Vulkan
@@ -33,6 +35,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment
 391.01 | r390_99-2   | 02/23/2018 | // | //
 390.85 | r390_00-168 | 01/22/2018 | // | //
 390.77 | r390_00-154 | 01/23/2018 | // | // 
+388.59 | ? | ? | // | NDA driver, not officially released
 377.55 | // | // | // | Official 
 368.86 | // | // | // | Official
 342.01 QNF | // | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/342.01/342.01-win10-quadro-release-notes.pdf) | Official 
