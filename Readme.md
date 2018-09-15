@@ -7,7 +7,7 @@
 
 This project is unofficial and not in any relationship or supported by nVidia Cooperation. 
 
-This project only support x64 Windows versions, if you like to see x86 ask nVidia to extend the support or make a pull request. 
+This project only support x64 Windows 10 versions, if you like to [see x86 ask nVidia to extend the support](https://www.anandtech.com/show/12191/nvidia-to-cease-driver-development-for-32bit-operating-systems) or make a pull request. 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
@@ -63,7 +63,7 @@ Troubleshoot
 ===================
 
 
-Before you install unsigned drivers:
+Before you install unsigned drivers, you have to manually set these parameters via adminstrative command prompt:
 
 ```
 bcdedit -set loadoptions DISABLE_INTEGRITY_CHECKS
@@ -139,7 +139,7 @@ Release
 The latest Vulkan Runtimes and de-bloated Drivers can be found under the [release page](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases). 
 
 
-**Do not request new drivers/runtimes/inf via Issue ticket, it will result in a permanent project ban!** 
+**Do not request new drivers/runtimes or .inf via the GitHub issue ticket, it will result in a permanent project ban!** 
 
 
 
