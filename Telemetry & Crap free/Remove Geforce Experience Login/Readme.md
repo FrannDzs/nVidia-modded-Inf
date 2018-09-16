@@ -50,8 +50,14 @@ w.handleLoggedIn({
 Enable ShadowPlay Share-Button
 -------------------------------
 
+This works only until GFE <3.13.
+
 ```bash
 K.isShareSupported = !1, K.isShareButtonClicked = !1
+
+or
+
+if(e.domains.list.indexOf(n)>-1)return!0}return!1},A.isLeftPaneVisible=function(){return!("choose"===A.nvActiveAuthView&&T)},E()
 ```
 
 
