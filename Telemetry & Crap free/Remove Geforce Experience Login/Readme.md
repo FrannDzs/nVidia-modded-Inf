@@ -50,7 +50,7 @@ w.handleLoggedIn({
 Enable ShadowPlay Share-Button
 -------------------------------
 
-This works only until GFE <3.13.
+This works only until [GFE <3.13](https://www.filehorse.com/download-nvidia-geforce-experience/34291/).
 
 ```bash
 K.isShareSupported = !1, K.isShareButtonClicked = !1
