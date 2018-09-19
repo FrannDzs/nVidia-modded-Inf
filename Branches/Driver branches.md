@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | --- 
+399.32 | // | // | [Vulkan](https://developer.nvidia.com/vulkan-driver) | Linux 396.54.06 
 411.51 | r400_00-280 | 08/21/2018 | NDA Turing Test Driver | [RTX 2080 driver for 3DMark](https://www.3dmark.com/spy/4404946) | Not released for public 
 410.35 | ? | ? | // | NDA driver, not officially released
 400.04 | ? | ? | // | NDA driver, not officially released
