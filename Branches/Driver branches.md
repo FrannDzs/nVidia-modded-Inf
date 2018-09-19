@@ -3,7 +3,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment
 411.63 | r411_58-3 | 09/19/2018 | [Release Notes](http://us.download.nvidia.com/Windows/411.63/411.63-win10-win8-win7-desktop-release-notes.pdf) | First official 400.x driver (no new CP)
 399.32 | // | // | [Vulkan](https://developer.nvidia.com/vulkan-driver) | Linux 396.54.06 
 411.51 | r400_00-280 | 08/21/2018 | NDA Turing Test Driver | [RTX 2080 driver for 3DMark](https://www.3dmark.com/spy/4404946) | Not released for public incl. idle power bug
-411.17 | ? | 08/21/2018 | NDA Turing Test Driver | NDA driver, not officially released
+411.17 | r400_00-280 | 08/21/2018 | NDA Turing Test Driver | NDA driver, not officially released
 410.35 | ? | ? | // | NDA driver, not officially released
 400.04 | ? | ? | // | NDA driver, not officially released
 399.24 | r399_07-8 | 09/05/2018 | [Release Notes](http://us.download.nvidia.com/Windows/399.24/399.24-win10-win8-win7-desktop-release-notes.pdf) | Official
