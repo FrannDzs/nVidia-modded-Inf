@@ -144,6 +144,7 @@ The latest Vulkan Runtimes and de-bloated Drivers can be found under the [releas
 
 
 ## Acknowledgements and References
+* [NVIDIA Display Driver Feedback](https://surveys.nvidia.com/index.jsp?pi=6e7ea6bb4a02641fa8f07694a40f8ac6)
 * [DDU Source Code](https://github.com/Wagnard/display-drivers-uninstaller)
 * [Nvidia INF driver modding](http://forums.guru3d.com/showthread.php?t=377158)
 * [LaptopVideo2Go](https://laptopvideo2go.com/)
