@@ -127,9 +127,11 @@ Inf2Cat /driver:<path_to_folder_with_INF_&_Files> /os:Vista_X86,Vista_X64,Server
 Telemetry
 ======
 
-All information regarding to the driver bundled telemetry can be found under the `/Telemetry & Crap free` folder. 
+All information regarding driver bundled telemetry can be found under the `/Telemetry & Crap free` folder. 
 
-It's not necessary to block telemetry with your firewall, since you can manually opt-out, install a 'crap free' version or remove the folders/services manually. It's also unclear if blocking with firewall is effective since the data are tunneled transmitted + encrypted [needs confirmation]. 
+It's not necessary to block telemetry with your firewall, since you can manually opt-out or install a '[crap free](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases)' version, you also can remove the unneeded folders/services manually. 
+
+At this point it's unclear if blocking the telemetry with firewall is _effective_ since the submitted data are tunneled + encrypted [needs final confirmation]. 
 
 
 
