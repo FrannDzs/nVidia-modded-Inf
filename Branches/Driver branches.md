@@ -24,6 +24,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment
 397.76 Vulkan Dev | VK396_42-37 | 05/11/2018 | Pick up the latest fixes from general release driver 397.64 |
 397.64 QNF | r397_05-25 | 05/07/2018 | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/397.64/397.64-win10-win8-win7-quadro-grid-release-notes.pdf) | Official 
 397.64 | r397_05-25  | 05/07/2018 | [Release Notes](http://us.download.nvidia.com/Windows/397.64/397.64-win10-win8-win7-desktop-release-notes.pdf) | Official 
+392.00 | // | 31/08/2018 | // | Quadro
 391.58 | r391_05-20  | 04/30/2018 | // | Last driver support Fermi Cards
 391.58 QNF | R390 U5 | 04/30/2018 | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/391.58/391.58-win10-win8-win7-quadro-grid-release-notes.pdf) | //
 397.55 | r397_05-20  | 05/03/2018 | // | Removed and replaced with 397.64
