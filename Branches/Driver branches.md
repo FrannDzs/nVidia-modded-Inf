@@ -44,7 +44,8 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment
 391.35 | r391_33-2   | 03/23/2018 | // | //
 391.24 | r390_99-9   | 03/15/2018 | // | //
 391.05 | r390_99-5   | 02/28/2018 | // | //
-391.01 | r390_99-2   | 02/23/2018 | // | //
+391.03 | r390_99-3   | 02/23/2018 | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/391.03/391.03-win10-win8-win7-quadro-grid-release-notes.pdf) | Quadro
+391.01 | r390_99-2   | 02/23/2018 | [Release Notes](http://us.download.nvidia.com/Windows/391.01/391.01-win10-win8-win7-notebook-release-notes.pdf) | Mobile OEM
 390.85 | r390_00-168 | 01/22/2018 | // | //
 390.77 | r390_00-154 | 01/23/2018 | // | // 
 388.59 | ? | ? | // | NDA driver, not officially released
