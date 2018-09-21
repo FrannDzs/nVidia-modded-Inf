@@ -1,5 +1,5 @@
 rem Put this file into the driver folder and execute it. 
-rem Removal.png shows what is safe to remove. 
+rem Removal.png (in the Telemetry & Crap free folder) shows your what is safe to remove. 
 rd /s /q Display.Optimus
 rd /s /q Display.NView
 rd /s /q Display.Update
@@ -16,9 +16,11 @@ rd /s /q NV3DVision
 rd /s /q NV3DVisionUSB.Driver
 rd /s /q NvCamera
 rd /s /q NvVAD
+rd /s /q NvAbHub
 rd /s /q NVWMI
 rd /s /q NvvHCI
 rd /s /q NvContainer
+rd /s /q NGXCore
 rd /s /q ShadowPlay
 rd /s /q ShieldWirelessController
 rd /s /q Update.Core
