@@ -32,10 +32,15 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment
 397.55 | r397_05-20  | 05/03/2018 | // | Removed and replaced with 397.64
 397.54 Vulkan Beta | VK396_42-34 | // | SVP has no GPU acceleration
 391.48 | // | 04/17/2018 | [Download via WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2018/05/bc495c55-00f6-4d5c-bda3-1e543e3bf918_5cccc0d89fc63f9417aaca3b95c5d325fe1ec8ae.cab) | MSI mobile
-397.31 | r397_05-13  | 04/22/2018 | [Release Notes](https://us.download.nvidia.com/Windows/397.31/397.31-win10-win8-win7-desktop-release-notes.pdf) | First official WDDM 2.4 driver. Removed and replaced with 397.55.
 391.35 | r391_33-2   | 03/23/2018 | [Release Notes](http://us.download.nvidia.com/Windows/391.35/391.35-win10-win8-win7-desktop-release-notes.pdf) | OEM mobile
+391.34 | //  | 03/23/2018 | [Download via WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2018/04/bc16ee24-1e09-4433-9af0-b7b1232f6940_5180892ce1abb2d4b63d8bf6903a093598522cf4.cab) | Gigabyte Mobile
+391.33 | //  | 03/15/2018 | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/391.33/391.33-win10-win8-win7-quadro-grid-release-notes.pdf) | Quadro
+397.31 | r397_05-13  | 04/22/2018 | [Release Notes](https://us.download.nvidia.com/Windows/397.31/397.31-win10-win8-win7-desktop-release-notes.pdf) | First official WDDM 2.4 driver. Removed and replaced with 397.35.
+391.29 | //  | 03/19/2018 | [Download via WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2018/04/119118e0-af1e-4507-bb87-bb2a10a15ae7_b9a151c597361111294935a9ff8b43baa2b15700.cab) | Acer
+391.26 | //  | 03/16/2018 | [Download via WUS](https://www.catalog.update.microsoft.com/Search.aspx?q=23.21.13.9126) | Fujitsu Quadro Mobile
+391.25 | //   | 03/16/2018 | [Download via WUS](https://www.catalog.update.microsoft.com/Search.aspx?q=23.21.13.9125) | Lenovo
 391.24 | r390_99-9   | 03/15/2018 | // | //
-391.05 | r390_99-5   | 02/28/2018 | // | //
+391.05 | r390_99-5   | 02/28/2018 | // | Mobile OEM Hotfix
 391.35 | r391_33-2   | 03/23/2018 | // | //
 391.24 | r390_99-9   | 03/15/2018 | // | //
 391.05 | r390_99-5   | 02/28/2018 | // | //
