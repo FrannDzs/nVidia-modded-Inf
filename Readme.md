@@ -44,7 +44,7 @@ Modded drivers will NEVER transform your GPU to another one and will NEVER add f
 Remove old nVidia drivers
 ===================
 
-* Extract [Display Driver Uninstaller (DDU)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/tools) and start it, boot into safe mode and let DDU auto-clean and restart you. You not need to uninstall the driver or any package via Windows own uninstaller program firstwhen you use DDU but keep in mind that **DDU should only be used in case you get troubles while uninstalling/installing the driver with nVidia's own Setup**, it's not recommend and needed to use DDU as 'normal' driver removal, nVidia's own setup routine usually does the job fine.
+* Extract [Display Driver Uninstaller (DDU)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/tools) and start it, boot into safe mode and let DDU auto-clean and restart you. You not need to uninstall the driver or any package via Windows own uninstaller program first when you use DDU but keep in mind that **DDU should only be used in case you get troubles while uninstalling/installing the driver with nVidia's own Setup**, it's not recommend and needed to use DDU as 'normal' driver removal, nVidia's own setup routine usually does the job fine.
 * Reboot Windows and install your modded nVidia driver, if the driver isn't signed you need to do it yourself or disable driver signature enforcement under Windows.
 
 
@@ -63,7 +63,7 @@ Troubleshoot
 ===================
 
 
-Before you install unsigned drivers, you have to manually set these parameters via adminstrative command prompt:
+Before you install unsigned drivers, you have to manually set these parameters via administrative command prompt:
 
 ```
 bcdedit -set loadoptions DISABLE_INTEGRITY_CHECKS
@@ -88,7 +88,7 @@ After executing these two commands you need to reboot Windows in order to apply 
 How to sign your driver?
 ===================
 
-Download and install (or portable) [SelfCert](https://www.pluralsight.com/blog/software-development/selfcert-create-a-self-signed-certificate-interactively-gui-or-programmatically-in-net).
+Download and install (or use the portable) [SelfCert](https://www.pluralsight.com/blog/software-development/selfcert-create-a-self-signed-certificate-interactively-gui-or-programmatically-in-net).
 
 Select the following after starting the app:
 ```
@@ -131,6 +131,8 @@ All information regarding driver bundled telemetry can be found under the `/Tele
 
 It's not necessary to block telemetry with your firewall, since you can manually opt-out or install a '[crap free](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases)' version, you also can remove the unneeded folders/services manually. 
 
+The Guru3d user [uKER](https://forums.guru3d.com/members/uker.96766/) programmed a little utility called [NVSlimmer](https://forums.guru3d.com/threads/nvidia-driver-slimming-utility.423072/) which allows you (via GUI) to remove the _unneeded_ folders/features - it's basically the same as doing it via a batch/cmd but with an simple interface to allow you to manually select all folders based on your own 'removal needs', the program includes also an integrated required list in order to warn user what is really necessary to keep in order to use the driver. 
+
 At this point it's unclear if blocking the telemetry with firewall is _effective_ since the submitted data are tunneled + encrypted [needs final confirmation]. 
 
 
@@ -141,11 +143,11 @@ Release
 The latest Vulkan Runtimes and de-bloated Drivers can be found under the [release page](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases). 
 
 
-**Do not request new drivers/runtimes or .inf via the GitHub issue ticket, it will result in a permanent project ban!** 
+**Do not request new drivers/runtimes or .inf files via the GitHub issue ticket, it will result in a permanent project ban!** 
 
 
 
-## Acknowledgements and References
+## Acknowledgement and References
 * [NVIDIA Display Driver Feedback](https://surveys.nvidia.com/index.jsp?pi=6e7ea6bb4a02641fa8f07694a40f8ac6)
 * [DDU Source Code](https://github.com/Wagnard/display-drivers-uninstaller)
 * [Nvidia INF driver modding](http://forums.guru3d.com/showthread.php?t=377158)
