@@ -59,6 +59,14 @@ Modded Inf Driver installation
 
 
 
+How to show current driver branch?!
+===================
+
+* Download [nVidia Inspector](https://www.softpedia.com/get/System/System-Info/NVIDIA-Inspector.shtml)
+* Check the Overview Window under "Driver version" you see the installed driver branch. 
+
+
+
 Troubleshoot
 ===================
 
