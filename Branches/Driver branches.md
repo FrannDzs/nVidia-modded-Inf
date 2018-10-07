@@ -56,8 +56,9 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment
 342.01 QNF | // | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/342.01/342.01-win10-quadro-release-notes.pdf) | Official 
 
 
-* Hotfix drivers are always Beta.
-* All drivers are WHQL unless there test/NDA or Hotfix drivers. Since Windows requires to sign all driver, otherwise you get the popup warning.
+* Hotfix drivers are always Beta same as Vulkan test drivers.
+* All drivers are WHQL unless there test/NDA or Hotfix drivers. Since Windows requires to sign all driver, otherwise you get the popup warning that the driver can't be installed or that you have agree to install a beta driver. 
 * [x86 will be shutdown official by nVidia](https://www.phoronix.com/scan.php?page=news_item&px=32-bit-NVIDIA-Drop-Dropping).
 * Test drivers are always NDA unless there is an official release
 * You can see the Branch of the current driver with e.g. [nVidia Inspector](https://www.techpowerup.com/download/nvidia-inspector/)
+* [Quadro Driver Branch History for Windows](https://www.nvidia.com/object/quadro-branch-history-table.html)
