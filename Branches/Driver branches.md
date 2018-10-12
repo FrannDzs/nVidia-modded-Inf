@@ -1,6 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | --- 
-416.34 | // | // | [Release Notes](http://us.download.nvidia.com/Windows/416.34/416.34-win10-win8-win7-desktop-release-notes.pdf) | 
+416.34 | // | 10/10/2018 | [Release Notes](http://us.download.nvidia.com/Windows/416.34/416.34-win10-win8-win7-desktop-release-notes.pdf) | 
 416.16 | r416_10-4 | 10/02/2018 | [Release Notes](http://us.download.nvidia.com/Windows/416.16/416.16-win10-win8-win7-desktop-release-notes.pdf) | Official Game Ready, first WDDM 2.5 driver (October Update+)
 411.70 | r411_58-9 | 09/25/2018 | [Release Notes](http://us.download.nvidia.com/Windows/411.70/411.70-win10-win8-win7-desktop-release-notes.pdf) | 1.500 RPM fan in IDLE (known bug)
 411.63 | r411_58-3 | 09/05/2018 | [Release Notes](http://us.download.nvidia.com/Windows/411.63/411.63-win10-win8-win7-desktop-release-notes.pdf) | First official 400.x driver (no new CP), 1.500 RPM fan + energy bug is still present for Turing GPU's + Quadro
