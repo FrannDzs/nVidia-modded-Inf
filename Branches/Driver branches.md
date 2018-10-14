@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | --- 
+399.41 | // 10/10/2018 | [Vulkan](https://developer.nvidia.com/vulkan-driver) | + Linux 396.54.09 beta, both Vulkan 1.1 
 416.34 | r416_27-3 | 10/10/2018 | [Release Notes](http://us.download.nvidia.com/Windows/416.34/416.34-win10-win8-win7-desktop-release-notes.pdf) | Bugfix
 416.16 | r416_10-4 | 10/02/2018 | [Release Notes](http://us.download.nvidia.com/Windows/416.16/416.16-win10-win8-win7-desktop-release-notes.pdf) | Official Game Ready, first WDDM 2.5 driver (October Update+)
 411.70 | r411_58-9 | 09/25/2018 | [Release Notes](http://us.download.nvidia.com/Windows/411.70/411.70-win10-win8-win7-desktop-release-notes.pdf) | 1.500 RPM fan in IDLE (known bug)
