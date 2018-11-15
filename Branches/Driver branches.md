@@ -1,6 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | --- 
-416.94 | // | // | [Release Notes](http://fr.download.nvidia.com/Windows/416.94/416.94-win10-win8-win7-desktop-release-notes.pdf) | Doesn't fix a security hole, see [here](https://nvidia.custhelp.com/app/answers/detail/a_id/4738)
+416.94 | r416_69-12 | // | [Release Notes](http://fr.download.nvidia.com/Windows/416.94/416.94-win10-win8-win7-desktop-release-notes.pdf) | Doesn't fix a security hole, see [here](https://nvidia.custhelp.com/app/answers/detail/a_id/4738)
 416.81 | // | // | [Release Notes](http://us.download.nvidia.com/Windows/416.81/416.81-win10-win8-win7-notebook-release-notes.pdf) | Battlefield V driver
 416.76 | r416_69-4 | 30/10/2018 | [Forum](https://www.hwupgrade.it/forum/showthread.php?t=2861362&page=298) | [Unofficial](https://nvcc.s3.amazonaws.com/416.76-desktop-win10-64bit.zip) WDDM 2.5
 416.64 | r416_27-7 | // | [Release Notes](https://nvidia.custhelp.com/app/answers/detail/a_id/4736?linkId=100000003882617) | 
