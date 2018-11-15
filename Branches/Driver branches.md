@@ -69,3 +69,4 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment
 * Test drivers are always NDA unless there is an official release
 * You can see the Branch of the current driver with e.g. [nVidia Inspector](https://www.techpowerup.com/download/nvidia-inspector/)
 * [Quadro Driver Branch History for Windows](https://www.nvidia.com/object/quadro-branch-history-table.html)
+* DHC = Windows 10 in S Mode (App Store), the INF is way smaller as not as many files are needed to be messed about with and uninstall somehow happens differently
