@@ -140,7 +140,11 @@ All information regarding driver bundled telemetry can be found under the `/Tele
 
 It's not necessary to block telemetry with your firewall, since you can manually opt-out or install a '[crap free](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases)' version and you also can remove the unneeded folders/services manually. 
 
+
 The Guru3d user [uKER](https://forums.guru3d.com/members/uker.96766/) programmed a little utility called [NVSlimmer](https://forums.guru3d.com/threads/nvidia-driver-slimming-utility.423072/) which allows you (via GUI) to remove the _unneeded_ folders/features - it's basically the same as doing it via a batch/cmd but with an simple interface to allow you to manually select all folders based on your own 'removal needs', the program includes also an integrated required list in order to warn user what is really necessary to keep in order to use the driver. 
+
+Another program (ripp-off from NVSlimmer) called "NVCleanstall" can be found in the [TechPowerUP forums](https://www.techpowerup.com/forums/threads/nvcleanstall-clean-installer-for-nvidia-drivers-alpha.249085/).  
+
 
 At this point it's unclear if blocking the telemetry with firewall is 100% _effective_ since the submitted data are tunneled + encrypted [needs final confirmation]. 
 
