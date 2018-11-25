@@ -1,7 +1,7 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | --- 
 416.83 | // | 11/05/2018 | VIA [WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2018/11/1187e881-b300-4439-bb54-57f95c93eca2_7207ebb04a18b38102d026360845051b3e555f0a.cab) | HP mobile driver
-416.58 | // | 10/23/2018 | WSUS [Quadro](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2018/11/9d56a3c1-6cb4-4d74-b550-2a4def7a40b2_b34140628a0d3fff30d7432ec3acccbcafdfd949.cab) + [GeForce] | HP NVIDIA Quadro P5200 + GTX 1080(http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2018/11/115177b8-5b21-4cf1-a7dc-52b78282f6e7_5cedc72363b26f0964c61447eaf00600e113d66d.cab)
+416.58 | // | 10/23/2018 | WSUS [Quadro](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2018/11/9d56a3c1-6cb4-4d74-b550-2a4def7a40b2_b34140628a0d3fff30d7432ec3acccbcafdfd949.cab) + [GeForce](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2018/11/115177b8-5b21-4cf1-a7dc-52b78282f6e7_5cedc72363b26f0964c61447eaf00600e113d66d.cab) | HP NVIDIA Quadro P5200 + GTX 1080 
 415.18 | // | // | // | Linux Driver - Bugfix Release 
 416.94 | r416_69-12 | // | [Release Notes](http://fr.download.nvidia.com/Windows/416.94/416.94-win10-win8-win7-desktop-release-notes.pdf) | Doesn't fix a security hole, see [here](https://nvidia.custhelp.com/app/answers/detail/a_id/4738)
 416.81 | // | // | [Release Notes](http://us.download.nvidia.com/Windows/416.81/416.81-win10-win8-win7-notebook-release-notes.pdf) | Battlefield V driver
