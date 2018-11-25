@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | --- 
+416.83 | // | 11/05/2018 | VIA [WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2018/11/1187e881-b300-4439-bb54-57f95c93eca2_7207ebb04a18b38102d026360845051b3e555f0a.cab) | HP mobile driver
 415.18 | // | // | // | Linux Driver - Bugfix Release 
 416.94 | r416_69-12 | // | [Release Notes](http://fr.download.nvidia.com/Windows/416.94/416.94-win10-win8-win7-desktop-release-notes.pdf) | Doesn't fix a security hole, see [here](https://nvidia.custhelp.com/app/answers/detail/a_id/4738)
 416.81 | // | // | [Release Notes](http://us.download.nvidia.com/Windows/416.81/416.81-win10-win8-win7-notebook-release-notes.pdf) | Battlefield V driver
