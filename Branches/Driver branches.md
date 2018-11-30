@@ -1,6 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | --- 
-417.21 | // | // | [Release Notes](https://forums.geforce.com/default/topic/1082451/geforce-drivers/announcing-geforce-hotfix-driver-417-21-released-11-29-18-/) | Hotfix Driver
+417.21 | r416_98-4 | 11/29/2018 | [Release Notes](https://forums.geforce.com/default/topic/1082451/geforce-drivers/announcing-geforce-hotfix-driver-417-21-released-11-29-18-/) | Hotfix Driver
 417.17 | VK416_93-10 | 11/27/2018 | [Release Notes](https://developer.nvidia.com/vulkan-driver) | Vulkan 1.1, Linux 415.18.02 
 416.48 | // | 10/17/2018 | None, [WSUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2018/11/0fa3abc0-34b2-472a-ab68-7ea5eec39c75_9ea086e27ddc8bb087d7e437c3907731a081a2c2.cab) | Lenovo mobile 920A - GTX 960A Drivers
 417.01 | r416_98-3 | 11/15/2018 | [Release Notes](http://us.download.nvidia.com/Windows/417.01/417.01-win10-win8-win7-desktop-release-notes.pdf) | Bugfix release, possible low "Memory Data Rate" bug ([new issue](https://i.postimg.cc/tTp5nHZ3/lmao.png)), NVENC bug still present
