@@ -41,6 +41,19 @@ Modded drivers will NEVER transform your GPU to another one and will NEVER add f
 
 
 
+Which are we supposed to use - DCH or Standard drivers?
+===================
+
+Short Answer:
+* DCH represents UWD which you can install via the Windows Store or manually.
+* Standard is the "old" way which you (for now) should prefer since UWD drivers aren't tweakable (in terms of mods) compared to the standard (legacy) drivers.
+
+
+Detailed Answer:
+
+DCH is a collaboration platform supporting the process of commercial forecasting Demand Collaboration Hub (DCH) is a collaboration platform that enables all members of your Sales organization, at the various hierarchical levels, to submit, consolidate and validate their periodic commercial forecast. DCH is fully configurable, allowing you to model the workflow and segment the data between users, in relation to their level of responsibility, to configure your editing form, by selecting and publishing the information that are relevant for your sales organization, to enter commercial forecast at various level of aggregation, with automatic splitting of edited quantities to the level of maximum detail. DCH is part of the SO99+ (Service Optimizer 99+) product suite and more specifically it is complementary to its statistical forecasting functionality, since the statistical forecast may be used as a guidance to support the Sales organization to provide more reliable figures. To support mobility, DCH is available on the web or from any mobile device that your Sales organization may adopt.
+
+
 Remove old nVidia drivers
 ===================
 
