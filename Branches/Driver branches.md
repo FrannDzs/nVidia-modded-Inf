@@ -68,6 +68,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment
 377.55 | // | // | // | Official 
 368.86 | // | // | // | Official
 342.01 QNF | // | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/342.01/342.01-win10-quadro-release-notes.pdf) | Official 
+389.27 | // | // | [Release Notes](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2018/05/7621d9a8-a8e0-442d-8fe4-38eef0949e09_8ad4406d297c0e86f61d1ff26c77b157cae782a2.cab) | Official MS for Clevo systems
 
 
 * Hotfix drivers are always Beta same as Vulkan test drivers.
