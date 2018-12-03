@@ -1,6 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
-417.23 |  // | 11/30/2018 | [Release Notes](https://developer.nvidia.com/vulkan-beta-41723-windows-10) | Vulkan, Linux 415.18.04
+417.23 | VK416_93-11 | 11/30/2018 | [Release Notes](https://developer.nvidia.com/vulkan-beta-41723-windows-10) | Vulkan, Linux 415.18.04
 417.22 | r417_18-3 | 11/29/2018 | [Release Notes](http://us.download.nvidia.com/Windows/417.22/417.22-win10-win8-win7-desktop-release-notes.pdf) | Official - Battlefield V Tides of War Chapter 1: Overture Update
 417.21 | r416_98-4 | 11/29/2018 | [Release Notes](https://forums.geforce.com/default/topic/1082451/geforce-drivers/announcing-geforce-hotfix-driver-417-21-released-11-29-18-/) | Hotfix Driver
 417.17 | VK416_93-10 | 11/27/2018 | [Release Notes](https://developer.nvidia.com/vulkan-driver) | Vulkan 1.1, Linux 415.18.02 
