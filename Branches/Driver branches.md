@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
+417.23 | VK416_93-11 | // | [Release Notes](https://developer.nvidia.com/vulkan-driver) | Bugfix
 416.72 | // | 10/30/2018 | [Release Notes](https://support.lenovo.com/de/de/downloads/ds504938) | Added support for ThinkPad P52 (Machine types: 20M9, 20MA)
 417.23 | VK416_93-11 | 11/30/2018 | [Release Notes](https://developer.nvidia.com/vulkan-beta-41723-windows-10) | Vulkan, Linux 415.18.04
 417.22 | r417_18-3 | 11/29/2018 | [Release Notes](http://us.download.nvidia.com/Windows/417.22/417.22-win10-win8-win7-desktop-release-notes.pdf) | Official - Battlefield V Tides of War Chapter 1: Overture Update
