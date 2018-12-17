@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
+417.44 | // | // | // | //
 417.42 | VK416_93-13 | // | [Release Notes](https://developer.nvidia.com/vulkan-driver) | Vulkan 1.1
 417.35 | r417_18-14 | 12/11/2018 | [Release Notes](http://us.download.nvidia.com/Windows/417.35/417.35-win10-win8-win7-notebook-release-notes.pdf) | Linux [415.23](https://devtalk.nvidia.com/default/topic/1045206/unix-graphics-announcements-and-news/linux-solaris-and-freebsd-driver-415-23-short-lived-branch-release-/) 
 417.23 | VK416_93-11 | // | [Release Notes](https://developer.nvidia.com/vulkan-driver) | Bugfix (re-release) + 415.22 Linux for FreeBSD and Solaris
@@ -78,7 +79,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment
 
 
 * Hotfix drivers are always Beta same as Vulkan test drivers.
-* Desktop and Notebook drivers are identifcal except the Setup.exe (Notebook user don't need to download the Notebook version, just replace the .inf and that's it).
+* Desktop and Notebook drivers are identical except the Setup.exe (Notebook user don't need to download the Notebook version, just replace the .inf and that's it).
 * All drivers are WHQL unless there test/NDA or Hotfix drivers. Since Windows requires to sign all driver, otherwise you get the popup warning that the driver can't be installed or that you have agree to install a beta driver. 
 * [x86 will be shutdown official by nVidia](https://www.phoronix.com/scan.php?page=news_item&px=32-bit-NVIDIA-Drop-Dropping).
 * _Test drivers_ are always [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) unless there is an official release.
