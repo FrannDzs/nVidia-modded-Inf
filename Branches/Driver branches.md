@@ -78,9 +78,11 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment
 
 
 * Hotfix drivers are always Beta same as Vulkan test drivers.
+* Desktop and Notebook drivers are identifcal except the Setup.exe (Notebook user don't need to download the Notebook version, just replace the .inf and that's it).
 * All drivers are WHQL unless there test/NDA or Hotfix drivers. Since Windows requires to sign all driver, otherwise you get the popup warning that the driver can't be installed or that you have agree to install a beta driver. 
 * [x86 will be shutdown official by nVidia](https://www.phoronix.com/scan.php?page=news_item&px=32-bit-NVIDIA-Drop-Dropping).
-* Test drivers are always NDA unless there is an official release
+* _Test drivers_ are always [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) unless there is an official release.
 * You can see the Branch of the current driver with e.g. [nVidia Inspector](https://www.techpowerup.com/download/nvidia-inspector/)
 * [Quadro Driver Branch History for Windows](https://www.nvidia.com/object/quadro-branch-history-table.html)
 * DHC = Windows 10 in S Mode (App Store), the INF is way smaller as not as many files are needed to be messed about with and uninstall somehow happens differently
+* [NVIDIA Control Panel from MS Store (UWP)](https://www.microsoft.com/store/productId/9nf8h0h7wmlt)
