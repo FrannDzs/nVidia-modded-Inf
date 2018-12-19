@@ -1,6 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
-417.35 | // | // | [Release Nots](http://us.download.nvidia.com/Windows/417.35/417.35-win10-win8-win7-desktop-release-notes.pdf) | //
+417.35 | // | // | [Release Nots](http://us.download.nvidia.com/Windows/417.35/417.35-win10-win8-win7-desktop-release-notes.pdf) | Linux 415.25
 417.44 | // | // | // | //
 417.42 | VK416_93-13 | // | [Release Notes](https://developer.nvidia.com/vulkan-driver) | Vulkan 1.1
 417.35 | r417_18-14 | 12/11/2018 | [Release Notes](http://us.download.nvidia.com/Windows/417.35/417.35-win10-win8-win7-notebook-release-notes.pdf) | Linux [415.23](https://devtalk.nvidia.com/default/topic/1045206/unix-graphics-announcements-and-news/linux-solaris-and-freebsd-driver-415-23-short-lived-branch-release-/) 
