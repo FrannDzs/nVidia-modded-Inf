@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
+416.72 | // | 10/30/2018 | // | [DL](ftp://ftp.clevo.com.tw/P7xxTMxG/VGA/NV_VGA_181224.zip) Clevo (mobile)
 417.35 | // | // | [Release Notes](http://us.download.nvidia.com/Windows/417.35/417.35-win10-win8-win7-desktop-release-notes.pdf) | WHQL update for NVIDIA_DEV.1E02 = "NVIDIA TITAN RTX" + Linux 415.25
 417.44 | // | // | // | //
 417.42 | VK416_93-13 | // | [Release Notes](https://developer.nvidia.com/vulkan-driver) | Vulkan 1.1
