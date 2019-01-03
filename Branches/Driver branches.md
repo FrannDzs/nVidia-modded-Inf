@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
+340.46 | // | // | // | Removed by nVidia due to many drivers
 417.37 | // | 12/12/2018 | [None, via Wsus](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2019/01/297f51ee-da37-4958-9daa-515c21d5092e_46148bf9cdb3bbe4de251760f34b15c3ce258de9.cab) | HP mobile
 412.16 | // | // | [Release Notes](http://it.download.nvidia.com/Windows/Quadro_Certified/412.16/412.16-win10-win8-win7-quadro-release-notes.pdf) | [Win 10](http://fr.download.nvidia.com/Windows/Quadro_Certified/412.16/412.16-quadro-desktop-notebook-win10-64bit-international-whql.exe) + [Win 8](http://de.download.nvidia.com/Windows/Quadro_Certified/412.16/412.16-quadro-desktop-notebook-win8-win7-64bit-international-whql.exe)
 417.19 | // | 12/17/2018 | None, via [Wsus](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2019/01/9538537c-0ced-41c1-9901-1bdb0569084b_655225da72eb65799d313698c846c61fa68f3324.cab) | Clevo mobile driver
