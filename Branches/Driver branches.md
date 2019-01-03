@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
+417.19 | // | 12/17/2018 | none, via [Wsus](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2019/01/9538537c-0ced-41c1-9901-1bdb0569084b_655225da72eb65799d313698c846c61fa68f3324.cab) | Clevo mobile driver
 410.93 | // | // | // | [Linux](http://de.download.nvidia.com/XFree86/Linux-x86_64/410.93/NVIDIA-Linux-x86_64-410.93.run) + [FreeBSD](http://us.download.nvidia.com/XFree86/FreeBSD-x86_64/410.93/NVIDIA-FreeBSD-x86_64-410.93.tar.gz) + [Solaris](http://fr.download.nvidia.com/solaris/410.93/NVIDIA-Solaris-x86-410.93.run)
 417.58 | r417_18-15 | 12/28/2018 | [Release Notes](http://nvidia.custhelp.com/app/answers/detail/a_id/4758) | Hotfix Driver
 416.72 | // | 10/30/2018 | // | [DL](ftp://ftp.clevo.com.tw/P7xxTMxG/VGA/NV_VGA_181224.zip) Clevo (mobile)
