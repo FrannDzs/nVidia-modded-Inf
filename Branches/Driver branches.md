@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
+410.93 | // | // | // | [Linux](http://de.download.nvidia.com/XFree86/Linux-x86_64/410.93/NVIDIA-Linux-x86_64-410.93.run) + [FreeBSD](http://us.download.nvidia.com/XFree86/FreeBSD-x86_64/410.93/NVIDIA-FreeBSD-x86_64-410.93.tar.gz) + [Solaris](http://fr.download.nvidia.com/solaris/410.93/NVIDIA-Solaris-x86-410.93.run)
 417.58 | r417_18-15 | 12/28/2018 | [Release Notes](http://nvidia.custhelp.com/app/answers/detail/a_id/4758) | Hotfix Driver
 416.72 | // | 10/30/2018 | // | [DL](ftp://ftp.clevo.com.tw/P7xxTMxG/VGA/NV_VGA_181224.zip) Clevo (mobile)
 417.35 | // | // | [Release Notes](http://us.download.nvidia.com/Windows/417.35/417.35-win10-win8-win7-desktop-release-notes.pdf) | WHQL update for NVIDIA_DEV.1E02 = "NVIDIA TITAN RTX" + Linux 415.25
