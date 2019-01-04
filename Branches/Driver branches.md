@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
+412.16 | // | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/412.16/412.16-win10-win8-win7-quadro-release-notes.pdf) | Quadro
 310.54 | // | // | // | Removed by nVidia due to many drivers
 340.46 | // | // | // | Removed by nVidia due to many drivers
 417.37 | // | 12/12/2018 | [None, via Wsus](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2019/01/297f51ee-da37-4958-9daa-515c21d5092e_46148bf9cdb3bbe4de251760f34b15c3ce258de9.cab) | HP mobile
