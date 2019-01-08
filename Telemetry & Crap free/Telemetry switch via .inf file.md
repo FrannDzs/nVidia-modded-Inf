@@ -1,0 +1,1 @@
+It's possible to enable/disable telemetry via .inf file (default set to 1).
