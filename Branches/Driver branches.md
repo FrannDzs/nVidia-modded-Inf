@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
+417.38 | // |12/13/2018 | // | [Lenovo WSUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2019/01/fa8d949a-2b26-4603-9f09-a805d1576b83_defd46c20ef50189b9e84d5db9501e1b95b7e79a.cab)
 417.17 | // | 11/25/2018 | // | [Clevo](ftp://ftp.clevo.com.tw/P7xxTMxG/VGA/NV_VGA_181228.zip)
 417.49 | // | // | // | [MSI WSUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2019/01/c0bfd09f-ada2-412c-bccf-bde4ed9dbffb_035fc896d18a383dd7fa5a01915a9adbd2ee228d.cab)
 417.49 | // | // | // | [Dell](https://downloads.dell.com/FOLDER05380370M/1/NVIDIA-GeForce-GTX-1050Ti-1060-1070-RTX2060-2070_39WJ4_WIN_25.21.14.1749_A00.EXE?uid=c1ff0b3d-b38c-4beb-d3a2-5b34f2ef7477&fn=NVIDIA-GeForce-GTX-1050Ti-1060-1070-RTX2060-2070_39WJ4_WIN_25.21.14.1749_A00.EXE)
