@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
+417.71 | r417_68-4 | 01/11/2019 | [Release Notes](http://us.download.nvidia.com/Windows/417.71/417.71-win10-win8-win7-desktop-release-notes.pdf) | FreeSync driver + Linux 415.27
 417.59 | // | 12/28/2018 | // | [Razer mobile via WSUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2019/01/4db6dd57-a04a-4c4c-85d8-35bb9a4ebec7_d403b2d147d5a56620a77371e4f303c834c8f427.cab)
 417.38 | // | 12/13/2018 | // | [Lenovo WSUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2019/01/fa8d949a-2b26-4603-9f09-a805d1576b83_defd46c20ef50189b9e84d5db9501e1b95b7e79a.cab)
 417.17 | // | 11/25/2018 | // | [Clevo](ftp://ftp.clevo.com.tw/P7xxTMxG/VGA/NV_VGA_181228.zip)
