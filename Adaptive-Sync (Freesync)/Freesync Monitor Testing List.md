@@ -1,0 +1,1 @@
+A overview (community based) is avbl. [here](https://docs.google.com/spreadsheets/d/1YI0RQcymJSY0-LkbjSRGswWpJzVRuK_4zMvphRbh19k/htmlview?sle=true#).
