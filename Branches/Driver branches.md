@@ -1,7 +1,7 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
 417.78 | // | // | // | NDA
-417.63 | VK416_93-19 | 01/03/2019 | via [NVD](https://developer.nvidia.com/vulkan-driver) | 
+417.63 | VK416_93-19 | 01/03/2019 | via [NVD](https://developer.nvidia.com/vulkan-driver) | Linux 415.22.05
 417.75 | r417_68-5 | 01/16/2019 | [nVidia Cuda Help](https://nvidia.custhelp.com/app/answers/detail/a_id/4770) | G-SYNC monitor may display random desktop flicker when an HDMI monitor is also connected to the same graphics card (**Hotfix**)
 418.02 | // | // | // | NDA 
 417.71 | r417_68-4 | 01/11/2019 | [Release Notes](http://us.download.nvidia.com/Windows/417.71/417.71-win10-win8-win7-desktop-release-notes.pdf) | FreeSync driver + [Linux](http://de.download.nvidia.com/XFree86/Linux-x86_64/415.27/NVIDIA-Linux-x86_64-415.27.run), [FreeBSD](http://us.download.nvidia.com/XFree86/FreeBSD-x86_64/415.27/NVIDIA-FreeBSD-x86_64-415.27.tar.gz) & [Solaris](http://fr.download.nvidia.com/solaris/415.27/NVIDIA-Solaris-x86-415.27.run) 415.27
