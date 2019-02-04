@@ -1,6 +1,7 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
-418.81 | r418_77-2 |  01/30/2019 | [Release Notes](http://us.download.nvidia.com/Windows/418.81/418.81-win10-win8-win7-notebook-release-notes.pdf) | //
+419.04 | // | // | // | NDA
+418.81 | r418_77-2 | 01/30/2019 | [Release Notes](http://us.download.nvidia.com/Windows/418.81/418.81-win10-win8-win7-notebook-release-notes.pdf) | //
 418.30 | // | // | via [NVD](https://devtalk.nvidia.com/default/topic/1046879/unix-graphics-announcements-and-news/linux-solaris-and-freebsd-driver-418-30-beta-release-long-lived-branch-release-/) | Linux, Solaris & FreeBSD Beta 
 417.78 | // | // | // | NDA
 417.63 | VK416_93-19 | 01/03/2019 | via [NVD](https://developer.nvidia.com/vulkan-driver) | Linux 415.22.05
