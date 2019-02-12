@@ -253,6 +253,8 @@ GeForce cards automatically switch (down) to P2 when they are used for compute.
 - [x] Level 2 = P2 State
 - [x] Level 3 = P0 State (max)
 
+One example why you could enable/change the option is e.g. a [down-clocking bug](https://obsproject.com/forum/threads/using-nvenc-lowers-gpu-memory-clock.73228/). 
+
 * **Extension limit** 
 
 Extension limit indicates whether the driver extension string has been trimmed for compatibility with particular applications. Some older applications cannot process long extension strings and will crash if extensions are unlimited.
@@ -313,10 +315,16 @@ The documentation can be found [here](https://docs.nvidia.com/gameworks/content/
 * NVIDIA predefined number of GPUs to use on SLI rendering mode**
 
 * **NVIDIA predefined number of GPUs to use on SLI rendering mode on DX10**
+
+The option is only relevant if you use and activated SLI, the game must support this feature. Starcraft 2 is one of those games. 
   
 * **NVIDIA predefined SLI mode**
 
+Sets an predefined SLI Profile. Overwatch can benefit from this option if you want to force the game to use a specific profile. 
+
 * **NVIDIA predefined SLI mode on DirectX 10**
+
+Same as above for DirectX 10 based games, the game also has to explicity support it. 
 
 * **SLI indicator**
 
@@ -395,11 +403,19 @@ There is no official describtion given, see here for _some_ [details](https://fo
 
 * **Ansel flags for enabled applications**
 
+Some games and applications can work with other Ansel flags (e.g. Blade & Soul) in order to bypass the Freestyle restriction you might have to change the value. 
+
 * **Application Profile Notification Popup Timeout**
+
+Popup notifications timeout for application profiles. This is normally controlled by Windows 10 and it's settings. 
 
 * **Battery Boost**
 
+NVIDIA explains the Battery Boost technology [here](https://www.geforce.com/hardware/technology/battery-boost/technology). Normally GeForce Experience is taking care of the toggle but you can manually adjust it to [gain some percentage](https://www.laptopmag.com/articles/nvidia-battery-boost-tested) during a gaming session. 
+
 * **Battery Boost Application FPS**
+
+Some games/applications locking the FPS to 30/60 if Battery Boost was enabled, you can override it here. 
 
 * **Buffer-flipping mode**
 
@@ -409,7 +425,11 @@ Determines how the video buffer is copied to the screen. This setting only affec
 
 * **Deep color for 3D applications**
 
+See "[How to enable 30-bit color on Windows platforms](https://nvidia.custhelp.com/app/answers/detail/a_id/3049/~/how-to-enable-30-bit-color-on-windows-platforms)". 
+
 * **Display the VRR Overlay Indicator**
+
+This is an old and unused flag. 
 
 * **Do not display this profile in the Control Panel**
 
@@ -425,7 +445,11 @@ On an Optimus laptop, controls whether the selected application runs on the dedi
 
 * **Enable GTX950 special features**
 
+Enables or disables the GTX 950 Frame Rate Monitor. You don't have to enable it, since e.g. MSI AFterburner has it's own monitor.
+
 * **Enable NV_gpu_multicast extension**
+
+This is an flag in order to set an [OpenGL extension flag](https://forums.geforce.com/default/topic/904805/new-opengl-extension-gl_nvx_linked_gpu_multicast-/). 
 
 * **Enable overlay**
 
@@ -433,9 +457,15 @@ Allows the use of OpenGL overlay planes in programs. Typically used if a program
 
 * **Event Log Severity Threshold**
 
+This flag is only for debugging reasons in case you use [PerfKit](https://developer.nvidia.com/nvidia-perfkit). 
+
 * **Export Performance Counters**
 
+This is an flag for NVIDIA PerfKit. 
+
 * **Export Performance Counters for DX9 only**
+
+Same like above only for DirectX 9 based applications/games.
 
 * **Exported Overlay pixel types**
 
@@ -443,23 +473,41 @@ Determines whether the driver supports RGB or color indexed OpenGL overlay plane
 
 * **Frame Rate Monitor**
 
+GeForce Experience 2.1+ added an in-game FPS counter. This basically enables the option to use this funtion, it does not show a overlay over your game/application.
+
 * **Frame Rate Monitor Control**
+
+Additional parameters for the inetgrated frame rate monitor option. 
 
 * **G-SYNC Compatibility**
 
+The flag does not enable G-Sync in case your monitor isn't G-Sync ready, it's more designed to disable/enable [G-Sync](https://www.geforce.com/hardware/technology/g-sync/supported-gpus) for those who meet the requirements.
+
 * **High level control of the rendering quality on OpenGL**
+
+This allows you to control the quality level of OpenGL games. 
 
 * **ICafe Settings**
 
+A dead option since this requires [iCafe drivers](https://www.nvidia.com/content/apac/icafe/en/driver.html). 
+
 * **List of Universal GPU ids**
 
-* Maximum AA samples allowed for a given application** 
+* **Maximum AA samples allowed for a given application**
+
+It does exactly what the name says. 
 
 * **Maximum frames allowed**
 
+This is normally set to "application controlled". You could try 1 or 2. It's basically the same like _Maximum pre-rendered frames_. 
+
 * **Maximum GPU Power**
 
+This was replaced with "Power management mode" and cann be changed directly in NVCP. 
+
 * **Maximum resolution allowed for a given application**
+
+You can force to render a game in a higher/lower resolution. 
 
 * **Memory Allocation Policy**
 
@@ -515,7 +563,11 @@ Limits the number of frames the CPU can prepare before the frames are processed 
 
 * **Whisper Mode**
 
+The detailed explanation is given [here](https://www.geforce.com/whats-new/articles/nvidia-geforce-gtx-whispermode-for-laptops). It's basically an option for GeForce Experience to handle in-game frames adaptive. 
+
 * **Whisper Mode Application FPS**
+
+Sets the Whisper Mode to an specific limit (limiter). 
 
   
 ## Unknown
@@ -559,3 +611,5 @@ These are unknown settings or overrides that Nvidia Profile Inspector is not awa
 * [Nvidia Inspector introduction and Guide](https://forums.guru3d.com/threads/nvidia-inspector-introduction-and-guide.403676/)
 * [3D Surround Technology](https://www.nvidia.com/object/3d-vision-surround-technology.html)
 * [Driver Profile Settings](http://wiki.bo3b.net/index.php?title=Driver_Profile_Settings)
+* [GeForce iCafe](https://www.nvidia.com/content/apac/icafe/en/driver.html)
+* [NVIDIA WhisperMode](https://www.geforce.com/hardware/technology/whispermode)
