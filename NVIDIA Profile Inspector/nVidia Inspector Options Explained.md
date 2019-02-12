@@ -334,11 +334,19 @@ There are [five SLI rendering modes](https://docs.nvidia.com/gameworks/content/t
 
 ## Stereo
 
+These options are all releated to 3D Vision.
+
 * **Force Stereo shuttering**
+
+3D Vision stereo shuttering, the option is only relevnt if "Set up stereoscopic 3D window" was enabled. 
 
 * **LaserXAdjust**
 
+3D Vision Laser Sight X-axis adjustment. 
+
 * **LaserYAdjust** 
+
+3D Vision Laser Sight Y-axis adjustment. 
 
 * **Stereo - Display mode**
 
@@ -346,17 +354,27 @@ This setting allows you to choose the appropriate display mode for shutter glass
 
 * **Stereo - Dongle Support**
 
+Enables 3D Vision dongle support, only relevant if you use 3D Vision and have a dongle for it. 
+
 * **Stereo - Enable**
 
 Enables stereo in OpenGL applications.
 
 * **Stereo - Swap eyes**
 
+Swaps left/right in NVIDIA Vision 2+. This option is relevant if you use a 3D TV) and want to use stereoscopic 3D.
+
 * **Stereo - Swap mode**
+
+See [here](https://nvidia.custhelp.com/app/answers/detail/a_id/3012/~/how-to-configure-passive-or-dual-pipe-stereo-with-quadro-cards-in-windows-7.) or [here](https://www.nvidia.com/object/page_pulled_off_gz_stereo.html) for a detailed explanation. 
 
 * **StereoConvergence** 
 
+Another 3D Vision option which [adjust the convergence](https://nvidia.custhelp.com/app/answers/detail/a_id/2943/~/how-do-i-adjust-convergence-in-my-game%3F).
+
 * **StereoCutoff**
+
+There is no official describtion given, see here for _some_ [details](https://forums.geforce.com/default/topic/926916/3d-vision/nvidia-inspector-gt-gt-gt-new-2-1-3-10-/post/4925834/#4925834).
 
 * **StereoCutoffDepthFar**
 
@@ -535,3 +553,9 @@ These are unknown settings or overrides that Nvidia Profile Inspector is not awa
 * [Adaptive V-Sync](https://www.geforce.com/hardware/technology/adaptive-vsync)
 * [Introducing SLI Antialiasing: The Ultimate in Visual Quality](https://www.nvidia.com/object/slizone_sliAA_howto1.html)
 * [Introduction to SLI](https://docs.nvidia.com/gameworks/content/technologies/desktop/sli.htm)
+* [How to use Ansel](https://www.geforce.com/whats-new/guides/how-to-use-ansel)
+* [Complete Nvidia Ansel guide: All the games and graphics cards that support it](https://www.finder.com.au/nvidia-ansel)
+* [NVIDIA SLI Alternate Frame Rendering](https://docs.unrealengine.com/en-us/Engine/Rendering/Nvidia/NVIDIAAlternateFrameRendering)
+* [Nvidia Inspector introduction and Guide](https://forums.guru3d.com/threads/nvidia-inspector-introduction-and-guide.403676/)
+* [3D Surround Technology](https://www.nvidia.com/object/3d-vision-surround-technology.html)
+* [Driver Profile Settings](http://wiki.bo3b.net/index.php?title=Driver_Profile_Settings)
