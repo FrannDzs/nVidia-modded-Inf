@@ -1,6 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
-418.99 | // | 02/12/2019 | Via [custhelp](http://nvidia.custhelp.com/app/answers/detail/a_id/4775) | Hotfix driver
+418.99 | 418.77-7 | 02/12/2019 | Via [custhelp](http://nvidia.custhelp.com/app/answers/detail/a_id/4775) | Hotfix driver
 418.91 | 418_77-6 |  02/06/2019 | [Release Notes](http://us.download.nvidia.com/Windows/418.91/418.91-win10-win8-win7-desktop-release-notes.pdf) | Bugfix Release
 419.04 | // | // | // | NDA
 418.81 | r418_77-2 | 01/30/2019 | [Release Notes](http://us.download.nvidia.com/Windows/418.81/418.81-win10-win8-win7-notebook-release-notes.pdf) | Quadro 
