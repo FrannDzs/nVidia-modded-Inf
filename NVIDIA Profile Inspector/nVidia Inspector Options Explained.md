@@ -596,6 +596,18 @@ These are unknown settings or overrides that Nvidia Profile Inspector is not awa
 * **0x809D5F60 (389 Profiles)**
 
 
+## How to capture in-game FPS and analyze it?
+
+* There are several tools available but I highly recommend [OCAT](https://ocat.readthedocs.io/en/latest/index.html) which is the sucessor of FRAPS. Together with the [CapFrameX](https://github.com/DevTechProfile/CapFrameX) you get readable stats which you can share accross forums in order to inspect the results. 
+
+* Make sure you disable "Stop overlay" in OCAT (since it has an impact on the results)
+* "Capture time in seconds" should be set to 25 seconds. 
+* You start the test with F12. There is no visual indicator when it's done (since we disabled the overlay).
+* The results can be found under _/Documents/OCAT/captures_. You can e.g. inspect _perf_summary_ directly via LibreOffice.
+
+CapFrameX is optional but it's benefit is that you get nice looking results. 
+
+
 ## References
 
 * [Blur Busters - G-SYNC 101: In-game vs. External FPS Limiters](https://www.blurbusters.com/gsync/gsync101-input-lag-tests-and-settings/11/)
