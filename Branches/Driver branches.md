@@ -1,6 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
-392.37 | // | // | // | NVIDIA Quadro legacy driver 392.37
+392.37 | // | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/392.37/392.37-win10-win8-win7-quadro-release-notes.pdf) | NVIDIA Quadro legacy driver 392.37
 419.17 | 419_12-3 | 02/20/2019 | [Changelog](http://us.download.nvidia.com/Windows/419.17/419.17-win10-win8-win7-desktop-release-notes.pdf) | Quadro + Linux 418.43 + 390.116
 419.09 | VK418_62-6 | 02/15/2019 | Via [NVD](https://developer.nvidia.com/vulkan-driver) | Vulkan driver, Linux + Win 7/8
 418.99 | 418.77-7 | 02/12/2019 | Via [custhelp](http://nvidia.custhelp.com/app/answers/detail/a_id/4775) | Hotfix driver
