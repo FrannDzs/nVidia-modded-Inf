@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
+418.43 | // | // | // | [Linux](http://de.download.nvidia.com/XFree86/Linux-x86_64/418.43/NVIDIA-Linux-x86_64-418.43.run), [FreeBSD](http://us.download.nvidia.com/XFree86/FreeBSD-x86_64/418.43/NVIDIA-FreeBSD-x86_64-418.43.tar.gz) & [Solaris](http://fr.download.nvidia.com/solaris/418.43/NVIDIA-Solaris-x86-418.43.run)
 392.37 | // | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/392.37/392.37-win10-win8-win7-quadro-release-notes.pdf) | NVIDIA Quadro legacy driver 392.37
 419.17 | 419_12-3 | 02/20/2019 | [Changelog](http://us.download.nvidia.com/Windows/419.17/419.17-win10-win8-win7-desktop-release-notes.pdf) | Quadro + Linux 418.43 + 390.116
 419.09 | VK418_62-6 | 02/15/2019 | Via [NVD](https://developer.nvidia.com/vulkan-driver) | Vulkan driver, Linux + Win 7/8
