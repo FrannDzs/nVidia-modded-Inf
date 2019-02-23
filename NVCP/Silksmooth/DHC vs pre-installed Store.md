@@ -1,6 +1,6 @@
-## Why install DCH if the NVidia Control Panel which comes pre-installed?
+## Why install DCH if the official NVidia Control Panel comes pre-installed?
 
-There are several reasons, some Windows versions (WinS/Chinese) comes without any pre-installed driver and the OEM can choose to use the DCH ones to force people stay up-2-date since all Store Apps (by default) getting updated on a regular basis. This basically means the main reason why DCH drivers exist is because of those editions since they _force_ any users to use UWP apps instead of the old Win32 apps. 
+There are several reasons, some Windows versions ([WinS](https://en.wikipedia.org/wiki/Windows_10_editions)/Chinese) comes without any pre-installed driver and the OEM can choose to use the DCH ones to force people stay up-2-date since all Store Apps (by default) getting updated on a regular basis. This basically means the main reason why DCH drivers exist is because of those editions since they _force_ any users to use UWP apps instead of the old Win32 apps. 
 
 
 ## How do I use the nVidia Control Panel app in Home/Pro/Enterprise Editions?
