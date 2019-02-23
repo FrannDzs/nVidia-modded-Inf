@@ -5,7 +5,7 @@ There are several reasons, some Windows versions ([WinS](https://en.wikipedia.or
 
 ## How do I use the nVidia Control Panel app in Home/Pro/Enterprise Editions?
 
-I see no reason to use it but you need a) DCH drivers (uninstall the old driver and all components first) and b) you need an official [App Installer][https://www.microsoft.com/en-us/p/app-installer/9nblggh4nns1] in order to install the application/app which allows you to install the nVidia Control Panel manually (if you choose to not use it directly from the MS store). 
+I see no reason to use it but you need a) DCH drivers (uninstall the old driver and all components first) and b) you need an official [App Installer](https://www.microsoft.com/en-us/p/app-installer/9nblggh4nns1) in order to install the application/app which allows you to install the nVidia Control Panel manually (if you choose to not use it directly from the MS store). 
 
 ## Manual installation
 
