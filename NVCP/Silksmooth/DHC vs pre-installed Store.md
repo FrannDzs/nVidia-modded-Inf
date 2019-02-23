@@ -19,7 +19,8 @@ There are multiple reasons, the old driver and DCH are incompatible to each othe
 
 However there is a registry tweak in order to bypass MS own check/error (Supported NVIDIA Driver is not installed on your system):
 ```
-HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\FTS\
+Windows Registry Editor Version 5.00
 
-EnableRID69527=0x1
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\FTS]
+"EnableRID69527"=dword:00000001
 ```
