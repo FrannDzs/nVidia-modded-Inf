@@ -605,7 +605,12 @@ These are unknown settings or overrides that Nvidia Profile Inspector is not awa
 * You start the test with F12. There is no visual indicator when it's done (since we disabled the overlay).
 * The results can be found under _/Documents/OCAT/captures_. You can e.g. inspect _perf_summary_ directly via LibreOffice.
 
-CapFrameX is optional but it's benefit is that you get nice looking results. 
+CapFrameX is optional but it's benefit is that you get nice looking results.
+
+
+## What are the best mining hashrate settings?
+* CUDA - Force P2 State - needs to be set to "Off"
+* Power managment mode - needs to be set to "Prefer maximum performance"
 
 
 ## References
