@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
+419.34 | // | // | [Via NVD](https://developer.nvidia.com/vulkan-driver) | 
 419.26 | // | // | // | NDA
 418.96 | // | // | // | [Cuda 10.1 driver](https://developer.nvidia.com/compute/cuda/10.1/Prod/local_installers/cuda_10.1.105_418.96_win10.exe) 
 418.43 | // | // | // | [Linux](http://de.download.nvidia.com/XFree86/Linux-x86_64/418.43/NVIDIA-Linux-x86_64-418.43.run), [FreeBSD](http://us.download.nvidia.com/XFree86/FreeBSD-x86_64/418.43/NVIDIA-FreeBSD-x86_64-418.43.tar.gz) & [Solaris](http://fr.download.nvidia.com/solaris/418.43/NVIDIA-Solaris-x86-418.43.run)
