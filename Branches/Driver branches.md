@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
+419.35 | 419-29_2 | // | [Release Notes](http://us.download.nvidia.com/Windows/419.35/419.35-win10-win8-win7-desktop-release-notes.pdf) | First GeForce GTX 1660 Ti driver
 419.38 | // | // | // | NDA
 419.34 | VK418.62 | 03/01/2019 | [Via NVD](https://developer.nvidia.com/vulkan-driver) | Linux 418.42.02
 419.26 | // | // | // | NDA
