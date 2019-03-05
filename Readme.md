@@ -44,9 +44,12 @@ Modded drivers will NEVER transform your GPU to another one and will NEVER add f
 Which are we supposed to use - DCH or Standard drivers?
 ===================
 
-Short Answer:
-* DCH represents UWD which you can install via the Windows Store or manually.
+Short answer:
+* "Standard" packages are those that do not require the DCH driver components. DCH represents UWD which you can install via the Windows Store or manually.
 * Standard is the "old" way which you (for now) should prefer since UWD drivers aren't tweakable (in terms of mods) compared to the standard (legacy) drivers.
+* "DCH" (Declarative, Componentized, Hardware Support Apps) refers to new packages preinstalled by OEMS implementing the Microsoft Universal Driver paradigm.
+* DCH drivers cannot be installed over a standard system, and Standard drivers cannot be installed over a DCH system.
+* To confirm the type of system you have, locate Driver Type under the System Information menu in the NVIDIA Control Panel.
 
 
 Detailed Answer:
