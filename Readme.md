@@ -2,12 +2,12 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CHEF-KOCH/nVidia-modded-Inf/master/.github/Pictures/geforce.png" width="350"/>
-  <img src="[https://github.com/CHEF-KOCH/nVidia-modded-Inf/blob/master/inf%20mod.png?raw=true](https://raw.githubusercontent.com/CHEF-KOCH/nVidia-modded-Inf/master/.github/Pictures/inf%20mod.png)" width="350"/>
+  <img src="https://raw.githubusercontent.com/CHEF-KOCH/nVidia-modded-Inf/master/.github/Pictures/inf%20mod.png" width="350"/>
 </p>
 
-The project is unofficial and not in any relationship or supported by nVidia Cooperation. 
+The project is unofficial and not in any relationship or supported by [nVidia Cooperation](https://www.nvidia.com/en-us/about-nvidia/). 
 
-This project only support x64 Windows 10 versions, if you like to [see x86 ask nVidia to extend the support](https://www.anandtech.com/show/12191/nvidia-to-cease-driver-development-for-32bit-operating-systems) or make a pull request. 
+This project only support x64 Windows 10 versions, if you like to [see x86 ask nVidia to extend the support](https://www.anandtech.com/show/12191/nvidia-to-cease-driver-development-for-32bit-operating-systems). 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
@@ -31,7 +31,7 @@ Modded drivers will NEVER transform your GPU to another one and will NEVER add f
 **Reasons for modding**
 * You like to test a newer driver which is not available for your card.
 * New feature tests.
-* It could be used to force installation of newer drivers on OEM locked GPU's.
+* It could be used to force installation of newer drivers on OEM locked GPUs.
 * You need an older driver that is not officially supported for your GPU because you have a specific application that is broken in newer ones and you cannot wait for a fix.
 
 
