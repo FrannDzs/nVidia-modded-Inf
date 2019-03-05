@@ -7,7 +7,7 @@
 
 The project is unofficial and not in any relationship or supported by [nVidia Cooperation](https://www.nvidia.com/en-us/about-nvidia/). 
 
-This project only support x64 Windows 10 versions, if you like to [see x86 ask nVidia to extend the support](https://www.anandtech.com/show/12191/nvidia-to-cease-driver-development-for-32bit-operating-systems). 
+This project only support x64 Windows 10 versions, if you like to see x86 [ask nVidia to extend the support](https://www.anandtech.com/show/12191/nvidia-to-cease-driver-development-for-32bit-operating-systems). 
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
@@ -41,7 +41,7 @@ Modded drivers will NEVER transform your GPU to another one and will NEVER add f
 
 
 
-Which are we supposed to use - DCH or Standard drivers?
+DCH or Standard drivers?
 ===================
 
 Short answer:
@@ -161,7 +161,7 @@ It's not necessary to block telemetry with your firewall, since you can manually
 
 The Guru3d user [uKER](https://forums.guru3d.com/members/uker.96766/) programmed a little utility called [NVSlimmer](https://forums.guru3d.com/threads/nvidia-driver-slimming-utility.423072/) which allows you (via GUI) to remove the _unneeded_ folders/features - it's basically the same as doing it via a batch/cmd but with an simple interface to allow you to manually select all folders based on your own 'removal needs', the program includes also an integrated required list in order to warn user what is really necessary to keep in order to use the driver. 
 
-Another program (ripp-off from NVSlimmer) called "NVCleanstall" can be found in the [TechPowerUP forums](https://www.techpowerup.com/forums/threads/nvcleanstall-clean-installer-for-nvidia-drivers-alpha.249085/).  
+Another program (rip-off from NVSlimmer) called "NVCleanstall" can be found in the [TechPowerUP forums](https://www.techpowerup.com/forums/threads/nvcleanstall-clean-installer-for-nvidia-drivers-alpha.249085/).  
 
 
 At this point it's unclear if blocking the telemetry with firewall is 100% _effective_ since the submitted data are tunneled + encrypted [needs final confirmation]. 
