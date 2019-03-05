@@ -1,8 +1,8 @@
 #### nVidia modded Inf project created 2017 by CHEF-KOCH under GNU GENERAL PUBLIC LICENSE v3.
 
 <p align="center">
-  <img src="https://github.com/CHEF-KOCH/nVidia-modded-Inf/blob/master/geforce.png" width="350"/>
-  <img src="https://github.com/CHEF-KOCH/nVidia-modded-Inf/blob/master/inf%20mod.png?raw=true" width="350"/>
+  <img src="https://raw.githubusercontent.com/CHEF-KOCH/nVidia-modded-Inf/master/.github/Pictures/geforce.png" width="350"/>
+  <img src="[https://github.com/CHEF-KOCH/nVidia-modded-Inf/blob/master/inf%20mod.png?raw=true](https://raw.githubusercontent.com/CHEF-KOCH/nVidia-modded-Inf/master/.github/Pictures/inf%20mod.png)" width="350"/>
 </p>
 
 The project is unofficial and not in any relationship or supported by nVidia Cooperation. 
@@ -37,7 +37,7 @@ Modded drivers will NEVER transform your GPU to another one and will NEVER add f
 
 **Keep in mind**:
 
-> Fermi GPU's (400 and 500 series) as from 396 driver are official no longer supported!
+> Fermi GPUs (400 and 500 series) as from 396 driver are official no longer supported!
 
 
 
@@ -47,7 +47,7 @@ Which are we supposed to use - DCH or Standard drivers?
 Short answer:
 * "Standard" packages are those that do not require the DCH driver components. DCH represents UWD which you can install via the Windows Store or manually.
 * Standard is the "old" way which you (for now) should prefer since UWD drivers aren't tweakable (in terms of mods) compared to the standard (legacy) drivers.
-* "DCH" (Declarative, Componentized, Hardware Support Apps) refers to new packages preinstalled by OEMS implementing the Microsoft Universal Driver paradigm.
+* "DCH" (Declarative, Componentized, Hardware Support Apps) refers to new packages pre-installed by OEMs implementing the Microsoft Universal Driver paradigm.
 * DCH drivers cannot be installed over a standard system, and Standard drivers cannot be installed over a DCH system.
 * To confirm the type of system you have, locate Driver Type under the System Information menu in the NVIDIA Control Panel.
 
@@ -61,7 +61,7 @@ Remove old nVidia drivers
 ===================
 
 * Extract [Display Driver Uninstaller (DDU)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/tools) and start the program, boot into "safe mode" (you can do this manually or within the given DDU option) and let DDU auto-clean and restart the OS automatically for you. You do not need to uninstall the driver or any package via Windows own uninstaller program first (that's the whole point using DDU). Keep in mind that **DDU should only be used in case you get troubles while uninstalling/installing the driver with nVidia's own Setup**, it's not recommend and needed to use DDU as 'normal' driver removal procedure. nVidia's own setup routine usually does the job just fine, however in some cases in can help to remove leftovers which _might_ cause trouble.
-* After you remooted you install the (modded/repack) nVidia driver, if the driver isn't digital signed you need to do it yourself or disable Windows driver signature enforcement.
+* After you rebooted you install the (modded/repack) nVidia driver, if the driver isn't digital signed you need to do it yourself or disable Windows driver signature enforcement.
 
 An official DDU guide can be found [here](https://www.wagnardsoft.com/content/ddu-guide-tutorial).
 
