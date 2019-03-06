@@ -57,6 +57,7 @@ Detailed Answer:
 DCH is a collaboration platform supporting the process of commercial forecasting Demand Collaboration Hub (DCH) is a collaboration platform that enables all members of your Sales organization, at the various hierarchical levels, to submit, consolidate and validate their periodic commercial forecast. DCH is fully configurable, allowing you to model the workflow and segment the data between users, in relation to their level of responsibility, to configure your editing form, by selecting and publishing the information that are relevant for your sales organization, to enter commercial forecast at various level of aggregation, with automatic splitting of edited quantities to the level of maximum detail. DCH is part of the SO99+ (Service Optimizer 99+) product suite and more specifically it is complementary to its statistical forecasting functionality, since the statistical forecast may be used as a guidance to support the Sales organization to provide more reliable figures. To support mobility, DCH is available on the web or from any mobile device that your Sales organization may adopt.
 
 
+
 Remove old nVidia drivers
 ===================
 
@@ -111,7 +112,7 @@ After executing these two commands you need to reboot Windows in order to apply 
 
 
 
-How to sign your driver?
+How to sign your modded driver?
 ===================
 
 Download and install (or use the portable) [SelfCert](https://www.pluralsight.com/blog/software-development/selfcert-create-a-self-signed-certificate-interactively-gui-or-programmatically-in-net).
@@ -175,19 +176,21 @@ Release
 
 * [![nVidia beta](https://img.shields.io/github/release-pre/CHEF-KOCH/nVidia-modded-Inf.svg?label=Latest%20nVidia%20beta&style=popout)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tags)
 
-The latest Vulkan Runtimes and de-bloated Drivers can be found under the [release page](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases). 
+
+Requests & Pull Requests 
+======
+
+* **Do not request new drivers/runtimes or .inf files via the GitHub issue ticket, it will result in a permanent project ban!**
+* Do not abuse the GitHub ticket system for common questions which could be answered by a google search.
+* PR are always welcome in case you found something (typo, new inf, etc.). 
 
 
-**Do not request new drivers/runtimes or .inf files via the GitHub issue ticket, it will result in a permanent project ban!** 
-
-
-
-## Acknowledgement and References
-* [NVIDIA Display Driver Feedback](https://surveys.nvidia.com/index.jsp?pi=6e7ea6bb4a02641fa8f07694a40f8ac6)
-* [DDU Source Code](https://github.com/Wagnard/display-drivers-uninstaller)
-* [Nvidia INF driver modding](http://forums.guru3d.com/showthread.php?t=377158)
-* [LaptopVideo2Go](https://laptopvideo2go.com/)
-* [GeForce Driver Installation Guide A guide to ensure your drivers are installed properly.](https://forums.geforce.com/default/topic/467215/geforce-driver-installation-guide-a-guide-to-ensure-your-drivers-are-installed-properly-/)
-* [Windows 10 FAQ and Driver installation tips](https://forums.geforce.com/default/topic/862424/geforce-drivers/windows-10-faq-and-driver-installation-tips-/)
-* [PC Gaming Wiki](https://pcgamingwiki.com/wiki/Home)
-* [PCI ID Project](http://pci-ids.ucw.cz/pci.ids)
+## Acknowledgement & References
+* [Official NVIDIA Display Driver Feedback Page (surveys.nvidia.com)](https://surveys.nvidia.com/index.jsp?pi=6e7ea6bb4a02641fa8f07694a40f8ac6)
+* [DDU Source Code (github.com/Wagnard)](https://github.com/Wagnard/display-drivers-uninstaller)
+* [Nvidia INF driver modding (forums.guru3d.com)](http://forums.guru3d.com/showthread.php?t=377158)
+* [LaptopVideo2Go (laptopvideo2go.com)](https://laptopvideo2go.com/)
+* [GeForce Driver Installation Guide A guide to ensure your drivers are installed properly (forums.geforce.com)](https://forums.geforce.com/default/topic/467215/geforce-driver-installation-guide-a-guide-to-ensure-your-drivers-are-installed-properly-/)
+* [Windows 10 FAQ and Driver installation tips (forums.geforce.com)](https://forums.geforce.com/default/topic/862424/geforce-drivers/windows-10-faq-and-driver-installation-tips-/)
+* [PC Gaming Wiki (pcgamingwiki.com)](https://pcgamingwiki.com/wiki/Home)
+* [PCI ID Project (pci-ids.ucw.cz)](http://pci-ids.ucw.cz/pci.ids)
