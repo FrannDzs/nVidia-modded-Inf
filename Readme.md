@@ -171,6 +171,10 @@ At this point it's unclear if blocking the telemetry with firewall is 100% _effe
 Release
 ======
 
+* [![nVidia stable](https://img.shields.io/github/release/CHEF-KOCH/nVidia-modded-Inf.svg?label=Latest%20nVidia%20stable&style=popout)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/latest)
+
+* [![nVidia beta](https://img.shields.io/github/release-pre/CHEF-KOCH/nVidia-modded-Inf.svg?label=Latest%20nVidia%20beta&style=popout)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tags)
+
 The latest Vulkan Runtimes and de-bloated Drivers can be found under the [release page](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases). 
 
 
