@@ -86,16 +86,26 @@ How to show current driver branch?!
 
 
 
-Troubleshoot
+Troubleshoot - Disable Driver Signatures
 ===================
 
+Check the [current secure boot status](https://docs.microsoft.com/en-us/powershell/module/secureboot/confirm-securebootuefi?view=win10-ps) (optional), which gives you `true` or `false` (enabled/disabled) back:
 
-Before you install unsigned drivers, you have to manually set these parameters via administrative command prompt:
+```
+
+Powershell confirm-SecureBootUEFI
+
+```
+
+
+Before you install unsigned drivers, you have to manually set [those parameters](http://acer.custhelp.com/app/answers/detail/a_id/38289/~/windows-10%3A-disable-signed-driver-enforcement) via administrative command prompt to [turn secure boot](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/disabling-secure-boot) off:
 
 ```
 bcdedit -set loadoptions DISABLE_INTEGRITY_CHECKS
 
-bcdedit -set TESTSIGNING ON
+bcdedit -set testsigning ON
+
+shutdown.exe /r /o
 ```
 
 
@@ -104,11 +114,13 @@ After you're finished installing the unsigned driver:
 ```
 bcdedit -set loadoptions ENABLE_INTEGRITY_CHECKS
 
+bcdedit -set {globalsettings} advancedoptions true
+
 bcdedit -set TESTSIGNING OFF
 ```
 
 
-After executing these two commands you need to reboot Windows in order to apply the changes.
+After executing the mentioned commands you need to reboot Windows 10 in order to apply the changes. Some (if not all) new laptops have no options to turn [secure boot](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-secure-boot) off. 
 
 
 
