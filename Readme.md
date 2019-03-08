@@ -176,6 +176,8 @@ Release
 
 * [![nVidia beta](https://img.shields.io/github/release-pre/CHEF-KOCH/nVidia-modded-Inf.svg?label=Latest%20nVidia%20beta&style=popout)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tags)
 
+* Latest Nvidia PhysX System Software: [9.19.0218](http://us.download.nvidia.com/Windows/9.19.0218/PhysX-9.19.0218-SystemSoftware.exe)
+
 
 Requests & Pull Requests 
 ======
