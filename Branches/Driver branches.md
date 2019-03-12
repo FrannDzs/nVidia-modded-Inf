@@ -1,6 +1,7 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
-421.65 | r421_00-28 | 02/22/2019 | WDDM 2.6 driver | [Download and Info](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/1.06)
+419.26 | // | 02/24/2019 | // | //
+421.65 | 421_00-28 | 02/22/2019 | WDDM 2.6 driver | [Download and Info](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/1.06)
 419.35 | 419-29_2 | 03/01/2019 | [Release Notes](http://us.download.nvidia.com/Windows/419.35/419.35-win10-win8-win7-desktop-release-notes.pdf) | First GeForce GTX 1660 Ti driver
 419.38 | // | // | // | NDA
 419.34 | VK418.62 | 03/01/2019 | [Via NVD](https://developer.nvidia.com/vulkan-driver) | Linux 418.42.02
@@ -13,7 +14,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment
 418.99 | 418.77-7 | 02/12/2019 | Via [custhelp](http://nvidia.custhelp.com/app/answers/detail/a_id/4775) | Hotfix driver
 418.91 | 418_77-6 |  02/06/2019 | [Release Notes](http://us.download.nvidia.com/Windows/418.91/418.91-win10-win8-win7-desktop-release-notes.pdf) | Bugfix Release
 419.04 | // | // | // | NDA
-418.81 | r418_77-2 | 01/30/2019 | [Release Notes](http://us.download.nvidia.com/Windows/418.81/418.81-win10-win8-win7-notebook-release-notes.pdf) | Quadro 
+418.81 | 418_77-2 | 01/30/2019 | [Release Notes](http://us.download.nvidia.com/Windows/418.81/418.81-win10-win8-win7-notebook-release-notes.pdf) | Quadro 
 418.30 | // | // | via [NVD](https://devtalk.nvidia.com/default/topic/1046879/unix-graphics-announcements-and-news/linux-solaris-and-freebsd-driver-418-30-beta-release-long-lived-branch-release-/) | Linux, Solaris & FreeBSD Beta 
 417.78 | // | // | // | NDA
 417.63 | VK416_93-19 | 01/03/2019 | via [NVD](https://developer.nvidia.com/vulkan-driver) | Linux 415.22.05
