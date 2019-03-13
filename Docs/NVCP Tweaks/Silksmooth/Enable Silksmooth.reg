@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+; Official explanation 
+; https://youtu.be/WpUX8ZNkn2U?t=609
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\nvlddmkm\FTS]
+"EnableRID61684"=dword:00000001
+
