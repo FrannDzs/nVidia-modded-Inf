@@ -189,7 +189,7 @@ Release
 * [![nVidia beta](https://img.shields.io/github/release-pre/CHEF-KOCH/nVidia-modded-Inf.svg?label=Latest%20nVidia%20beta&style=popout)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tags)
 
 * Latest Nvidia PhysX System Software: [9.19.0218](http://us.download.nvidia.com/Windows/9.19.0218/PhysX-9.19.0218-SystemSoftware.exe)
-
+* Latest Nvidia GeForce Experience: [3.17.0.126 Stable](https://de.download.nvidia.com/GFE/GFEClient/3.17.0.126/GeForce_Experience_v3.17.0.126.exe) & [Beta 3.18.0.92](https://de.download.nvidia.com/GFE/GFEClient/3.18.0.92/GeForce_Experience_Beta_v3.18.0.92.exe)
 
 Requests & Pull Requests 
 ======
