@@ -1,6 +1,7 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
-419.62 | VK418_62-14 | // | [Via NVD](https://developer.nvidia.com/vulkan-driver) | Vulkan 1.1
+420.05 | // | // | // | NDA
+419.62 | VK418_62-14 | 03/14/2019 | [Via NVD](https://developer.nvidia.com/vulkan-driver) | Vulkan 1.1
 417.88 | // | 02/12/2019 | // | HP
 419.26 | // | 02/24/2019 | // | Released as iCafe driver
 421.65 | 421_00-28 | 02/22/2019 | WDDM 2.6 driver | [Download and Info](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/1.06)
