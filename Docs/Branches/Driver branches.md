@@ -1,7 +1,7 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
 419.64 | // | // | // | NDA
-419.67 | 419_50-5 | 03/17/2019 | [Release Notes](http://us.download.nvidia.com/Windows/419.67/419.67-win10-crd-release-notes.pdf) | NVIDIA CREATOR READY DRIVER + Linux 418.56
+419.67 | 419_50-5 | 03/17/2019 | [Release Notes](http://us.download.nvidia.com/Windows/419.67/419.67-win10-crd-release-notes.pdf) | NVIDIA CREATOR READY DRIVER + Linux 418.56 + Quadro
 420.05 | // | // | // | NDA
 419.62 | VK418_62-14 | 03/14/2019 | [Via NVD](https://developer.nvidia.com/vulkan-driver) | Linux 418.49.04
 417.88 | // | 02/12/2019 | // | HP
