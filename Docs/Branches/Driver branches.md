@@ -1,5 +1,7 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
+419.72 | // | // | // | NDA (Gigabyte)
+419.65 | // | // | // | NDA (MSI)
 419.64 | // | // | // | NDA
 419.67 | 419_50-5 | 03/17/2019 | [Release Notes](http://us.download.nvidia.com/Windows/419.67/419.67-win10-crd-release-notes.pdf) | NVIDIA CREATOR READY DRIVER + Linux 418.56 + Quadro
 420.05 | // | // | // | NDA
