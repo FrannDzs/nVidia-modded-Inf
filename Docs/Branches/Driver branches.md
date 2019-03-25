@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
+417.77 | // | // | Via [WSUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2019/03/73597d25-9289-4cc3-9ab4-460f9f28bae8_e7d584160cb78b42e1772d5a846f115f79aafc53.cab) | Fujitsu Workstation
 419.67 | // | 03/17/2019 | [Release Notes](http://us.download.nvidia.com/Windows/419.67/419.67-win10-win8-win7-release-notes.pdf) | Game Ready
 419.72 | // | // | // | NDA (Gigabyte)
 419.65 | // | // | // | NDA (MSI)
