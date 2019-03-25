@@ -1,6 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
-419.67 | // | // | [Release Notes](http://us.download.nvidia.com/Windows/419.67/419.67-win10-win8-win7-release-notes.pdf) | 
+419.67 | // | 03/17/2019 | [Release Notes](http://us.download.nvidia.com/Windows/419.67/419.67-win10-win8-win7-release-notes.pdf) | Game Ready
 419.72 | // | // | // | NDA (Gigabyte)
 419.65 | // | // | // | NDA (MSI)
 419.64 | // | // | // | NDA
