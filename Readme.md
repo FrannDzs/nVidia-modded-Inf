@@ -201,6 +201,7 @@ Requests & Pull Requests
 
 
 ## Acknowledgement & References
+* [End of Driver Support for Quadro Kepler-series Notebook Products (April 30, 2020)]https://nvidia.custhelp.com/app/answers/detail/a_id/4788)
 * [Support Plan for 3DVision Products (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/4781)
 * [Support Plan for Kepler-series GeForce GPUs for notebooks (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/4779)
 * [Official NVIDIA Display Driver Feedback Page (surveys.nvidia.com)](https://surveys.nvidia.com/index.jsp?pi=6e7ea6bb4a02641fa8f07694a40f8ac6)
