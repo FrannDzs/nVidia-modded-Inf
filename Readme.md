@@ -201,9 +201,6 @@ Requests & Pull Requests
 
 
 ## Acknowledgement & References
-* [End of Driver Support for Quadro Kepler-series Notebook Products (April 30, 2020)]https://nvidia.custhelp.com/app/answers/detail/a_id/4788)
-* [Support Plan for 3DVision Products (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/4781)
-* [Support Plan for Kepler-series GeForce GPUs for notebooks (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/4779)
 * [Official NVIDIA Display Driver Feedback Page (surveys.nvidia.com)](https://surveys.nvidia.com/index.jsp?pi=6e7ea6bb4a02641fa8f07694a40f8ac6)
 * [DDU Source Code (github.com/Wagnard)](https://github.com/Wagnard/display-drivers-uninstaller)
 * [Nvidia INF driver modding (forums.guru3d.com)](http://forums.guru3d.com/showthread.php?t=377158)
@@ -212,3 +209,8 @@ Requests & Pull Requests
 * [Windows 10 FAQ and Driver installation tips (forums.geforce.com)](https://forums.geforce.com/default/topic/862424/geforce-drivers/windows-10-faq-and-driver-installation-tips-/)
 * [PC Gaming Wiki (pcgamingwiki.com)](https://pcgamingwiki.com/wiki/Home)
 * [PCI ID Project (pci-ids.ucw.cz)](http://pci-ids.ucw.cz/pci.ids)
+
+## EOL
+* [End of Driver Support for Quadro Kepler-series Notebook Products (April 30, 2020)](https://nvidia.custhelp.com/app/answers/detail/a_id/4788)
+* [Support Plan for 3DVision Products (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/4781)
+* [Support Plan for Kepler-series GeForce GPUs for notebooks (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/4779)
