@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
+417.81 | // | // | Via [WSUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2019/03/1f0ae467-9c07-48e5-a3bd-d5629f051575_e01db585cb6824cae322c7260eb3941e62c976f6.cab)
 425.11 | 419_50-12 | 03/27/2019 | Via [NVD](https://nvidia.custhelp.com/app/answers/detail/a_id/4789) | Hotfix Driver
 419.47 | // | // | // | [Direct DL](http://international.download.nvidia.com/Windows/iCafe/419.47/419.47-icafe-win7-64bit-international-whql-driver.exe)
 417.77 | // | // | Via [WSUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2019/03/73597d25-9289-4cc3-9ab4-460f9f28bae8_e7d584160cb78b42e1772d5a846f115f79aafc53.cab) | Fujitsu Workstation
