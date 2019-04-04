@@ -1,6 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
-430.00 | // | 03/14/2019 | // | Via WSUS - Windows Insider only (WDDM 2.6)
+430.00 | 421_00-40 | 03/14/2019 | // | Via WSUS - Windows Insider only (WDDM 2.6)
 425.96 | // | // | // | Gigabyte NDA
 417.81 | // | // | Via [WSUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2019/03/1f0ae467-9c07-48e5-a3bd-d5629f051575_e01db585cb6824cae322c7260eb3941e62c976f6.cab) | Dell mobile
 425.11 | 419_50-12 | 03/27/2019 | Via [NVD](https://nvidia.custhelp.com/app/answers/detail/a_id/4789) | Hotfix Driver
