@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
+419.72 | 418_00-216 | 03/18/2019 | // | Via [WSUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2019/04/2b998e86-5a6c-49e2-8470-199da2bb8f70_a9a340bdf5e568991a3d87229e267ac575fdcd8a.cab) for Huawai GeForce MX250
 430.00 | 421_00-40 | 03/14/2019 | // | Via WSUS - Windows Insider only (WDDM 2.6)
 425.96 | // | // | // | Gigabyte NDA
 417.81 | // | // | Via [WSUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2019/03/1f0ae467-9c07-48e5-a3bd-d5629f051575_e01db585cb6824cae322c7260eb3941e62c976f6.cab) | Dell mobile
