@@ -1,11 +1,11 @@
-#### nVidia modded Inf project created 2017 by CHEF-KOCH under GNU GENERAL PUBLIC LICENSE v3.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/CHEF-KOCH/nVidia-modded-Inf/master/.github/Pictures/geforce.png" width="350"/>
   <img src="https://raw.githubusercontent.com/CHEF-KOCH/nVidia-modded-Inf/master/.github/Pictures/inf%20mod.png" width="350"/>
 </p>
 
-The project is unofficial and not in any relationship or supported by [nVidia Cooperation](https://www.nvidia.com/en-us/about-nvidia/). 
+#### nVidia modded Inf project was created 2017 by CHEF-KOCH and is under GNU GENERAL PUBLIC LICENSE v3.
+
+The project is _unofficial_ and not in any relationship or supported by [nVidia Cooperation](https://www.nvidia.com/en-us/about-nvidia/). 
 
 This project only support x64 Windows 10 versions, if you like to see x86 [ask nVidia to extend the support](https://www.anandtech.com/show/12191/nvidia-to-cease-driver-development-for-32bit-operating-systems). 
 
