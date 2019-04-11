@@ -1,6 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
-425.31 | 419_50-20 | 04/09/2019, 25.21.14.2531 | [Release Notes](http://us.download.nvidia.com/Windows/425.31/425.31-win10-win8-win7-release-notes.pdf) | The driver was also NDA (Gigabyte but under different branch 419_50-18)
+425.31 | 419_50-20 | 04/09/2019, 25.21.14.2531 | [Release Notes](http://us.download.nvidia.com/Windows/425.31/425.31-win10-win8-win7-release-notes.pdf) | ~~The driver was also NDA (Gigabyte but under different branch 418.x)~~ They released the driver now as Quadro
 425.35 | // | // | // | NDA 
 425.30 | 418_62-18 | 04/08/2019 | [NVD](https://developer.nvidia.com/vulkan-driver) | Linux 418.52.03
 430.56 | 421_65-07 | 03/28/2019 | // | MSI NDA
