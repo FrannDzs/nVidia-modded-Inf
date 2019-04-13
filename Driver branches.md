@@ -1,6 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
-430.25 | // | // | Via WUS (?) | [Questionable](https://forums.geforce.com/default/topic/1105151/geforce-drivers/nvidia-driver-430-00-from-windows-update/7/) + [possible source](https://forums.guru3d.com/threads/gf-driver430-25.426184/page-2#post-5659863)
+430.25 | 421_76-8 | 04/08/201 | Via WUS | [DL + Info](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/430.25)
 417.98 | 415_00-354 | 03/03/2019 | Via [WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2019/04/475b55b0-e502-4862-b911-f56ce59441a8_7157521fff31ba69b20cea81d3c3e5048c1c3eae.cab) | Lenovo
 419.71 | // | // | // | [Lenovo Quadro mobile](https://support.lenovo.com/nl/nl/downloads/ds539266)
 425.31 | 419_50-20 | 04/09/2019, 25.21.14.2531 | [Release Notes](http://us.download.nvidia.com/Windows/425.31/425.31-win10-win8-win7-release-notes.pdf) | ~~The driver was also NDA (Gigabyte but under different branch 418.x)~~ They released the driver now as Quadro
