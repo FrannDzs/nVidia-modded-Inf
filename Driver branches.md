@@ -147,3 +147,8 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment
 * [Quadro Driver Branch History for Windows](https://www.nvidia.com/object/quadro-branch-history-table.html)
 * DHC = Windows 10 in S Mode (App Store), the INF is way smaller as not as many files are needed to be messed about with and uninstall somehow happens differently
 * [NVIDIA Control Panel from MS Store (UWP)](https://www.microsoft.com/store/productId/9nf8h0h7wmlt)
+
+
+### How to decode Branch versions information?
+
+Let's assume we have `421_76-8`, the first three numbers are the major release which indicates _the real_ versions number. The second number indicates the code commits after v421 was done, in our case 76 code changes. The last number indicates small fixes.
