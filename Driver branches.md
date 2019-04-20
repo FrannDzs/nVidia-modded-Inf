@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
+431.65 | // | // | // | MSI NDA 
 432.12 | // | // | // | NDA 
 425.42 | // | 04/19/2019 | Via [NVD](https://developer.nvidia.com/vulkan-driver) | Linux 418.52.05
 425.07 | 418_00-227 | 03/26/2019 | Via [WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2019/04/6a134ead-8003-493b-b958-208d9d9707c2_439e6badf1e893f4e251b032b53d26b841d4ad92.cab) | Samsung 
