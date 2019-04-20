@@ -209,6 +209,22 @@ Requests & Pull Requests
 * [Windows 10 FAQ and Driver installation tips (forums.geforce.com)](https://forums.geforce.com/default/topic/862424/geforce-drivers/windows-10-faq-and-driver-installation-tips-/)
 * [PC Gaming Wiki (pcgamingwiki.com)](https://pcgamingwiki.com/wiki/Home)
 * [PCI ID Project (pci-ids.ucw.cz)](http://pci-ids.ucw.cz/pci.ids)
+* [Install nVidia drivers on macOS the easy way (github.com)](https://github.com/Benjamin-Dobell/nvidia-update)
+
+## Unofficial patches
+* [nVidia patch to remove restriction on maximum number of simultaneous NVENC video encoding session (github.com)](https://github.com/keylase/nvidia-patch)
+* [Driver patch for enabling unlimited NVENC sessions (old) (github.com)](https://github.com/Matviy/nvidia-NVENC-multi-session-patch)
+* [NvencSessionLimitBump (github.com](https://github.com/jantenhove/NvencSessionLimitBump)
+* [nVidia kvm patcher (github.com)](https://github.com/sk1080/nvidia-kvm-patcher)
+* [WhateverGreen (github.com)](https://github.com/acidanthera/WhateverGreen)
+* [purge-wrangler (github.com)](https://github.com/mayankk2308/purge-wrangler)
+* [Wine patches (github.com)](https://github.com/SveSop/wine_patches)
+
+## Bios
+* [NVIDIA-vBIOS-VFIO-Patcher (github.com)](https://github.com/Matoking/NVIDIA-vBIOS-VFIO-Patcher)
+* [Maxwell Bios Tweaker for edit NVidia GTX 9XX bios (github.com)](https://github.com/richardblynd/maxwellbiostweaker)
+* [Nvidia-PascalBiosEditor (github.com)](https://github.com/vvaske/Nvidia-PascalBiosEditor)
+* [VGA and BIOS rom font extraction (github.com](https://github.com/spacerace/romfont)
 
 ## EOL
 * [End of Driver Support for Quadro Kepler-series Notebook Products (April 30, 2020)](https://nvidia.custhelp.com/app/answers/detail/a_id/4788)
