@@ -2,7 +2,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment
 --- | --- | --- | --- | ---
 431.65 | // | // | // | MSI NDA 
 432.12 | // | // | // | NDA 
-425.42 | // | 04/19/2019 | Via [NVD](https://developer.nvidia.com/vulkan-driver) | Linux 418.52.05
+425.42 | VK418_62-20 | 04/19/2019 | Via [NVD](https://developer.nvidia.com/vulkan-driver) | Linux 418.52.05
 425.07 | 418_00-227 | 03/26/2019 | Via [WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2019/04/6a134ead-8003-493b-b958-208d9d9707c2_439e6badf1e893f4e251b032b53d26b841d4ad92.cab) | Samsung 
 430.25 | 421_76-8 | 04/08/201 | Via WUS | [DL + Info](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/430.25)
 417.98 | 415_00-354 | 03/03/2019 | Via [WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2019/04/475b55b0-e502-4862-b911-f56ce59441a8_7157521fff31ba69b20cea81d3c3e5048c1c3eae.cab) | Lenovo
