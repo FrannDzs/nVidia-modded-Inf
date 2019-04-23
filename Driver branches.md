@@ -1,5 +1,7 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment 
 --- | --- | --- | --- | ---
+430.39 | 430_34-5 | 04/17/2019 | [Release Notes](http://us.download.nvidia.com/Windows/430.39/430.39-win10-win8-win7-release-notes.pdf) | //
+430.35 | 421_76-9 | 04/15/2019 | Via WUS | //
 431.65 | // | // | // | MSI NDA 
 432.12 | // | // | // | NDA 
 425.42 | VK418_62-20 | 04/19/2019 | Via [NVD](https://developer.nvidia.com/vulkan-driver) | Linux 418.52.05
