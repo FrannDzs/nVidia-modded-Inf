@@ -1,0 +1,1 @@
+Download (or install) the nVidia Windows Update Driver and go to `C:\WINDOWS\SoftwareDistribution\` or `C:\WINDOWS\SoftwareDistribution\Download` and copy the driver files.
