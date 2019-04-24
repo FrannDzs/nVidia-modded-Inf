@@ -1,8 +1,8 @@
 Overview
 ======
 
-- [ ] Add video or Add 'how to install driver manually' + video? (?)
-- [ ] Add more instruction and project details in Readme.md 
+- [ ] Add video or Add 'How to install nVidia drivers' + video? (_maybe_)
+- [ ] Remove unsupported ID's from the list because nVidia also removed the support within the driver files for it, so a modded inf won't bring back support for it
 - [x] Mention DDU
 - [x] ~~Add manual 'create own inf' section + selfsign~~
 - [x] ~~Add Devise Id list~~
