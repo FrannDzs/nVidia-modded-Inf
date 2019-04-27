@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) 
 :---: | :---: | :---: | :---: | --- | :---: 
+432.23 | // | // | // | // | ✓ 
 417.60 | 415_00-279 | 01/02/2019 | // | GTX 1650 test driver | Homebrew
 430.39 | 430_34-5 | 04/17/2019 | [Release Notes](http://us.download.nvidia.com/Windows/430.39/430.39-win10-win8-win7-release-notes.pdf) | Also released as [Quadro](http://us.download.nvidia.com/Windows/Quadro_Certified/430.39/430.39-win10-win8-win7-quadro-release-notes.pdf) + Linux 430.09 | ✗
 430.35 | 421_76-9 | 04/15/2019 | Via WUS | // | ✗
