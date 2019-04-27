@@ -220,6 +220,9 @@ Requests & Pull Requests
 * [purge-wrangler (github.com)](https://github.com/mayankk2308/purge-wrangler)
 * [Wine patches (github.com)](https://github.com/SveSop/wine_patches)
 
+## Unofficial updater
+* [nVidia Update PowerShell Script (github.com)](https://github.com/lord-carlos/nvidia-update)
+
 ## Bios
 * [NVIDIA-vBIOS-VFIO-Patcher (github.com)](https://github.com/Matoking/NVIDIA-vBIOS-VFIO-Patcher)
 * [Maxwell Bios Tweaker for edit NVidia GTX 9XX bios (github.com)](https://github.com/richardblynd/maxwellbiostweaker)
