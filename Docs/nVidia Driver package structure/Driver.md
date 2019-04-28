@@ -117,7 +117,7 @@ Removable: Yes, unless you need & use NView.
 [Optimus](https://www.nvidia.com/object/optimus_technology.html) and original designed to power manage your notebook (provides profiles etc).
 
 
-Removable: Yes (_optional), unless you need & use Optimus.
+Removable: Yes (_optional_), unless you need & use Optimus.
 
 
 ## Display.Update
@@ -125,7 +125,7 @@ Removable: Yes (_optional), unless you need & use Optimus.
 The folder contains the `Update.Core` service which is used to update your graphic driver in case a new release is avbl. It's also used by GFE in order to notify you about the update itself. This is optional.
 
 
-Removable: Yes (_optional), unless you need & use Optimus.
+Removable: Yes (_optional_), unless you need & use Optimus.
 
 
 ## GFExperience
@@ -133,7 +133,7 @@ Removable: Yes (_optional), unless you need & use Optimus.
 [GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/) (GFE) will be installed by default. 
 
 
-Removable: Yes (_optional), unless you need & use GFE.
+Removable: Yes (_optional_), unless you need & use GFE.
 
 
 ## GFExperience.NvStreamSrv
@@ -141,7 +141,7 @@ Removable: Yes (_optional), unless you need & use GFE.
 The streaming service is same as GFE itself _optional_, the folder itself holds the server files which are created by [ShadowPlay](https://www.nvidia.com/en-us/geforce/geforce-experience/shadowplay/) to start and stop the recording & streaming.
 
 
-Removable: Yes (_optional), unless you need & use GFE.
+Removable: Yes (_optional_), unless you need & use GFE.
 
 
 ## HDAudio

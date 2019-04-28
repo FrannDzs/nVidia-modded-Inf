@@ -1,4 +1,4 @@
-rem Put this file into the driver folder and execute it. 
+rem Put this file into the extracted driver folder and execute (double-click) it. 
 rem Removal.png (in the Telemetry & Crap free folder) shows your what is safe to remove. 
 rd /s /q Display.Optimus
 rd /s /q Display.NView
