@@ -192,12 +192,13 @@ Release
 * Latest Nvidia PhysX System Software: [9.19.0218](http://us.download.nvidia.com/Windows/9.19.0218/PhysX-9.19.0218-SystemSoftware.exe)
 * Latest Nvidia GeForce Experience: [3.18.0.102 Stable](https://de.download.nvidia.com/GFE/GFEClient/3.18.0.102/GeForce_Experience_v3.18.0.102.exe) & [Beta 3.18.0.102](https://de.download.nvidia.com/GFE/GFEClient/3.18.0.102/GeForce_Experience_Beta_v3.18.0.102.exe)
 
+
 Requests & Pull Requests 
 ======
 
-* **Do not request new drivers/runtimes or .inf files via the GitHub issue ticket, it will result in a permanent project ban!**
-* Do not abuse the GitHub ticket system for common questions which could be answered by a google search.
-* PR are always welcome in case you found something (typo, new inf, etc.). 
+* **Do not request new drivers/runtimes or .inf files via the GitHub issue ticket system, it will result in a permanent project ban!**
+* Do not abuse the GitHub ticket system for common questions which could be answered by a Google search or a [Knowledgebase Home Page search](https://nvidia.custhelp.com/app/home/).
+* Pull requests are always welcome in case you found something (typo, new inf, etc.). 
 
 
 ## Acknowledgement & References
@@ -210,6 +211,9 @@ Requests & Pull Requests
 * [PC Gaming Wiki (pcgamingwiki.com)](https://pcgamingwiki.com/wiki/Home)
 * [PCI ID Project (pci-ids.ucw.cz)](http://pci-ids.ucw.cz/pci.ids)
 * [Install nVidia drivers on macOS the easy way (github.com)](https://github.com/Benjamin-Dobell/nvidia-update)
+
+## Debugging
+* [How to enable NVIDIA Graphics Driver and GeForce Experience installer logging ]([How to enable NVIDIA Graphics Driver and GeForce Experience installer logging (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/3171/)
 
 ## Unofficial patches
 * [nVidia patch to remove restriction on maximum number of simultaneous NVENC video encoding session (github.com)](https://github.com/keylase/nvidia-patch)
