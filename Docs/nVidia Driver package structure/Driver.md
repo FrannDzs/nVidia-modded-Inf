@@ -1,6 +1,10 @@
-This document basically explains the nVidia Driver package structure, you might ask yourself why this is important? This matters in case you want to re-pack and understand which components are removable and which components are absolutely necessary for a guaranteed minimum "crap-free" (bloat-free) nVidia package.
+This document basically explains the nVidia Driver package structure, you might ask yourself why this is important? This matters in case you want to re-pack and understand which components are removable and which components are absolutely necessary for a guaranteed minimum "[crap-free](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/Telemetry)" (debloat) nVidia package.
 
-<picture>
+![alt text](https://raw.githubusercontent.com/CHEF-KOCH/nVidia-modded-Inf/master/.github/Pictures/Folderstructure.png "Driver package opened in WinRAR")
+
+
+Driver Package
+=============
 
 - [Minimum Installation/Repack Requirements](#minimum-installationrepack-requirements)
 - [Recommend Telemetry Installation/Repack Requirements](#recommend-telemetry-installationrepack-requirements)
