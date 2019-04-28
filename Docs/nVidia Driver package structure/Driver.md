@@ -1,4 +1,4 @@
-This document basically explains the nVidia Driver package structure, you might ask yourself why this is important? This matters in case you want to re-pack and understand which components are removable and which components are absolutely necessary for a guaranteed minimum "[crap-free](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/Telemetry)" (debloat) nVidia package.
+This document basically explains the nVidia Driver package structure, you might ask yourself why this is important? This matter in case you want to re-pack and understand which components are removable and which components are absolutely necessary for a guaranteed minimum "[crap-free](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/Telemetry)" (debloat) nVidia package.
 
 ![alt text](https://raw.githubusercontent.com/CHEF-KOCH/nVidia-modded-Inf/master/.github/Pictures/Folderstructure.png "Driver package opened in WinRAR")
 
@@ -6,39 +6,43 @@ This document basically explains the nVidia Driver package structure, you might 
 Driver Package
 =============
 
-- [Minimum Installation/Repack Requirements](#minimum-installationrepack-requirements)
-- [Recommend Telemetry Installation/Repack Requirements](#recommend-telemetry-installationrepack-requirements)
-- [My "RePack" Telemetry Installation/Repack Requirements](#my-%22repack%22-telemetry-installationrepack-requirements)
-- [GFE Installation/Repack Requirements](#gfe-installationrepack-requirements)
-- [Display.Driver](#displaydriver)
-- [Display.NView](#displaynview)
-- [Display.Optimus](#displayoptimus)
-- [Display.Update](#displayupdate)
-- [GFExperience](#gfexperience)
-- [GFExperience.NvStreamSrv](#gfexperiencenvstreamsrv)
-- [HDAudio](#hdaudio)
-- [MSVCRT](#msvcrt)
-- [NGXCore](#ngxcore)
-- [nodejs](#nodejs)
-- [NvAbHub](#nvabhub)
-- [NvBackend](#nvbackend)
-- [NvCamera](#nvcamera)
-- [NvContainer](#nvcontainer)
-- [NVI2](#nvi2)
-- [NvTelemetry](#nvtelemetry)
-- [NvVAD](#nvvad)
-- [NvvHCI](#nvvhci)
-- [PhysX](#physx)
-- [PPC](#ppc)
-- [ShadowPlay](#shadowplay)
-- [ShieldWirelessController](#shieldwirelesscontroller)
-- [Update.Core](#updatecore)
-- [EULA.txt](#eulatxt)
-- [license.txt](#licensetxt)
-- [ListDevices.txt](#listdevicestxt)
-- [setup.cfg](#setupcfg)
-- [setup.exe](#setupexe)
-- [Where does GeForce Experience download the drivers?](#where-does-geforce-experience-download-the-drivers)
+- [Driver Package](#driver-package)
+  - [Minimum Installation/Repack Requirements](#minimum-installationrepack-requirements)
+  - [Recommend Telemetry Installation/Repack Requirements](#recommend-telemetry-installationrepack-requirements)
+  - [My "RePack" Telemetry Installation/Repack Requirements](#my-%22repack%22-telemetry-installationrepack-requirements)
+  - [GFE Installation/Repack Requirements](#gfe-installationrepack-requirements)
+  - [Display.Driver](#displaydriver)
+  - [Display.NView](#displaynview)
+  - [Display.Optimus](#displayoptimus)
+  - [Display.Update](#displayupdate)
+  - [GFExperience](#gfexperience)
+  - [GFExperience.NvStreamSrv](#gfexperiencenvstreamsrv)
+  - [HDAudio](#hdaudio)
+  - [MSVCRT](#msvcrt)
+  - [NGXCore](#ngxcore)
+  - [nodejs](#nodejs)
+  - [NvAbHub](#nvabhub)
+  - [NvBackend](#nvbackend)
+  - [NvCamera](#nvcamera)
+  - [NvContainer](#nvcontainer)
+  - [NVI2](#nvi2)
+  - [NvTelemetry](#nvtelemetry)
+  - [NvVAD](#nvvad)
+  - [NvvHCI](#nvvhci)
+  - [PhysX](#physx)
+  - [PPC](#ppc)
+  - [NVPCF](#nvpcf)
+  - [NGX (NGXCore)](#ngx-ngxcore)
+  - [NvAbHub](#nvabhub-1)
+  - [ShadowPlay](#shadowplay)
+  - [ShieldWirelessController](#shieldwirelesscontroller)
+  - [Update.Core](#updatecore)
+  - [EULA.txt](#eulatxt)
+  - [license.txt](#licensetxt)
+  - [ListDevices.txt](#listdevicestxt)
+  - [setup.cfg](#setupcfg)
+  - [setup.exe](#setupexe)
+  - [Where does GeForce Experience download the drivers?](#where-does-geforce-experience-download-the-drivers)
 
 
 ## Minimum Installation/Repack Requirements 
@@ -95,7 +99,7 @@ Driver Package
 
 ## Display.Driver
 
-The folder contains the driver files. 
+The folder contains the driver files among other _important_ components like e.g. [VulkanRT-Installer.exe](https://en.wikipedia.org/wiki/Vulkan_(API)).
 
 Removable: The folder should never never be removed.
 
@@ -126,7 +130,7 @@ Removable: Yes (_optional), unless you need & use Optimus.
 
 ## GFExperience
 
-[GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/) (GFE) is will be installed by default. 
+[GeForce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/) (GFE) will be installed by default. 
 
 
 Removable: Yes (_optional), unless you need & use GFE.
@@ -134,7 +138,7 @@ Removable: Yes (_optional), unless you need & use GFE.
 
 ## GFExperience.NvStreamSrv
 
-The streaming service is same as GFE itself _optional_, the folder itself holds the server files which are created by [ShadowPlay](https://www.nvidia.com/en-us/geforce/geforce-experience/shadowplay/) to start and stop the recording/streaming.
+The streaming service is same as GFE itself _optional_, the folder itself holds the server files which are created by [ShadowPlay](https://www.nvidia.com/en-us/geforce/geforce-experience/shadowplay/) to start and stop the recording & streaming.
 
 
 Removable: Yes (_optional), unless you need & use GFE.
@@ -144,11 +148,10 @@ Removable: Yes (_optional), unless you need & use GFE.
 
 This is _optional_, the folder includes the driver files for [nVidia's HD Audio](https://www.nvidia.com/object/IO_27962.html) which is required in case you use HDMI/Audio output directly from/to your monitor(s). Some features explicitly need the driver or checking if the driver is installed but in normal situations it's not required to install the driver. 
 
+The Microsoft Windows own included driver already offers some basic functionality which might cover the needs of some people e.g. get sound on your TV speakers or headphones connected to your TV however, the nVidia sound driver offers more features e.g. additional PCM and pass-through formats including multi-channel hi-res formats for some AVRs.
 
-Removable: Yes (_semi-optional), unless you need & use nVidia's HD Audio. In the `repack` versions the nVidia HD Audio driver is included, it doesn't waste much space on your HDD/SSD and you could manually enable/disable it whenever you need it, within the Windows Audio Manager or Device Manager.
 
-
-Removable: Yes, unless you need & use HD Audio.
+Removable: Yes (_semi-optional), unless you need & use nVidia's HD Audio over a HDMI connection. In the `repack` versions the nVidia HD Audio driver is included, it doesn't waste much space on your HDD/SSD and you could manually enable/disable it whenever you need it, within the Windows Audio Manager or Device Manager.
 
 
 ## MSVCRT
@@ -241,7 +244,7 @@ Removable: Yes.
 
 ## PhysX
 
-nVidia's [PhysX](https://www.geforce.com/hardware/technology/physx) is an open-source real-time physics engine middleware SDK developed as a part of Nvidia GameWorks software suite.
+NVidia's [PhysX](https://www.geforce.com/hardware/technology/physx) is an open-source real-time physics engine middleware SDK developed as a part of nVidia GameWorks software suite.
 
 
 Removable: Yes. But a lot of applications and games _might benefit_ from it.
@@ -249,10 +252,34 @@ Removable: Yes. But a lot of applications and games _might benefit_ from it.
 
 ## PPC
 
-Similar to NvVAD, the folder contains a driver, in this case `NVIDIA USB Type-C Port Policy Controller` which is optional.
+Similar to NvVAD, the folder [contains a USB-C HDMI Driver](https://sites.google.com/view/virtuallink-consortium/), in this case `NVIDIA USB Type-C Port Policy Controller` which is optional.
 
 
 Removable: Yes.
+
+
+## NVPCF 
+
+This folder is only included in the Store versions, it doesn't include several exes and infs which are required for Windows internal driver installation routines.
+
+Removable: No, not needed.
+
+
+## NGX (NGXCore)
+
+Neural Graphics Framework (NGX) is an API to access tensor cores on Volta and Turing and includes the DLSS-Profile Updater.
+
+
+Removable: Yes, but normally not needed and included in the DHC package.
+
+
+## NvAbHub 
+
+
+Is a GFE component. 
+
+
+Removable: Yes, but normally not needed and included in the DHC package.
 
 
 ## ShadowPlay

@@ -213,7 +213,7 @@ Requests & Pull Requests
 * [Install nVidia drivers on macOS the easy way (github.com)](https://github.com/Benjamin-Dobell/nvidia-update)
 
 ## Debugging
-* [How to enable NVIDIA Graphics Driver and GeForce Experience installer logging ]([How to enable NVIDIA Graphics Driver and GeForce Experience installer logging (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/3171/)
+* [How to enable NVIDIA Graphics Driver and GeForce Experience installer logging (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/3171/)
 
 ## Unofficial patches
 * [nVidia patch to remove restriction on maximum number of simultaneous NVENC video encoding session (github.com)](https://github.com/keylase/nvidia-patch)
