@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) 
 :---: | :---: | :---: | :---: | --- | :---: 
+412.29 | // | // | Via [datacenter](https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-410-104/index.html#fixed-issues) | [Quadro/Tesla Mobile OEM](http://uk.download.nvidia.com/tesla/412.29/412.29-tesla-desktop-win10-64bit-international.exe) | ✗
 431.60 | // | // | // |  | ✓ (HP)
 430.53 | 430_34-8 | 04/29/2019 | Via [NCH](https://nvidia.custhelp.com/app/answers/detail/a_id/4798) | Hotfix | ✗
 432.23 | // | // | // | // | ✓ 
