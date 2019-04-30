@@ -1,6 +1,5 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) 
 :---: | :---: | :---: | :---: | --- | :---: 
-370.35 | // | // | // | [DL](http://uk.download.nvidia.com/Windows/Quadro_Certified/GRID/370.35/Quadro-Passthrough/370.35-winserv-2016-64bit-international-whql.exe) | ✗
 412.29 | // | // | Via [datacenter](https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-410-104/index.html#fixed-issues) | [Quadro/Tesla Mobile OEM](http://uk.download.nvidia.com/tesla/412.29/412.29-tesla-desktop-win10-64bit-international.exe) | ✗
 431.60 | // | // | // |  | ✓ (HP)
 430.53 | 430_34-8 | 04/29/2019 | Via [NCH](https://nvidia.custhelp.com/app/answers/detail/a_id/4798) | Hotfix | ✗
@@ -148,6 +147,8 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 368.86 | // | // | // | // | ✗
 342.01 QNF | // | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/342.01/342.01-win10-quadro-release-notes.pdf) | // | ✗ 
 389.27 | // | // | [Release Notes](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2018/05/7621d9a8-a8e0-442d-8fe4-38eef0949e09_8ad4406d297c0e86f61d1ff26c77b157cae782a2.cab) | Clevo systems | ✗
+370.35 | // | // | // | [DL](http://uk.download.nvidia.com/Windows/Quadro_Certified/GRID/370.35/Quadro-Passthrough/370.35-winserv-2016-64bit-international-whql.exe) | ✗
+354.56 | // | 12/03/2015 | // | [Lenovo Quadro Driver](http://support.lenovo.com/de/de/downloads/ds112337) | ✗
 
 
 * Hotfix drivers are always Beta same goes for Vulkan test drivers.
