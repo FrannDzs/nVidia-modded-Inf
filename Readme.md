@@ -165,6 +165,13 @@ Inf2Cat /driver:<path_to_folder_with_INF_&_Files> /os:Vista_X86,Vista_X64,Server
 
 
 
+What the "inf mod" can't provide
+======
+- [x] Adding support for [legacy GPU's](https://www.nvidia.com/object/IO_32667.html)  (see EOL) because nVidia removed (within the source code) support for it and there is no _patch_ which can undo or manipulate it.
+- [x] I'm not permitted to upload modified .dll files so please do not ask for "patch xyz". I _consider_ to provide bunch of offset patches I use, without any tool or information how you add these patches because it violates nVidia TOS (it's not _my fault_).
+
+
+
 Telemetry
 ======
 
