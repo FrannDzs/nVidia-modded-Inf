@@ -1,22 +1,23 @@
-Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) 
-:---: | :---: | :---: | :---: | --- | :---: 
+Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
+:---: | :---: | :---: | :---: | --- | :---:
+431.68 | // | // | // | // | ✓
 430.41 | // | 04/18/2019 | // | [iCafe (Espresso)](http://international.download.nvidia.com/Windows/iCafe/430.41/430.41-icafe-win7-64bit-international-whql-driver.exe) | ✗
 412.29 | // | // | Via [datacenter](https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-410-104/index.html#fixed-issues) | [Quadro/Tesla Mobile OEM](http://uk.download.nvidia.com/tesla/412.29/412.29-tesla-desktop-win10-64bit-international.exe) | ✗
 431.60 | // | // | // |  | ✓ (HP)
 430.53 | 430_34-8 | 04/29/2019 | Via [NCH](https://nvidia.custhelp.com/app/answers/detail/a_id/4798) | Hotfix | ✗
-432.23 | // | // | // | // | ✓ 
+432.23 | // | // | // | // | ✓
 417.60 | 415_00-279 | 01/02/2019 | // | GTX 1650 test driver | Homebrew
 430.39 | 430_34-5 | 04/17/2019 | [Release Notes](http://us.download.nvidia.com/Windows/430.39/430.39-win10-win8-win7-release-notes.pdf) | Also released as [Quadro](http://us.download.nvidia.com/Windows/Quadro_Certified/430.39/430.39-win10-win8-win7-quadro-release-notes.pdf) + Linux | ✗
 430.35 | 421_76-9 | 04/15/2019 | Via WUS | // | ✗
 431.65 | // | // | // | // | ✓ (MSI)
-432.12 | // | // | // | // | ✓ (Gigabyte) 
+432.12 | // | // | // | // | ✓ (Gigabyte)
 425.42 | VK418_62-20 | 04/19/2019 | Via [NVD](https://developer.nvidia.com/vulkan-driver) | Linux 418.52.05 | ✗
 425.07 | 418_00-227 | 03/26/2019 | Via [WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2019/04/6a134ead-8003-493b-b958-208d9d9707c2_439e6badf1e893f4e251b032b53d26b841d4ad92.cab) | Samsung | ✗
 430.25 | 421_76-8 | 04/08/201 | Via WUS | [DL + Info](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/430.25)| ✗
 417.98 | 415_00-354 | 03/03/2019 | Via [WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2019/04/475b55b0-e502-4862-b911-f56ce59441a8_7157521fff31ba69b20cea81d3c3e5048c1c3eae.cab) | Lenovo | ✗
 419.71 | // | // | // | [Lenovo Quadro mobile](https://support.lenovo.com/nl/nl/downloads/ds539266) | ✗
 425.31 | 419_50-20 | 04/09/2019, 25.21.14.2531 | [Release Notes](http://us.download.nvidia.com/Windows/425.31/425.31-win10-win8-win7-release-notes.pdf) | ~~The driver was also NDA (Gigabyte but under different branch 418.x)~~ NV released the driver now as Quadro | ✗
-425.35 | // | // | // | // | ✓ 
+425.35 | // | // | // | // | ✓
 425.30 | 418_62-18 | 04/08/2019 | [NVD](https://developer.nvidia.com/vulkan-driver) | Linux 418.52.03 | ✗
 430.56 | 421_65-07 | 03/28/2019 | // | // | ✓ (MSI)
 419.72 | 418_00-216 | 03/18/2019 | // | Via [WSUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2019/04/2b998e86-5a6c-49e2-8470-199da2bb8f70_a9a340bdf5e568991a3d87229e267ac575fdcd8a.cab) for Huawai GeForce MX250 | ✗
@@ -30,7 +31,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 419.72 | // | // | // | // | ✓ (Gigabyte)
 419.65 | // | // | // | // | ✓ (MSI)
 419.64 | // | // | // | // | ✓
-419.67 | 419_50-5 | 03/17/2019 | [Release Notes](http://us.download.nvidia.com/Windows/419.67/419.67-win10-crd-release-notes.pdf) | NVIDIA CREATOR READY DRIVER + Linux 418.56 + Quadro | ✗ 
+419.67 | 419_50-5 | 03/17/2019 | [Release Notes](http://us.download.nvidia.com/Windows/419.67/419.67-win10-crd-release-notes.pdf) | NVIDIA CREATOR READY DRIVER + Linux 418.56 + Quadro | ✗
 420.05 | // | // | // | // | ✗
 419.62 | VK418_62-14 | 03/14/2019 | [Via NVD](https://developer.nvidia.com/vulkan-driver) | Linux 418.49.04 | ✗
 417.88 | // | 02/12/2019 | // | HP | ✗
@@ -53,7 +54,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 417.78 | // | // | // | // | ✓
 417.63 | VK416_93-19 | 01/03/2019 | via [NVD](https://developer.nvidia.com/vulkan-driver) | Linux 415.22.05 | ✓
 417.75 | r417_68-5 | 01/16/2019 | [nVidia Cuda Help](https://nvidia.custhelp.com/app/answers/detail/a_id/4770) | G-SYNC monitor may display random desktop flicker when an HDMI monitor is also connected to the same graphics card (**Hotfix**) | ✓
-418.02 | // | // | // | // | ✓ 
+418.02 | // | // | // | // | ✓
 417.71 | r417_68-4 | 01/11/2019 | [Release Notes](http://us.download.nvidia.com/Windows/417.71/417.71-win10-win8-win7-desktop-release-notes.pdf) | FreeSync driver + [Linux](http://de.download.nvidia.com/XFree86/Linux-x86_64/415.27/NVIDIA-Linux-x86_64-415.27.run), [FreeBSD](http://us.download.nvidia.com/XFree86/FreeBSD-x86_64/415.27/NVIDIA-FreeBSD-x86_64-415.27.tar.gz) & [Solaris](http://fr.download.nvidia.com/solaris/415.27/NVIDIA-Solaris-x86-415.27.run) 415.27 | ✗
 417.59 | // | 12/28/2018 | // | [Razer mobile via WSUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2019/01/4db6dd57-a04a-4c4c-85d8-35bb9a4ebec7_d403b2d147d5a56620a77371e4f303c834c8f427.cab) | ✗
 417.38 | // | 12/13/2018 | // | [Lenovo WSUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2019/01/fa8d949a-2b26-4603-9f09-a805d1576b83_defd46c20ef50189b9e84d5db9501e1b95b7e79a.cab) | ✗
@@ -69,7 +70,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 412.16 | // | // | [Release Notes](http://it.download.nvidia.com/Windows/Quadro_Certified/412.16/412.16-win10-win8-win7-quadro-release-notes.pdf) | [Win 10](http://fr.download.nvidia.com/Windows/Quadro_Certified/412.16/412.16-quadro-desktop-notebook-win10-64bit-international-whql.exe) + [Win 8](http://de.download.nvidia.com/Windows/Quadro_Certified/412.16/412.16-quadro-desktop-notebook-win8-win7-64bit-international-whql.exe) | ✗
 417.19 | // | 12/17/2018 | None, via [Wsus](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2019/01/9538537c-0ced-41c1-9901-1bdb0569084b_655225da72eb65799d313698c846c61fa68f3324.cab) | Clevo mobile driver | ✗
 410.93 | // | // | // | [Linux](http://de.download.nvidia.com/XFree86/Linux-x86_64/410.93/NVIDIA-Linux-x86_64-410.93.run) + [FreeBSD](http://us.download.nvidia.com/XFree86/FreeBSD-x86_64/410.93/NVIDIA-FreeBSD-x86_64-410.93.tar.gz) + [Solaris](http://fr.download.nvidia.com/solaris/410.93/NVIDIA-Solaris-x86-410.93.run) | ✗
-417.58 | r417_18-15 | 12/28/2018 | [Release Notes](http://nvidia.custhelp.com/app/answers/detail/a_id/4758) | Hotfix Driver | ✗ 
+417.58 | r417_18-15 | 12/28/2018 | [Release Notes](http://nvidia.custhelp.com/app/answers/detail/a_id/4758) | Hotfix Driver | ✗
 416.72 | // | 10/30/2018 | // | [DL](ftp://ftp.clevo.com.tw/P7xxTMxG/VGA/NV_VGA_181224.zip) Clevo (mobile) | ✗
 417.35 | // | // | [Release Notes](http://us.download.nvidia.com/Windows/417.35/417.35-win10-win8-win7-desktop-release-notes.pdf) | WHQL update for NVIDIA_DEV.1E02 = "NVIDIA TITAN RTX" + Linux 415.25 | ✗
 417.44 | // | // | // | // | ✗
@@ -111,42 +112,42 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 398.46 | r398_35-3 | 24.21.13.9846 (07-03-2018) | Black Textures in Wolfenstein II: The New Colossus | Hotfix Driver for 398.36 WHQL | ✗
 398.36 | r398_35-2 | 24.21.13.9836 (06-24-2018) | [Release Notes](http://us.download.nvidia.com/Windows/398.36/398.36-win10-win8-win7-desktop-release-notes.pdf) | // | ✗
 398.18 | R398.18 (r397_91-11) | 24.21.13.9818 (06-06-2018) | [Source](http://nvidia.custhelp.com/app/answers/detail/a_id/4678) | Beta HotFix Driver which fixes Black Screen when booting Windows after installing 397.93 display driver | ✗
-398.11 | r397_91-9 | 06/01/2018 | [Release Notes](https://uk.download.nvidia.com/Windows/398.11/398.11-win10-win8-win7-desktop-release-notes.pdf) | // | ✗ 
-397.97 | r396_00-182 | 05/30/2018 | // | NVIDIA Quadro P1000 only driver | ✗ 
-397.96 | VK396_42-39 | 05/24/2018 | // | Official | ✗ 
-397.93 | r397_91-3 | 05/22/2018 | [Release Notes](http://us.download.nvidia.com/Windows/397.93/397.93-win10-win8-win7-desktop-release-notes.pdf) | CUDA 9.2 | ✗ 
-397.64 QNF | R396 U1.5 | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/397.64/397.64-win10-win8-win7-quadro-grid-release-notes.pdf) | [DL](http://www.nvidia.com/download/driverResults.aspx/134074/en-us) // | ✗ 
+398.11 | r397_91-9 | 06/01/2018 | [Release Notes](https://uk.download.nvidia.com/Windows/398.11/398.11-win10-win8-win7-desktop-release-notes.pdf) | // | ✗
+397.97 | r396_00-182 | 05/30/2018 | // | NVIDIA Quadro P1000 only driver | ✗
+397.96 | VK396_42-39 | 05/24/2018 | // | Official | ✗
+397.93 | r397_91-3 | 05/22/2018 | [Release Notes](http://us.download.nvidia.com/Windows/397.93/397.93-win10-win8-win7-desktop-release-notes.pdf) | CUDA 9.2 | ✗
+397.64 QNF | R396 U1.5 | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/397.64/397.64-win10-win8-win7-quadro-grid-release-notes.pdf) | [DL](http://www.nvidia.com/download/driverResults.aspx/134074/en-us) // | ✗
 397.76 | VK396_42-37 | 05/11/2018 | // | Incl. latest fixes from general release driver 397.64 | ✗
-397.64 QNF | r397_05-25 | 05/07/2018 | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/397.64/397.64-win10-win8-win7-quadro-grid-release-notes.pdf) | // | ✗  
-397.64 | r397_05-25  | 05/07/2018 | [Release Notes](http://us.download.nvidia.com/Windows/397.64/397.64-win10-win8-win7-desktop-release-notes.pdf) | // | ✗  
-392.00 | // | 31/08/2018 | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/392.00/392.00-win10-win8-win7-quadro-grid-release-notes.pdf) | Quadro | ✗ 
-391.89 | // | // | // | Quadro | ✗ 
-391.391.7676 | // | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/391.74/391.74-win10-win8-win7-quadro-grid-release-notes.pdf) | [Download via WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2018/08/51645a95-b26b-41d0-9b2c-6f6b4fc0025e_57dd00c6fbc13a44666f078b29fe79676dbf5086.cab) HP mobile + Quadro | ✗ 
-391.58 | r391_05-20  | 04/30/2018 | // | Last driver support Fermi Cards | ✗ 
-391.58 QNF | R390 U5 | 04/30/2018 | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/391.58/391.58-win10-win8-win7-quadro-grid-release-notes.pdf) | // | ✗ 
-397.55 | r397_05-20  | 05/03/2018 | // | Removed and replaced with 397.64 | ✗ 
-397.54 | VK396_42-34 | // | // | SVP has no GPU acceleration | ✗ 
-391.48 | // | 04/17/2018 | [Download via WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2018/05/bc495c55-00f6-4d5c-bda3-1e543e3bf918_5cccc0d89fc63f9417aaca3b95c5d325fe1ec8ae.cab) | MSI mobile | ✗ 
-391.35 | r391_33-2   | 03/23/2018 | [Release Notes](http://us.download.nvidia.com/Windows/391.35/391.35-win10-win8-win7-desktop-release-notes.pdf) | + OEM mobile | ✗ 
-391.34 | //  | 03/23/2018 | [Download via WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2018/04/bc16ee24-1e09-4433-9af0-b7b1232f6940_5180892ce1abb2d4b63d8bf6903a093598522cf4.cab) | Gigabyte Mobile | ✗ 
-391.33 | //  | 03/15/2018 | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/391.33/391.33-win10-win8-win7-quadro-grid-release-notes.pdf) | Quadro | ✗ 
-397.31 | r397_05-13  | 04/22/2018 | [Release Notes](https://us.download.nvidia.com/Windows/397.31/397.31-win10-win8-win7-desktop-release-notes.pdf) | First official WDDM 2.4 driver. Removed and replaced with 397.35. | ✗ 
-391.29 | //  | 03/19/2018 | [Download via WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2018/04/119118e0-af1e-4507-bb87-bb2a10a15ae7_b9a151c597361111294935a9ff8b43baa2b15700.cab) | Acer | ✗ 
-391.26 | //  | 03/16/2018 | [Download via WUS](https://www.catalog.update.microsoft.com/Search.aspx?q=23.21.13.9126) | Fujitsu Quadro Mobile | ✗ 
-391.25 | // | 03/16/2018 | [Download via WUS](https://www.catalog.update.microsoft.com/Search.aspx?q=23.21.13.9125) | Lenovo | ✗ 
-391.24 | r390_99-9   | 03/15/2018 | // | // | ✗ 
+397.64 QNF | r397_05-25 | 05/07/2018 | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/397.64/397.64-win10-win8-win7-quadro-grid-release-notes.pdf) | // | ✗
+397.64 | r397_05-25  | 05/07/2018 | [Release Notes](http://us.download.nvidia.com/Windows/397.64/397.64-win10-win8-win7-desktop-release-notes.pdf) | // | ✗
+392.00 | // | 31/08/2018 | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/392.00/392.00-win10-win8-win7-quadro-grid-release-notes.pdf) | Quadro | ✗
+391.89 | // | // | // | Quadro | ✗
+391.391.7676 | // | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/391.74/391.74-win10-win8-win7-quadro-grid-release-notes.pdf) | [Download via WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2018/08/51645a95-b26b-41d0-9b2c-6f6b4fc0025e_57dd00c6fbc13a44666f078b29fe79676dbf5086.cab) HP mobile + Quadro | ✗
+391.58 | r391_05-20  | 04/30/2018 | // | Last driver support Fermi Cards | ✗
+391.58 QNF | R390 U5 | 04/30/2018 | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/391.58/391.58-win10-win8-win7-quadro-grid-release-notes.pdf) | // | ✗
+397.55 | r397_05-20  | 05/03/2018 | // | Removed and replaced with 397.64 | ✗
+397.54 | VK396_42-34 | // | // | SVP has no GPU acceleration | ✗
+391.48 | // | 04/17/2018 | [Download via WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2018/05/bc495c55-00f6-4d5c-bda3-1e543e3bf918_5cccc0d89fc63f9417aaca3b95c5d325fe1ec8ae.cab) | MSI mobile | ✗
+391.35 | r391_33-2   | 03/23/2018 | [Release Notes](http://us.download.nvidia.com/Windows/391.35/391.35-win10-win8-win7-desktop-release-notes.pdf) | + OEM mobile | ✗
+391.34 | //  | 03/23/2018 | [Download via WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2018/04/bc16ee24-1e09-4433-9af0-b7b1232f6940_5180892ce1abb2d4b63d8bf6903a093598522cf4.cab) | Gigabyte Mobile | ✗
+391.33 | //  | 03/15/2018 | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/391.33/391.33-win10-win8-win7-quadro-grid-release-notes.pdf) | Quadro | ✗
+397.31 | r397_05-13  | 04/22/2018 | [Release Notes](https://us.download.nvidia.com/Windows/397.31/397.31-win10-win8-win7-desktop-release-notes.pdf) | First official WDDM 2.4 driver. Removed and replaced with 397.35. | ✗
+391.29 | //  | 03/19/2018 | [Download via WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2018/04/119118e0-af1e-4507-bb87-bb2a10a15ae7_b9a151c597361111294935a9ff8b43baa2b15700.cab) | Acer | ✗
+391.26 | //  | 03/16/2018 | [Download via WUS](https://www.catalog.update.microsoft.com/Search.aspx?q=23.21.13.9126) | Fujitsu Quadro Mobile | ✗
+391.25 | // | 03/16/2018 | [Download via WUS](https://www.catalog.update.microsoft.com/Search.aspx?q=23.21.13.9125) | Lenovo | ✗
+391.24 | r390_99-9   | 03/15/2018 | // | // | ✗
 391.05 | r390_99-5   | 02/28/2018 | // | Mobile OEM Hotfix | ✓
-391.35 | r391_33-2   | 03/23/2018 | // | // | ✗ 
-391.24 | r390_99-9   | 03/15/2018 | // | // | ✗ 
-391.05 | r390_99-5   | 02/28/2018 | // | // | ✗ 
-391.03 | r390_99-3   | 02/23/2018 | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/391.03/391.03-win10-win8-win7-quadro-grid-release-notes.pdf) | Quadro | ✗ 
-391.01 | r390_99-2   | 02/23/2018 | [Release Notes](http://us.download.nvidia.com/Windows/391.01/391.01-win10-win8-win7-notebook-release-notes.pdf) | Mobile OEM | ✗ 
-390.85 | r390_00-168 | 01/22/2018 | // | // | ✗ 
-390.77 | r390_00-154 | 01/23/2018 | // | // | ✗ 
+391.35 | r391_33-2   | 03/23/2018 | // | // | ✗
+391.24 | r390_99-9   | 03/15/2018 | // | // | ✗
+391.05 | r390_99-5   | 02/28/2018 | // | // | ✗
+391.03 | r390_99-3   | 02/23/2018 | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/391.03/391.03-win10-win8-win7-quadro-grid-release-notes.pdf) | Quadro | ✗
+391.01 | r390_99-2   | 02/23/2018 | [Release Notes](http://us.download.nvidia.com/Windows/391.01/391.01-win10-win8-win7-notebook-release-notes.pdf) | Mobile OEM | ✗
+390.85 | r390_00-168 | 01/22/2018 | // | // | ✗
+390.77 | r390_00-154 | 01/23/2018 | // | // | ✗
 388.59 | // | // | // | // | ✓
-377.55 | // | // | // | // | ✗ 
+377.55 | // | // | // | // | ✗
 368.86 | // | // | // | // | ✗
-342.01 QNF | // | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/342.01/342.01-win10-quadro-release-notes.pdf) | // | ✗ 
+342.01 QNF | // | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/342.01/342.01-win10-quadro-release-notes.pdf) | // | ✗
 389.27 | // | // | [Release Notes](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2018/05/7621d9a8-a8e0-442d-8fe4-38eef0949e09_8ad4406d297c0e86f61d1ff26c77b157cae782a2.cab) | Clevo systems | ✗
 370.35 | // | // | // | [DL](http://uk.download.nvidia.com/Windows/Quadro_Certified/GRID/370.35/Quadro-Passthrough/370.35-winserv-2016-64bit-international-whql.exe) | ✗
 354.56 | // | 12/03/2015 | // | [Lenovo Quadro Driver](http://support.lenovo.com/de/de/downloads/ds112337) | ✗
@@ -154,7 +155,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 
 * Hotfix drivers are always Beta same goes for Vulkan test drivers.
 * Desktop & Notebook drivers are identical except the Setup.exe. Notebook user don't need to download the "Notebook version", just replace the .inf and that's it you have to do.
-* All drivers are WHQL unless there test/NDA or Hotfix (beta WHQL) drivers. Microsoft (Windows) requires to sign all driver, otherwise you get the popup warning that the driver can't be installed or that you have agree to install a beta/homebrew driver. 
+* All drivers are WHQL unless there test/NDA or Hotfix (beta WHQL) drivers. Microsoft (Windows) requires to sign all driver, otherwise you get the popup warning that the driver can't be installed or that you have agree to install a beta/homebrew driver.
 * [x86 will be shutdown official by nVidia](https://www.phoronix.com/scan.php?page=news_item&px=32-bit-NVIDIA-Drop-Dropping).
 * _Test drivers_ are always [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) unless there is an official release.
 * You can see the Branch of the current driver with e.g. [nVidia Inspector](https://www.techpowerup.com/download/nvidia-inspector/).
