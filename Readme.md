@@ -5,9 +5,9 @@
 
 #### nVidia modded Inf project was created 2017 by CHEF-KOCH and is under GNU GENERAL PUBLIC LICENSE v3.
 
-The project is _unofficial_ and not in any relationship or supported by [nVidia Cooperation](https://www.nvidia.com/en-us/about-nvidia/). 
+The project is _unofficial_ and not in any relationship or supported by [nVidia Cooperation](https://www.nVidia.com/en-us/about-nVidia/).
 
-This project only support x64 Windows 10 versions, if you like to see x86 [ask nVidia to extend the support](https://www.anandtech.com/show/12191/nvidia-to-cease-driver-development-for-32bit-operating-systems). 
+This project only support x64 Windows 10 versions, if you like to see x86 [ask nVidia to extend the support](https://www.anandtech.com/show/12191/nVidia-to-cease-driver-development-for-32bit-operating-systems).
 
 [![GitHub](https://img.shields.io/github/license/CHEF-KOCH/nVidia-modded-Inf.svg?label=Project%20license&style=popout)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/blob/master/LICENSE)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
@@ -30,15 +30,15 @@ Modded drivers will NEVER transform your GPU to another one and will NEVER add f
 
 
 **Reasons for modding**
-* You like to test a newer driver which is not available for your card.
-* New feature tests.
+* New driver features tests.
+* You like to test newer driver(s) which are no longer supported.
 * It could be used to force installation of newer drivers on OEM locked GPUs.
 * You need an older driver that is not officially supported for your GPU because you have a specific application that is broken in newer ones and you cannot wait for a fix.
 
 
 **Keep in mind**:
 
-> Fermi GPUs (400 and 500 series) as from 396 driver are official no longer supported!
+> Fermi GPUs (400 and 500 series) as from 396 driver are official no longer supported! Same goes for [700M and 800M GPU's](https://nvidia.custhelp.com/app/answers/detail/a_id/4779).
 
 
 
@@ -50,7 +50,7 @@ Short answer:
 * Standard is the "old" way which you (for now) should prefer since UWD drivers aren't tweakable (in terms of mods) compared to the standard (legacy) drivers.
 * "DCH" (Declarative, Componentized, Hardware Support Apps) refers to new packages pre-installed by OEMs implementing the Microsoft Universal Driver paradigm.
 * DCH drivers cannot be installed over a standard system, and Standard drivers cannot be installed over a DCH system.
-* To confirm the type of system you have, locate Driver Type under the System Information menu in the NVIDIA Control Panel.
+* To confirm the type of system you have, locate Driver Type under the System Information menu in the nVidia Control Panel.
 
 
 Detailed Answer:
@@ -72,7 +72,7 @@ An official DDU guide can be found [here](https://www.wagnardsoft.com/content/dd
 Modded Inf Driver installation
 ===================
 
-* Download and extract the Driver (download from official source) - wait until the installer has unzipped the files e.g. to `C:\Nvidia`.
+* Download and extract the Driver (download from official source) - wait until the installer has unzipped the files e.g. to `C:\nVidia`.
 * Search for e.g. "nv_disp.cat" (or corresponding inf-file) in the 'Display.Driver Folder'.
 * Follow the Video or the written instruction to install the certificate manually (optional).
 * Now you can install all my modded drivers, without disabling 'driver signature enforcement'.
@@ -82,8 +82,8 @@ Modded Inf Driver installation
 How to show current driver branch?!
 ===================
 
-* Download [nVidia Inspector](https://www.softpedia.com/get/System/System-Info/NVIDIA-Inspector.shtml)
-* Check the Overview Window under "Driver version" you see the installed driver branch. 
+* Download [nVidia Inspector](https://www.softpedia.com/get/System/System-Info/nVidia-Inspector.shtml)
+* Check the Overview Window under "Driver version" you see the installed driver branch.
 
 
 
@@ -121,7 +121,7 @@ bcdedit -set TESTSIGNING OFF
 ```
 
 
-After executing the mentioned commands you need to reboot Windows 10 in order to apply the changes. Some (if not all) new laptops have no options to turn [secure boot](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-secure-boot) off. 
+After executing the mentioned commands you need to reboot Windows 10 in order to apply the changes. Some (if not all) new laptops have no options to turn [secure boot](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-secure-boot) off.
 
 
 
@@ -168,17 +168,14 @@ Inf2Cat /driver:<path_to_folder_with_INF_&_Files> /os:Vista_X86,Vista_X64,Server
 Telemetry
 ======
 
-All information regarding driver bundled telemetry can be found under the `/Telemetry & Crap free` folder. 
+All information regarding driver bundled telemetry can be found under the `/Telemetry` folder.
 
-It's not necessary to block telemetry with your firewall, since you can manually opt-out or install a '[crap free](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases)' version and you also can remove the unneeded folders/services manually. 
-
-
-The Guru3d user [uKER](https://forums.guru3d.com/members/uker.96766/) programmed a little utility called [NVSlimmer](https://forums.guru3d.com/threads/nvidia-driver-slimming-utility.423072/) which allows you (via GUI) to remove the _unneeded_ folders/features - it's basically the same as doing it via a batch/cmd but with an simple interface to allow you to manually select all folders based on your own 'removal needs', the program includes also an integrated required list in order to warn user what is really necessary to keep in order to use the driver. 
-
-Another program (rip-off from NVSlimmer) called "NVCleanstall" can be found in the [TechPowerUP forums](https://www.techpowerup.com/forums/threads/nvcleanstall-clean-installer-for-nvidia-drivers-alpha.249085/).  
+It's not necessary to block telemetry with your firewall, since you can manually opt-out or install a '[crap free](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases)' version and you also can remove the unneeded folders/services manually.
 
 
-At this point it's unclear if blocking the telemetry with firewall is 100% _effective_ since the submitted data are tunneled + encrypted [needs final confirmation]. 
+The Guru3d user [uKER](https://forums.guru3d.com/members/uker.96766/) programmed a little utility called [NVSlimmer](https://forums.guru3d.com/threads/nVidia-driver-slimming-utility.423072/) which allows you (via GUI) to remove the _unneeded_ folders/features - it's basically the same as doing it via a batch/cmd but with an simple interface to allow you to manually select all folders based on your own 'removal needs', the program includes also an integrated required list in order to warn user what is really necessary to keep in order to use the driver.
+
+Another program (rip-off from NVSlimmer) called "NVCleanstall" can be found in the [TechPowerUP forums](https://www.techpowerup.com/forums/threads/nvcleanstall-clean-installer-for-nVidia-drivers-alpha.249085/).
 
 
 
@@ -189,49 +186,42 @@ Release
 
 * [![nVidia beta](https://img.shields.io/github/release-pre/CHEF-KOCH/nVidia-modded-Inf.svg?label=Latest%20nVidia%20beta&style=popout)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tags)
 
-* Latest Nvidia PhysX System Software: [9.19.0218](http://us.download.nvidia.com/Windows/9.19.0218/PhysX-9.19.0218-SystemSoftware.exe)
-* Latest Nvidia GeForce Experience: [3.18.0.102 Stable](https://de.download.nvidia.com/GFE/GFEClient/3.18.0.102/GeForce_Experience_v3.18.0.102.exe) & [Beta 3.18.0.102](https://de.download.nvidia.com/GFE/GFEClient/3.18.0.102/GeForce_Experience_Beta_v3.18.0.102.exe)
+* Latest nVidia PhysX System Software: [9.19.0218](http://us.download.nVidia.com/Windows/9.19.0218/PhysX-9.19.0218-SystemSoftware.exe)
+* Latest nVidia GeForce Experience: [3.18.0.102 Stable](https://de.download.nVidia.com/GFE/GFEClient/3.18.0.102/GeForce_Experience_v3.18.0.102.exe) & [Beta 3.18.0.102](https://de.download.nVidia.com/GFE/GFEClient/3.18.0.102/GeForce_Experience_Beta_v3.18.0.102.exe)
 
-
-Requests & Pull Requests 
-======
-
-* **Do not request new drivers/runtimes or .inf files via the GitHub issue ticket system, it will result in a permanent project ban!**
-* Do not abuse the GitHub ticket system for common questions which could be answered by a Google search or a [Knowledgebase Home Page search](https://nvidia.custhelp.com/app/home/).
-* Pull requests are always welcome in case you found something (typo, new inf, etc.). 
 
 
 ## Acknowledgement & References
-* [Official NVIDIA Display Driver Feedback Page (surveys.nvidia.com)](https://surveys.nvidia.com/index.jsp?pi=6e7ea6bb4a02641fa8f07694a40f8ac6)
 * [DDU Source Code (github.com/Wagnard)](https://github.com/Wagnard/display-drivers-uninstaller)
-* [Nvidia INF driver modding (forums.guru3d.com)](http://forums.guru3d.com/showthread.php?t=377158)
-* [LaptopVideo2Go (laptopvideo2go.com)](https://laptopvideo2go.com/)
 * [GeForce Driver Installation Guide A guide to ensure your drivers are installed properly (forums.geforce.com)](https://forums.geforce.com/default/topic/467215/geforce-driver-installation-guide-a-guide-to-ensure-your-drivers-are-installed-properly-/)
-* [Windows 10 FAQ and Driver installation tips (forums.geforce.com)](https://forums.geforce.com/default/topic/862424/geforce-drivers/windows-10-faq-and-driver-installation-tips-/)
+* [Install nVidia drivers on macOS the easy way (github.com)](https://github.com/Benjamin-Dobell/nVidia-update)
+* [LaptopVideo2Go (laptopvideo2go.com)](https://laptopvideo2go.com/)
+* [Official nVidia Display Driver Feedback Page (surveys.nvidia.com)](https://surveys.nVidia.com/index.jsp?pi=6e7ea6bb4a02641fa8f07694a40f8ac6)
 * [PC Gaming Wiki (pcgamingwiki.com)](https://pcgamingwiki.com/wiki/Home)
 * [PCI ID Project (pci-ids.ucw.cz)](http://pci-ids.ucw.cz/pci.ids)
-* [Install nVidia drivers on macOS the easy way (github.com)](https://github.com/Benjamin-Dobell/nvidia-update)
+* [Windows 10 FAQ and Driver installation tips (forums.geforce.com)](https://forums.geforce.com/default/topic/862424/geforce-drivers/windows-10-faq-and-driver-installation-tips-/)
+* [nVidia INF driver modding (forums.guru3d.com)](http://forums.guru3d.com/showthread.php?t=377158)
 
 ## Debugging
-* [How to enable NVIDIA Graphics Driver and GeForce Experience installer logging (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/3171/)
+* [How to enable nVidia Graphics Driver and GeForce Experience installer logging (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/3171/)
 
 ## Unofficial patches
-* [nVidia patch to remove restriction on maximum number of simultaneous NVENC video encoding session (github.com)](https://github.com/keylase/nvidia-patch)
-* [Driver patch for enabling unlimited NVENC sessions (old) (github.com)](https://github.com/Matviy/nvidia-NVENC-multi-session-patch)
+* [Driver patch for enabling unlimited NVENC sessions (old) (github.com)](https://github.com/Matviy/nVidia-NVENC-multi-session-patch)
 * [NvencSessionLimitBump (github.com](https://github.com/jantenhove/NvencSessionLimitBump)
-* [nVidia kvm patcher (github.com)](https://github.com/sk1080/nvidia-kvm-patcher)
 * [WhateverGreen (github.com)](https://github.com/acidanthera/WhateverGreen)
-* [purge-wrangler (github.com)](https://github.com/mayankk2308/purge-wrangler)
 * [Wine patches (github.com)](https://github.com/SveSop/wine_patches)
+* [nVidia kvm patcher (github.com)](https://github.com/sk1080/nVidia-kvm-patcher)
+* [nVidia patch to remove restriction on maximum number of simultaneous NVENC video encoding session (github.com)](https://github.com/keylase/nVidia-patch)
+* [purge-wrangler (github.com)](https://github.com/mayankk2308/purge-wrangler)
 
 ## Unofficial updater
-* [nVidia Update PowerShell Script (github.com)](https://github.com/lord-carlos/nvidia-update)
+* [nVidia Update PowerShell Script (github.com)](https://github.com/lord-carlos/nVidia-update)
 
 ## Bios
-* [NVIDIA-vBIOS-VFIO-Patcher (github.com)](https://github.com/Matoking/NVIDIA-vBIOS-VFIO-Patcher)
-* [Maxwell Bios Tweaker for edit NVidia GTX 9XX bios (github.com)](https://github.com/richardblynd/maxwellbiostweaker)
-* [Nvidia-PascalBiosEditor (github.com)](https://github.com/vvaske/Nvidia-PascalBiosEditor)
-* [VGA and BIOS rom font extraction (github.com](https://github.com/spacerace/romfont)
+* [Maxwell Bios Tweaker for edit nVidia GTX 9XX bios (github.com)](https://github.com/richardblynd/maxwellbiostweaker)
+* [VGA and BIOS rom font extraction (github.com)](https://github.com/spacerace/romfont)
+* [nVidia-PascalBiosEditor (github.com)](https://github.com/vvaske/nVidia-PascalBiosEditor)
+* [nVidia-vBIOS-VFIO-Patcher (github.com)](https://github.com/Matoking/nVidia-vBIOS-VFIO-Patcher)
 
 ## EOL
 * [End of Driver Support for Quadro Kepler-series Notebook Products (April 30, 2020)](https://nvidia.custhelp.com/app/answers/detail/a_id/4788)
