@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+425.45 | 418_00-265 | 04/23/2019 | [Via WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2019/05/e646781c-149e-4a9e-a7b7-24a4b3410e53_87a267a9c7963d7c6dec4e43c9644400a0153b40.cab) | Acer | ✗
 425.25 | // | // | Via [NVD](https://docs.nvidia.com/datacenter/tesla/index.html) | Tesla | ✗
 418.74 | // | // | Via [NDT](https://devtalk.nvidia.com/default/topic/1051453/announcements-and-news/linux-solaris-and-freebsd-driver-418-74-long-lived-branch-release-/) | Linux | ✗
 431.68 | // | // | // | // | ✓
