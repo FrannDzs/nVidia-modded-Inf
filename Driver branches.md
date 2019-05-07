@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+418.74 | // | // | Via [NDT](https://devtalk.nvidia.com/default/topic/1051453/announcements-and-news/linux-solaris-and-freebsd-driver-418-74-long-lived-branch-release-/) | Linux | ✗
 431.68 | // | // | // | // | ✓
 430.41 | // | 04/18/2019 | // | [iCafe (Espresso)](http://international.download.nvidia.com/Windows/iCafe/430.41/430.41-icafe-win7-64bit-international-whql-driver.exe) | ✗
 412.29 | // | // | Via [datacenter](https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-410-104/index.html#fixed-issues) | [Quadro/Tesla Mobile OEM](http://uk.download.nvidia.com/tesla/412.29/412.29-tesla-desktop-win10-64bit-international.exe) | ✗
