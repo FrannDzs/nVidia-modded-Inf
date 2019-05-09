@@ -1,6 +1,7 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
-[430.64](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/430.64) | 430_58-4 | 05/05/2019 | [Release Notes](https://uk.download.nvidia.com/Windows/430.64/430.64-win10-win8-win7-release-notes.pdf) | GRD + ODE | ✗
+425.51 | R430 U1 | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/430.39/430.39-win10-win8-win7-quadro-release-notes.pdf) | ODE | ✗
+[430.64](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/430.64) | 430_58-4 | 05/05/2019 | [Release Notes](https://uk.download.nvidia.com/Windows/430.64/430.64-win10-win8-win7-release-notes.pdf) | GRD | ✗
 425.45 | 418_00-265 | 04/23/2019 | [Via WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2019/05/e646781c-149e-4a9e-a7b7-24a4b3410e53_87a267a9c7963d7c6dec4e43c9644400a0153b40.cab) | Acer | ✗
 425.25 | // | // | Via [NVD](https://docs.nvidia.com/datacenter/tesla/index.html) | Tesla | ✗
 418.74 | // | // | Via [NDT](https://devtalk.nvidia.com/default/topic/1051453/announcements-and-news/linux-solaris-and-freebsd-driver-418-74-long-lived-branch-release-/) | Linux | ✗
