@@ -158,14 +158,19 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 354.56 | // | 12/03/2015 | // | [Lenovo Quadro Driver](http://support.lenovo.com/de/de/downloads/ds112337) | ✗
 
 
-* Hotfix drivers are always Beta same goes for Vulkan test drivers.
-* Desktop & Notebook drivers are identical except the Setup.exe. Notebook user don't need to download the "Notebook version", just replace the .inf and that's it you have to do.
-* All drivers are WHQL unless there test/NDA or Hotfix (beta WHQL) drivers. Microsoft (Windows) requires to sign all driver, otherwise you get the popup warning that the driver can't be installed or that you have agree to install a beta/homebrew driver.
-* [x86 will be shutdown official by nVidia](https://www.phoronix.com/scan.php?page=news_item&px=32-bit-NVIDIA-Drop-Dropping).
+### Information
+
+* Hotfix drivers are always Beta the same goes for Vulkan test drivers.
+* Desktop & Notebook drivers are identical except the Setup.exe. Notebook user don't need to download the "Notebook version", just replace the .inf.
+* All drivers are WHQL unless there test/NDA or Hotfix (Beta WHQL) drivers. Microsoft (Windows) requires to sign all driver, otherwise you get the popup warning that the driver can't be installed or that you have agree to install a beta/homebrew driver.
+* [x86 will be shutdown officially by nVidia](https://www.phoronix.com/scan.php?page=news_item&px=32-bit-NVIDIA-Drop-Dropping).
 * _Test drivers_ are always [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) unless there is an official release.
 * You can see the Branch of the current driver with e.g. [nVidia Inspector](https://www.techpowerup.com/download/nvidia-inspector/).
 * [Quadro Driver Branch History for Windows](https://www.nvidia.com/object/quadro-branch-history-table.html).
 * DHC = Windows 10 in S Mode (App Store), the INF is way smaller as not as many files are needed to be messed about with and uninstall somehow happens differently.
+* ODE = Optimal Drivers for Enterprise branch release
+* ISV = Independent Software Vendor certifications
+* OEM = Original Equipment Manufacturers
 * [NVIDIA Control Panel from MS Store (UWP)](https://www.microsoft.com/store/productId/9nf8h0h7wmlt)
 
 
