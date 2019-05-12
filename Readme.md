@@ -34,6 +34,7 @@ Modded drivers will NEVER transform your GPU to another one and will NEVER add f
 * You like to test newer driver(s) which are no longer supported.
 * It could be used to force installation of newer drivers on OEM locked GPUs.
 * You need an older driver that is not officially supported for your GPU because you have a specific application that is broken in newer ones and you cannot wait for a fix.
+* Security reasons, you should ALWAYS use the latest driver (if possible) due to [possible driver flaws](https://www.bleepingcomputer.com/news/security/nvidia-patches-high-severity-windows-gpu-display-driver-flaws/)
 
 
 **Keep in mind**:
