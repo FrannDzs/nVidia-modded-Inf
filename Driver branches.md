@@ -1,7 +1,7 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
 412.36 | // | // | Via [NCH](https://nvidia.custhelp.com/app/answers/detail/a_id/4772) | Quadro & Tesla Security Update | ✗
-430.14 | // | // | // | Linux, FreeBSD and Solaris | ✗
+430.14 | // | // | Via [NDT](https://devtalk.nvidia.com/default/topic/1051837/announcements-and-news/linux-solaris-and-freebsd-driver-430-14-long-lived-branch-release-/) | Linux, FreeBSD and Solaris | ✗
 418.96 | // | // | Via [NDT](https://developer.nvidia.com/compute/cuda/10.1/Prod/local_installers/cuda_10.1.105_418.96_win10.exe) | // | ✗
 425.51 | 418 U5 | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/430.39/430.39-win10-win8-win7-quadro-release-notes.pdf) | ODE | ✗
 [430.64](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/430.64) | 430_58-4 | 05/05/2019 | [Release Notes](https://uk.download.nvidia.com/Windows/430.64/430.64-win10-win8-win7-release-notes.pdf) | GRD + Quadro (430 U2) | ✗
