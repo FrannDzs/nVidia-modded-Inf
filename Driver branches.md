@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+422.02 | 415_00-387 | 04/06/2019 | Via [WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2019/05/f4329d88-cdeb-42cf-8142-145d4c3f08a5_07599a74c1881b63a0ad9485a254c55547505b77.cab) | HP mobile | ✗
 412.36 | // | // | Via [NCH](https://nvidia.custhelp.com/app/answers/detail/a_id/4772) | Quadro & Tesla Security Update | ✗
 430.14 | // | // | Via [NDT](https://devtalk.nvidia.com/default/topic/1051837/announcements-and-news/linux-solaris-and-freebsd-driver-430-14-long-lived-branch-release-/) | Linux, FreeBSD and Solaris | ✗
 418.96 | // | // | Via [NDT](https://developer.nvidia.com/compute/cuda/10.1/Prod/local_installers/cuda_10.1.105_418.96_win10.exe) | // | ✗
