@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+425.58 | // | 05/20/2019 | // | Vulkan | ✗
 378.05 | // | // | // | 378.05.05.25f16 for macOS Sierra | ✗
 422.02 | 415_00-387 | 04/06/2019 | Via [WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2019/05/f4329d88-cdeb-42cf-8142-145d4c3f08a5_07599a74c1881b63a0ad9485a254c55547505b77.cab) | HP mobile | ✗
 412.36 | // | // | Via [NCH](https://nvidia.custhelp.com/app/answers/detail/a_id/4772) | Quadro & Tesla Security Update | ✗
