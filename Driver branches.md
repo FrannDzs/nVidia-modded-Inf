@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+392.50 | // | 05/06/2019 | Via [HP FTP](https://ftp.hp.com/pub/softpaq/sp96001-96500/sp96469.exe) | HP Quadro | ✗
 430.86 | 430_81-2 | 05/22/2019 | [Release Notes](http://us.download.nvidia.com/Windows/430.86/430.86-win10-win8-win7-release-notes.pdf) | [Quadro](http://us.download.nvidia.com/Windows/Quadro_Certified/430.86/430.86-win10-win8-win7-quadro-release-notes.pdf) & GRD & new [Studio Driver](https://forums.geforce.com/default/topic/1119503/nvidia-studio-creative-apps-/nvidia-studio-driver-430-86-feedback-thread-released-5-27-19-/) | ✗
 425.58 | // | 05/20/2019 | // | Vulkan | ✗
 378.05 | // | // | // | 378.05.05.25f16 for macOS Sierra | ✗
