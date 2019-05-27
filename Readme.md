@@ -43,7 +43,7 @@ Modded drivers will NEVER transform your GPU to another one and will NEVER add f
 
 
 
-DCH or Standard drivers?
+SD, CD, GRD, DCH or Standard drivers?
 ===================
 
 Short answer:
@@ -54,10 +54,21 @@ Short answer:
 * To confirm the type of system you have, locate Driver Type under the System Information menu in the nVidia Control Panel.
 
 
-Detailed Answer:
+##### Detailed Answer
 
 DCH is a collaboration platform supporting the process of commercial forecasting Demand Collaboration Hub (DCH) is a collaboration platform that enables all members of your Sales organization, at the various hierarchical levels, to submit, consolidate and validate their periodic commercial forecast. DCH is fully configurable, allowing you to model the workflow and segment the data between users, in relation to their level of responsibility, to configure your editing form, by selecting and publishing the information that are relevant for your sales organization, to enter commercial forecast at various level of aggregation, with automatic splitting of edited quantities to the level of maximum detail. DCH is part of the SO99+ (Service Optimizer 99+) product suite and more specifically it is complementary to its statistical forecasting functionality, since the statistical forecast may be used as a guidance to support the Sales organization to provide more reliable figures. To support mobility, DCH is available on the web or from any mobile device that your Sales organization may adopt.
 
+
+##### Official nVidia recommendation
+* SD (Studio Driver, might replaces the "Creators Driver") = For **content creators, video editing, animation or graphic design**, use this driver.
+* CD (Creators Driver) = Same like SD, it might get replaced with the Studio Driver version (re-label).
+* GRD (Game Ready Driver) = For **gamers** which need the latest patches & DLCs. If you are gamer & creator, use this driver.
+* Standard GRD Driver = The normal oldschool driver for **Windows Home/Pro/Enterprise/LTSC** which want to game, use this driver.
+* DCH (Declarative, Componentized, Hardware Support Apps) = For **Windows S, Core users or user with a Windows Store which prefering to get the latest NVCP over the Store**, use this driver.
+
+
+##### CHEF-KOCH's recommendation
+* Stick with the **normal (GR) driver** the rest is more or less marketing/pr with no real benefits. The driver packages are almost identical (except the DCH package). If you Windows version is a "special case" like the S/Core version then use the DCH version. 
 
 
 Remove old nVidia drivers
