@@ -220,6 +220,7 @@ Release
 * [PCI ID Project (pci-ids.ucw.cz)](http://pci-ids.ucw.cz/pci.ids)
 * [Windows 10 FAQ and Driver installation tips (forums.geforce.com)](https://forums.geforce.com/default/topic/862424/geforce-drivers/windows-10-faq-and-driver-installation-tips-/)
 * [nVidia INF driver modding (forums.guru3d.com)](http://forums.guru3d.com/showthread.php?t=377158)
+* [G-SYNC Compatible Testing, Phase 1 Complete: Only 5% of Adaptive-Sync Monitors Made The Cut (nvidia.com)](https://www.nvidia.com/en-us/geforce/news/g-sync-compatible-validation/)
 
 ## Debugging
 * [How to enable nVidia Graphics Driver and GeForce Experience installer logging (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/3171/)
