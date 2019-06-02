@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+435.29 | // | // | // | // | ✓
 430.99 | // | // | // | // | ✓
 [430.97](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/430.97) | r430_81-4 | 05/30/2019 | Via [NCH](https://nvidia.custhelp.com/app/answers/detail/a_id/4808) | Mobile OEM + Hotfix | ✗
 [435.27](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/435.27) | 435_00-25 | 05/16/2019 | // | Via WUS ([Windows Insider](https://forums.geforce.com/default/topic/1119101/geforce-drivers/official-430-86-game-ready-whql-display-driver-feedback-thread-released-5-27-19-/post/6065815/#6065815)) | ✗
