@@ -1,9 +1,27 @@
-0.0.0.0 telemetry.gfe.nvidia.com
-0.0.0.0 gfe.nvidia.com
-0.0.0.0 services.gfe.nvidia.com
+# Block nVidia Telemetry
+# v1.0.0 by CHEF-KOCH
 0.0.0.0 accounts.nvgs.nvidia.com
+0.0.0.0 assets.nvidiagrid.net
+0.0.0.0 beta.telemetry.gfe.nvidia.com
 0.0.0.0 events.gfe.nvidia.com
-0.0.0.0 images.nvidiagrid.net
-0.0.0.0 rds-assets.nvidia.com
-0.0.0.0 assets.nvidiagrid.net 
+0.0.0.0 gfe.nvidia.com                  # GeForce Experience game optimization
+0.0.0.0 gfwsl.geforce.com               # Needed for Geforce Experience
+0.0.0.0 heartbeats.omtrdc.net           # nVidia Shield (Adobe marketing Cloud)
+0.0.0.0 nvidia.tt.omtrdc.net
 0.0.0.0 ota-downloads.nvidia.com
+0.0.0.0 rds-assets.nvidia.com
+0.0.0.0 services.gfe.nvidia.com
+0.0.0.0 telemetry.gfe.nvidia.com
+# IPv6
+::1 accounts.nvgs.nvidia.com
+::1 assets.nvidiagrid.net
+::1 beta.telemetry.gfe.nvidia.com
+::1 events.gfe.nvidia.com
+::1 gfe.nvidia.com                      # GeForce Experience game optimization
+::1 gfwsl.geforce.com                   # Needed for Geforce Experience
+::1 heartbeats.omtrdc.net               # nVidia Shield (Adobe marketing Cloud)
+::1 nvidia.tt.omtrdc.net
+::1 ota-downloads.nvidia.com
+::1 rds-assets.nvidia.com
+::1 services.gfe.nvidia.com
+::1 telemetry.gfe.nvidia.com
