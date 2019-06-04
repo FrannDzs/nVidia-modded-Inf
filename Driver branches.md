@@ -1,5 +1,7 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+435.37 | // | // | // | // | ✓
+435.36 | // | // | // | // | ✓
 [425.62](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/425.62) | VK418_62-24 | 5/29/2019 | // | Vulkan & Linux 418.52.10 | ✗
 435.29 | // | // | // | // | ✓
 430.99 | // | // | // | // | ✓
