@@ -1,6 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
-[431.02](https://www.nvidia.com/download/driverResults.aspx/148478) | // | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/431.02/431.02-win10-win8-win7-quadro-release-notes.pdf) | Quadro | ✗
+[431.02](https://www.nvidia.com/download/driverResults.aspx/148478) | 421_00-170 | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/431.02/431.02-win10-win8-win7-quadro-release-notes.pdf) | Quadro | ✗
 [430.26](https://www.nvidia.com/download/driverResults.aspx/148532) | // | // | // | Linux x64 | ✗
 440.01 | // | // | // | // | ✓ (MSI)
 435.37 | // | // | // | // | ✓
