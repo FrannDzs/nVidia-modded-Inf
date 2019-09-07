@@ -177,7 +177,7 @@ Inf2Cat /driver:<path_to_folder_with_INF_&_Files> /os:Vista_X86,Vista_X64,Server
 
 
 
-What the "inf mod" can't provide
+What an "inf mod" can't provide
 ======
 - [x] Adding support for [legacy GPU's](https://www.nvidia.com/object/IO_32667.html)  (see EOL) because nVidia removed (within the source code) support for it and there is no _patch_ which can undo or manipulate it.
 - [x] I'm not permitted to upload modified .dll files so please do not ask for "patch xyz". I _consider_ to provide bunch of offset patches I use, without any tool or information how you add these patches because it violates nVidia TOS (it's not _my fault_).
@@ -227,7 +227,7 @@ Release
 
 ## Unofficial patches
 * [Driver patch for enabling unlimited NVENC sessions (old) (github.com)](https://github.com/Matviy/nVidia-NVENC-multi-session-patch)
-* [NvencSessionLimitBump (github.com](https://github.com/jantenhove/NvencSessionLimitBump)
+* [NvencSessionLimitBump (github.com)](https://github.com/jantenhove/NvencSessionLimitBump)
 * [WhateverGreen (github.com)](https://github.com/acidanthera/WhateverGreen)
 * [Wine patches (github.com)](https://github.com/SveSop/wine_patches)
 * [nVidia kvm patcher (github.com)](https://github.com/sk1080/nVidia-kvm-patcher)
@@ -244,6 +244,7 @@ Release
 * [nVidia-vBIOS-VFIO-Patcher (github.com)](https://github.com/Matoking/nVidia-vBIOS-VFIO-Patcher)
 
 ## EOL
+* CRD (Studio Drivers) are re-labeled to NSD
 * [End of Driver Support for Quadro Kepler-series Notebook Products (April 30, 2020)](https://nvidia.custhelp.com/app/answers/detail/a_id/4788)
 * [Support Plan for 3DVision Products (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/4781)
 * [Support Plan for Kepler-series GeForce GPUs for notebooks (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/4779)
