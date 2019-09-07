@@ -1,5 +1,21 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+431.86 | // | // | // | // | ✗
+435.21 | // | // | // | Linux | ✗
+436.15 | // | // | // | WUS | ✗
+436.02 | // | // | // | Windows 10 only | ✗
+418.87 | // | // | // | Cuda Toolkit | ✗
+435.17 | // | // | // | Linux Beta | ✗
+430.40 | // | // | // | Linux | ✗
+431.70 | // | // | // | Windows + WUS + Quadro | ✗
+431.02 | // | // | // | Windows 7 | ✗
+431.60 | // | // | // | Windows 7 | ✗
+431.36 | // | // | // | // | ✗
+430.34 | // | // | // | // | ✗
+430.26 | // | // | // | Linux | ✗
+431.02 | // | // | // | Quadro | ✗
+430.86 | // | // | // | Quadro + WUS | ✗
+435.27 | // | // | // | Win Beta | ✗
 425.44 | 418_00-263 | 04/22/2019 | [Release Notes](https://support.lenovo.com/ch/en/downloads/ds504354) | Lenovo | ✗
 430.58 | 421_00-112 | 05/01/2019 | [Release Notes](https://support.lenovo.com/ch/en/downloads/ds505766) | Lenovo | ✗
 [431.02](https://www.nvidia.com/download/driverResults.aspx/148478) | 421_00-170 | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/431.02/431.02-win10-win8-win7-quadro-release-notes.pdf) | Quadro | ✗
