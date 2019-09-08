@@ -54,7 +54,12 @@ Short answer:
 * To confirm the type of system you have, locate Driver Type under the System Information menu in the nVidia Control Panel.
 
 
-Difference between INf(s) - Standard Vs. DCH
+##### Detailed Answer
+
+DCH is a collaboration platform supporting the process of commercial forecasting Demand Collaboration Hub (DCH) is a collaboration platform that enables all members of your Sales organization, at the various hierarchical levels, to submit, consolidate and validate their periodic commercial forecast. DCH is fully configurable, allowing you to model the workflow and segment the data between users, in relation to their level of responsibility, to configure your editing form, by selecting and publishing the information that are relevant for your sales organization, to enter commercial forecast at various level of aggregation, with automatic splitting of edited quantities to the level of maximum detail. DCH is part of the SO99+ (Service Optimizer 99+) product suite and more specifically it is complementary to its statistical forecasting functionality, since the statistical forecast may be used as a guidance to support the Sales organization to provide more reliable figures. To support mobility, DCH is available on the web or from any mobile device that your Sales organization may adopt.
+
+
+Difference between INF(s) - Standard Vs. DCH
 ===================
 
 nVidia decided to make a clear cut with the "Super" cards, this basically means the infs got "separated" into two versions v7 - which represents DCH (see above what DCH drivers are) and v6 (old) are the normal "standard" drivers. The versions numbering might be changed completely next year (unclear at this point). 
@@ -67,10 +72,6 @@ Basically nothing, except that you need at least Windows 10 Build 17098 (19H2)+ 
 The telemetry is disabled in any of the modded DHC infs. In case you like to enable it you have to manually set it to "1" within the inf files before you install your desired driver.
 
 
-##### Detailed Answer
-
-DCH is a collaboration platform supporting the process of commercial forecasting Demand Collaboration Hub (DCH) is a collaboration platform that enables all members of your Sales organization, at the various hierarchical levels, to submit, consolidate and validate their periodic commercial forecast. DCH is fully configurable, allowing you to model the workflow and segment the data between users, in relation to their level of responsibility, to configure your editing form, by selecting and publishing the information that are relevant for your sales organization, to enter commercial forecast at various level of aggregation, with automatic splitting of edited quantities to the level of maximum detail. DCH is part of the SO99+ (Service Optimizer 99+) product suite and more specifically it is complementary to its statistical forecasting functionality, since the statistical forecast may be used as a guidance to support the Sales organization to provide more reliable figures. To support mobility, DCH is available on the web or from any mobile device that your Sales organization may adopt.
-
 
 ##### Official nVidia recommendation
 * SD (Studio Driver, might replaces the "Creators Driver") = For **content creators, video editing, animation or graphic design**, use this driver.
@@ -80,17 +81,17 @@ DCH is a collaboration platform supporting the process of commercial forecasting
 * DCH (Declarative, Componentized, Hardware Support Apps) = For **Windows S, Core users or user with a Windows Store which prefering to get the latest NVCP over the Store**, use this driver.
 
 
-##### CHEF-KOCH's recommendation
+##### My own recommendation
 * Stick with the **normal (GR) driver** the rest is more or less marketing/pr with no real benefits. The driver packages are almost identical (except the DCH package). If you Windows version is a "special case" like the S/Core version then use the DCH version. 
 
 
-Remove old nVidia drivers
+How-to remove old nVidia drivers
 ===================
 
 * Extract [Display Driver Uninstaller (DDU)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/tools) and start the program, boot into "safe mode" (you can do this manually or within the given DDU option) and let DDU auto-clean and restart the OS automatically for you. You do not need to uninstall the driver or any package via Windows own uninstaller program first (that's the whole point using DDU). Keep in mind that **DDU should only be used in case you get troubles while uninstalling/installing the driver with nVidia's own Setup**, it's not recommend and needed to use DDU as 'normal' driver removal procedure. nVidia's own setup routine usually does the job just fine, however in some cases in can help to remove leftovers which _might_ cause trouble.
 * After you rebooted you install the (modded/repack) nVidia driver, if the driver isn't digital signed you need to do it yourself or disable Windows driver signature enforcement.
 
-An official DDU guide can be found [here](https://www.wagnardsoft.com/content/ddu-guide-tutorial).
+The official DDU guide can be found over [here](https://www.wagnardsoft.com/content/ddu-guide-tutorial).
 
 
 
@@ -150,7 +151,7 @@ After executing the mentioned commands you need to reboot Windows 10 in order to
 
 
 
-How to sign your modded driver?
+How-to sign your own modded driver?
 ===================
 
 Download and install (or use the portable) [SelfCert](https://www.pluralsight.com/blog/software-development/selfcert-create-a-self-signed-certificate-interactively-gui-or-programmatically-in-net).
