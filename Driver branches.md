@@ -12,18 +12,16 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 435.17 | // | // | // | Linux Beta | ✗
 430.40 | // | // | // | Linux | ✗
 431.70 | 431_65-2 | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/431.70/431.70-win10-win8-win7-quadro-release-notes.pdf) + [Studio Release Notes](http://us.download.nvidia.com/Windows/431.70/431.70-win10-nsd-release-notes.pdf)| Studio + Quadro | ✗
-431.02 | // | // | // | Windows 7 | ✗
 431.60 | 431_56-4 | // | [Release Notes](http://us.download.nvidia.com/Windows/431.60/431.60-win10-win8-win7-release-notes.pdf) | [GRD](https://nvidia.custhelp.com/app/answers/detail/a_id/4841/~/security-bulletin%3A-nvidia-gpu-display-driver---august-2019) - RTX 2080 Super support | ✗
 431.36 | 431_31-4 | // | // | GRD | ✗
 430.34 | // | // | // | // | ✗
 425.94 | // | // | // | Vulkan + Linux 418.52.16 | ✗
 430.26 | // | // | // | Linux | ✗
-431.02 | // | // | // | Quadro | ✗
 435.80 | 435_00-124 | 07/24/2019 | [Release Notes](https://developer.nvidia.com/designworks/optix/download) | Optix 6.5 - 7.0 | ✗
 430.86 | // | // | // | Quadro + WUS | ✗
 425.44 | 418_00-263 | 04/22/2019 | [Release Notes](https://support.lenovo.com/ch/en/downloads/ds504354) | Lenovo | ✗
 430.58 | 421_00-112 | 05/01/2019 | [Release Notes](https://support.lenovo.com/ch/en/downloads/ds505766) | Lenovo | ✗
-[431.02](https://www.nvidia.com/download/driverResults.aspx/148478) | 421_00-170 | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/431.02/431.02-win10-win8-win7-quadro-release-notes.pdf) | Quadro | ✗
+[431.02](https://www.nvidia.com/download/driverResults.aspx/148478) | 421_00-170 | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/431.02/431.02-win10-win8-win7-quadro-release-notes.pdf) | Quadro +  P2200 support | ✗
 [430.26](https://www.nvidia.com/download/driverResults.aspx/148532) | // | // | // | Linux x64 | ✗
 440.01 | // | // | // | // | ✓ (MSI)
 435.37 | // | // | // | // | ✓
