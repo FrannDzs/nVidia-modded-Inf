@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+436.20 | // | // | // | Vulkan Dev. + 435.19.02 Linux| ✗
 431.86 | // | // | // | // | ✗
 435.21 | // | // | // | Linux | ✗
 436.15 | // | // | // | WUS | ✗
