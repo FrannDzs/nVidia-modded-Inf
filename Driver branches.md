@@ -4,6 +4,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 436.20 | // | // | // | Vulkan Dev. + 435.19.02 Linux | ✗
 431.86 | // | // | // | // | ✗
 435.21 | // | // | // | Linux | ✗
+425.89 | // | // | // | Vulkan + Linux 418.52.14 | ✗
 436.15 | // | // | [Release Notes](http://us.download.nvidia.com/Windows/436.15/436.15-win10-win8-win7-release-notes.pdf) | WUS + GRD | ✗
 436.02 | 435 U1 (r435_95-4) | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/436.02/436.02-win10-win8-win7-quadro-release-notes.pdf) | Quadro + GRD + Vulkan (new features driver) + 418.52.18 Linux | ✗
 418.87 | // | // | // | Cuda Toolkit | ✗
