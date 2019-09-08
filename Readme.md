@@ -20,7 +20,7 @@ What is a modded INF?
 
 All drivers come with an "Installation INF(ormation) file". This tells the Windows internal installer how to install the driver. The INF has the instructions to what files to copy and where. It will also setup settings to install with. The INF-file itself contains a list of supported products (hardware/software/OS) that it will check and install for.
 
-nVidia provides UDA (Unified Driver Architecture) where the driver should work for all their released GPUs. So the driver itself will support ALL GPUs, but the INF the driver comes with will only support a selected set of GPU
+nVidia provides UDA (Unified Driver Architecture) where the driver should work for all their released GPUs. So the driver itself will support all GPUs, but the INF the driver comes with will only support a selected set of GPUs.
 
 nVidia by default don't support laptop GPUs with beta and WHQL driver updates on their server. This is left up to the OEM to organize. I assume nVidia must charge to have an OEM driver made or be included, as they are very rear for OEM to actually update a video driver. So an OEM driver has specific instructions for that laptop (ie model specific) and will only work with a select few laptops.
 
@@ -73,6 +73,9 @@ The telemetry is disabled in any of the modded DHC infs. In case you like to ena
 
 
 
+Which driver should I install - Standad, DCH ...?
+===================
+
 ##### Official nVidia recommendation
 * SD (Studio Driver, might replaces the "Creators Driver") = For **content creators, video editing, animation or graphic design**, use this driver.
 * CD (Creators Driver) = Same like SD, it might get replaced with the Studio Driver version (re-label).
@@ -82,13 +85,13 @@ The telemetry is disabled in any of the modded DHC infs. In case you like to ena
 
 
 ##### My own recommendation
-* Stick with the **normal (GR) driver** the rest is more or less marketing/pr with no real benefits. The driver packages are almost identical (except the DCH package). If you Windows version is a "special case" like the S/Core version then use the DCH version. 
+* Stick with the **normal (GR [GRD]) driver** the rest is more or less marketing/pr with no real benefits. The driver packages are almost identical (except the DCH package). If you Windows version is a "special case" like the S/Core version then use the DCH version. 
 
 
 How-to remove old nVidia drivers
 ===================
 
-* Extract [Display Driver Uninstaller (DDU)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/tools) and start the program, boot into "safe mode" (you can do this manually or within the given DDU option) and let DDU auto-clean and restart the OS automatically for you. You do not need to uninstall the driver or any package via Windows own uninstaller program first (that's the whole point using DDU). Keep in mind that **DDU should only be used in case you get troubles while uninstalling/installing the driver with nVidia's own Setup**, it's not recommend and needed to use DDU as 'normal' driver removal procedure. nVidia's own setup routine usually does the job just fine, however in some cases in can help to remove leftovers which _might_ cause trouble.
+* Extract Display Driver Uninstaller (DDU) and start the program, boot into "safe mode" (you can do this manually or within the given DDU option) and let DDU auto-clean and restart the OS automatically for you. You do not need to uninstall the driver or any package via Windows own uninstaller program first (that's the whole point using DDU). Keep in mind that **DDU should only be used in case you get troubles while uninstalling/installing the driver with nVidia's own Setup**, it's not recommend and needed to use DDU as 'normal' driver removal procedure. nVidia's own setup routine usually does the job just fine, however in some cases in can help to remove leftovers which _might_ cause trouble.
 * After you rebooted you install the (modded/repack) nVidia driver, if the driver isn't digital signed you need to do it yourself or disable Windows driver signature enforcement.
 
 The official DDU guide can be found over [here](https://www.wagnardsoft.com/content/ddu-guide-tutorial).
@@ -192,14 +195,15 @@ Inf2Cat /driver:<path_to_folder_with_INF_&_Files> /os:Vista_X86,Vista_X64,Server
 
 
 What an "inf mod" can't provide
-======
+===================
+
 - [x] Adding support for [legacy GPU's](https://www.nvidia.com/object/IO_32667.html)  (see EOL) because nVidia removed (within the source code) support for it and there is no _patch_ which can undo or manipulate it.
 - [x] I'm not permitted to upload modified .dll files so please do not ask for "patch xyz". I _consider_ to provide bunch of offset patches I use, without any tool or information how you add these patches because it violates nVidia TOS (it's not _my fault_).
 
 
 
 Telemetry
-======
+===================
 
 All information regarding driver bundled telemetry can be found under the `/Telemetry` folder.
 
@@ -212,8 +216,8 @@ Another program (rip-off from NVSlimmer) called "NVCleanstall" can be found in t
 
 
 
-Release
-======
+Driver Release Overview
+===================
 
 * [![nVidia stable](https://img.shields.io/github/release/CHEF-KOCH/nVidia-modded-Inf.svg?label=Latest%20nVidia%20stable&style=popout)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/latest)
 
@@ -248,7 +252,7 @@ Release
 * [nVidia patch to remove restriction on maximum number of simultaneous NVENC video encoding session (github.com)](https://github.com/keylase/nVidia-patch)
 * [purge-wrangler (github.com)](https://github.com/mayankk2308/purge-wrangler)
 
-## Unofficial updater
+## Unofficial driver updater
 * [nVidia Update PowerShell Script (github.com)](https://github.com/lord-carlos/nVidia-update)
 
 ## Bios
