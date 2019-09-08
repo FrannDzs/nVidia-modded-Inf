@@ -54,6 +54,19 @@ Short answer:
 * To confirm the type of system you have, locate Driver Type under the System Information menu in the nVidia Control Panel.
 
 
+Difference between INf(s) - Standard Vs. DCH
+===================
+
+nVidia decided to make a clear cut with the "Super" cards, this basically means the infs got "separated" into two versions v7 - which represents DCH (see above what DCH drivers are) and v6 (old) are the normal "standard" drivers. The versions numbering might be changed completely next year (unclear at this point). 
+
+
+What does this mean for you as user? 
+
+Basically nothing, except that you need at least Windows 10 Build 17098 (19H2)+ in order to run DCH modded drivers/infs, theoretically the infs are working on lower builds too but due to performance problems I do not recommended it (WDDM 2.7 was introduced in later drivers/Windows versions). However, keep in mind that (because I often get asked) that it's not possible to combine Standard and DCH Infs ("All-in-one inf") because DCH setups are different from the normal ones.
+
+The telemetry is disabled in any of the modded DHC infs. In case you like to enable it you have to manually set it to "1" within the inf files before you install your desired driver.
+
+
 ##### Detailed Answer
 
 DCH is a collaboration platform supporting the process of commercial forecasting Demand Collaboration Hub (DCH) is a collaboration platform that enables all members of your Sales organization, at the various hierarchical levels, to submit, consolidate and validate their periodic commercial forecast. DCH is fully configurable, allowing you to model the workflow and segment the data between users, in relation to their level of responsibility, to configure your editing form, by selecting and publishing the information that are relevant for your sales organization, to enter commercial forecast at various level of aggregation, with automatic splitting of edited quantities to the level of maximum detail. DCH is part of the SO99+ (Service Optimizer 99+) product suite and more specifically it is complementary to its statistical forecasting functionality, since the statistical forecast may be used as a guidance to support the Sales organization to provide more reliable figures. To support mobility, DCH is available on the web or from any mobile device that your Sales organization may adopt.
