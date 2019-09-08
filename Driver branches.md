@@ -1,6 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
-440.23 | bugfix_main-15874 (r440.23) | 08/04/2019 | //)| Windows Insiders with WDDM v2.7 (still CUDA v10.x SDK (Win 10 only) | ✗
+440.23 | bugfix_main-15874 (r440.23) | 08/04/2019 | // | Windows Insiders with WDDM v2.7 (still CUDA v10.x SDK (Win 10 only) | ✗
 436.20 | // | // | // | Vulkan Dev. + 435.19.02 Linux| ✗
 431.86 | // | // | // | // | ✗
 435.21 | // | // | // | Linux | ✗
@@ -9,7 +9,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 418.87 | // | // | // | Cuda Toolkit | ✗
 435.17 | // | // | // | Linux Beta | ✗
 430.40 | // | // | // | Linux | ✗
-431.70 | // | // | // | Windows + WUS + Quadro | ✗
+431.70 | 431_65-2 | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/431.70/431.70-win10-win8-win7-quadro-release-notes.pdf) + [Studio Release Notes](http://us.download.nvidia.com/Windows/431.70/431.70-win10-nsd-release-notes.pdf)| Studio + Quadro | ✗
 431.02 | // | // | // | Windows 7 | ✗
 431.60 | // | // | // | Windows 7 | ✗
 431.36 | // | // | // | // | ✗
