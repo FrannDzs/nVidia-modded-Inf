@@ -16,8 +16,8 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 430.34 | // | // | // | // | ✗
 430.26 | // | // | // | Linux | ✗
 431.02 | // | // | // | Quadro | ✗
+435.80 | 435_00-124 | 07/24/2019 | [Release Notes](https://developer.nvidia.com/designworks/optix/download) | Optix 6.5 - 7.0 | ✗
 430.86 | // | // | // | Quadro + WUS | ✗
-435.27 | // | // | // | Win Beta | ✗
 425.44 | 418_00-263 | 04/22/2019 | [Release Notes](https://support.lenovo.com/ch/en/downloads/ds504354) | Lenovo | ✗
 430.58 | 421_00-112 | 05/01/2019 | [Release Notes](https://support.lenovo.com/ch/en/downloads/ds505766) | Lenovo | ✗
 [431.02](https://www.nvidia.com/download/driverResults.aspx/148478) | 421_00-170 | // | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/431.02/431.02-win10-win8-win7-quadro-release-notes.pdf) | Quadro | ✗
@@ -44,7 +44,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 425.45 | 418_00-265 | 04/23/2019 | Via [WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2019/05/e646781c-149e-4a9e-a7b7-24a4b3410e53_87a267a9c7963d7c6dec4e43c9644400a0153b40.cab) | Acer | ✗
 425.25 | // | // | Via [NVD](https://docs.nvidia.com/datacenter/tesla/index.html) | Tesla | ✗
 418.74 | // | // | Via [NDT](https://devtalk.nvidia.com/default/topic/1051453/announcements-and-news/linux-solaris-and-freebsd-driver-418-74-long-lived-branch-release-/) | Linux | ✗
-431.68 | // | // | // | // | ✓
+431.68 | // | // | [Answer ID 4844](https://nvidia.custhelp.com/app/answers/detail/a_id/4844) | Hotfix GRD (released from NDA) | ✗
 430.41 | // | 04/18/2019 | // | [iCafe (Espresso)](http://international.download.nvidia.com/Windows/iCafe/430.41/430.41-icafe-win7-64bit-international-whql-driver.exe) | ✗
 412.29 | // | // | Via [datacenter](https://docs.nvidia.com/datacenter/tesla/tesla-release-notes-410-104/index.html#fixed-issues) | [Quadro/Tesla Mobile OEM](http://uk.download.nvidia.com/tesla/412.29/412.29-tesla-desktop-win10-64bit-international.exe) | ✗
 431.60 | // | // | // |  | ✓ (HP)
@@ -211,6 +211,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 * ISV = Independent Software Vendor certifications
 * OEM = Original Equipment Manufacturers
 * [NVIDIA Control Panel from MS Store (UWP)](https://www.microsoft.com/store/productId/9nf8h0h7wmlt)
+* [NVIDIA DCH/Standard Display Drivers for Windows 10 FAQ](https://nvidia.custhelp.com/app/answers/detail/a_id/4777)
 
 
 ### How to decode Branch versions information?
