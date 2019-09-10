@@ -1,10 +1,11 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+436.38 | // | // | // | // | ✓ 
 438.46 | // | // | // | // | ✓ (Gigabyte)
 440.21 | // | // | // | // | ✓ (MSI)
 440.20 | // | // | // | // | ✓ (MSI)
 440.17 | // | // | // | // | ✓ (MSI)
-436.30 | 436_28-2 | // | [Release Notes](http://us.download.nvidia.com/Windows/436.30/436.30-win10-win8-win7-release-notes.pdf) | Quadro + GRD | ✗
+436.30 | 436_28-2 | 09/05/2019 | [Release Notes](http://us.download.nvidia.com/Windows/436.30/436.30-win10-win8-win7-release-notes.pdf) | Quadro + GRD | ✗
 440.23 | bugfix_main-15874 (r440.23) | 08/04/2019 | // | Windows Insiders with WDDM v2.7 (still CUDA v10.x SDK (Win 10 only) | ✗
 436.20 | // | // | // | Vulkan Dev. + 435.19.02 Linux | ✗
 431.86 | // | // | // | // | ✗
