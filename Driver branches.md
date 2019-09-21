@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+436.39 | // | // | // | Vulkan + Linux 435.24.02 | ✗
 436.38 | // | // | // | // | ✓ 
 438.46 | // | // | // | // | ✓ (Gigabyte)
 440.21 | // | // | // | // | ✓ (MSI)
