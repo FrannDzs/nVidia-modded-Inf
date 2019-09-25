@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+431.94 | // | // | // | Quadro | ✗
 430.50 | // | // | [Release Notes](https://www.nvidia.com/drivers/results/151568) | Linux x64 (Quadro/MX/Desktop) | ✗
 436.39 | // | // | // | Vulkan + Linux 435.24.02 | ✗
 436.38 | // | // | // | // | ✓ 
