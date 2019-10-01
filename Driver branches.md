@@ -1,6 +1,8 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
-440.52 | // | // | // | Windows Insider | ✗
+441.12 | // | // | // | // | ✓ (HP)
+440.58 | | // | // | Windows Insiders (WDDM 2.7) (pulled from WUS) | ✗
+440.52 | bugfix_main-15934 | 09/03/2019 | // | Windows Insiders (WDDM 2.7) (official avbl. via WUS) | ✗
 436.48 | // | // | [Release Notes](http://us.download.nvidia.com/Windows/436.48/436.48-win10-win8-win7-release-notes.pdf) | GRD | ✗
 431.94 | // | // | // | Quadro | ✗
 430.50 | // | // | [Release Notes](https://www.nvidia.com/drivers/results/151568) | Linux x64 (Quadro/MX/Desktop) | ✗
