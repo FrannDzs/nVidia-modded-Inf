@@ -1,5 +1,7 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+440.52 | // | // | // | Windows Insider | ✗
+436.48 | // | // | [Release Notes](http://us.download.nvidia.com/Windows/436.48/436.48-win10-win8-win7-release-notes.pdf) | GRD | ✗
 431.94 | // | // | // | Quadro | ✗
 430.50 | // | // | [Release Notes](https://www.nvidia.com/drivers/results/151568) | Linux x64 (Quadro/MX/Desktop) | ✗
 436.39 | // | // | // | Vulkan + Linux 435.24.02 | ✗
@@ -9,7 +11,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 440.20 | // | // | // | // | ✓ (MSI)
 440.17 | // | // | // | // | ✓ (MSI)
 436.30 | 436_28-2 | 09/05/2019 | [Release Notes](http://us.download.nvidia.com/Windows/436.30/436.30-win10-win8-win7-release-notes.pdf) | Quadro + GRD | ✗
-440.23 | bugfix_main-15874 (r440.23) | 08/04/2019 | // | Windows Insiders with WDDM v2.7 (still CUDA v10.x SDK (Win 10 only) | ✗
+440.23 | bugfix_main-15874 (r440.23) | 08/04/2019 | // | Windows Insiders with WDDM v2.7 (CUDA v10.x SDK (Win 10 only) | ✗
 436.20 | // | // | // | Vulkan Dev. + 435.19.02 Linux | ✗
 431.86 | // | // | // | // | ✗
 435.21 | // | // | // | Linux | ✗
@@ -26,7 +28,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 430.34 | // | // | // | // | ✗
 425.94 | // | // | // | Vulkan + Linux 418.52.16 | ✗
 430.26 | // | // | // | Linux | ✗
-435.80 | 435_00-124 | 07/24/2019 | [Release Notes](https://developer.nvidia.com/designworks/optix/download) | Optix 6.5 - 7.0 | ✗
+435.80 | 435_00-124 | 07/24/2019 | [Release Notes](https://developer.nvidia.com/designworks/optix/download) | Optix v6.5 - 7.0 | ✗
 430.86 | // | // | // | Quadro + WUS | ✗
 425.44 | 418_00-263 | 04/22/2019 | [Release Notes](https://support.lenovo.com/ch/en/downloads/ds504354) | Lenovo | ✗
 430.58 | 421_00-112 | 05/01/2019 | [Release Notes](https://support.lenovo.com/ch/en/downloads/ds505766) | Lenovo | ✗
