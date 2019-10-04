@@ -518,13 +518,23 @@ This defines how workstation feature resource allocation is performed.
 
 * **NVIDIA Predefined Ansel Usage**
 
+Ansel is end-of-life, however some older applications have specific per-game profiles this allows to control Ansel directly from within the game.
+
 * **NVIDIA Quality upscaling**
+
+This is basically nVidia's implemented upscaler.
 
 * **OpenGL default swap interval**
 
+The default OpenGL swap file is usally controlled by the game/application itself. With this toggle you can overwrite it.
+
 * **OpenGL default swap interval fraction**
 
+The fraction interval is same like the swap interval handled internal by the OS or application.
+
 * **OpenGL default swap sign**
+
+This option should never be touched.
 
 * **Optimus flags for enabled applications**
 
@@ -568,6 +578,20 @@ The detailed explanation is given [here](https://www.geforce.com/whats-new/artic
 * **Whisper Mode Application FPS**
 
 Sets the Whisper Mode to an specific limit (limiter). 
+
+* **Ultra-Low Latency**
+
+[ULL](https://www.theverge.com/2019/8/20/20813519/nvidia-gamescom-driver-ultra-low-latency-mode-integer-scaling-features-download) (436.02+ also known as _just in time frame scheduling_) does not work in DirectX 12 or Vulkan, however enabling “Ultra-Low Latency” mode allows frames to getting "faster" submitted into the GPU render queue just before the GPU needs them. In other words it tries to reduce the overall latency, this feature is exclusive bound to DirectX 9 and DirectX 11 based games.
+
+> Low Latency modes have the most impact when your game is GPU bound, and framerates are between 60 and 100 FPS, enabling you to get the responsiveness of high-framerate gaming without having to decrease graphical fidelity. - [NVidia](https://www.nvidia.com/en-us/geforce/news/gamescom-2019-game-ready-driver/)
+
+The reason why it isn't enabled by default is that it can hurt the game performance, nVidia official says that people should use "maximum render throughput" instead. The feature works like AMD's "Anti-Lag" and technologies delay the CPU from gathering inputs and processing frames until just before the GPU is ready, reducing input lag in GPU bound scenarios. 
+
+* **Sharpen Freestyle**
+
+nVidia _dropped_ ("replaced") DLSS in favour of Sharpen Freestyle (436.02+) in various games like e.g. Metro Exodus. DLSS is dead because it [isn't better than normal upscale](https://www.techspot.com/review/1903-dlss-vs-freestyle-vs-ris/) and this is the reason why it's called "dead" even if it isn't. However the new feature can be enabled (if the game supports it) via `Alt+F3` which will show a small popup called "Freestyle overlay". The overlay has two options: Adjusting the sharpening strength and another option for grain rejection. These settings are saved on an individual game basis. Compared to AMD's Radeon Image Sharpening Nvidia solution is closed source but not limited nVidia's solution allows modern APIs including DX11 (which is not possible with AMD's IS [Navi GPUs only]).
+
+Enabling the option will hurt the overall gaming performnace, depending on the output resolution up to ~3%.
 
   
 ## Unknown
