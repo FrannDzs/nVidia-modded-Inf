@@ -5,7 +5,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 441.12 | | | | | ✓ (HP)
 440.58 | | | | Windows Insiders only (WDDM 2.7) (pulled from WUS) | ✗
 440.52 | bugfix_main-15934 | 09/03/2019 | | Windows Insiders only (WDDM 2.7) (official avbl. via WUS) | ✗
-436.48 | | | [Release Notes](http://us.download.nvidia.com/Windows/436.48/436.48-win10-win8-win7-release-notes.pdf) | GRD | ✗
+436.48 | | 09/26/2019 | [Release Notes](http://us.download.nvidia.com/Windows/436.48/436.48-win10-win8-win7-release-notes.pdf) | GRD | ✗
 431.94 | | | | Quadro | ✗
 430.50 | | | [Release Notes](https://www.nvidia.com/drivers/results/151568) | Linux x64 (Quadro/MX/Desktop) | ✗
 436.39 | | | | Vulkan + Linux 435.24.02 | ✗
@@ -21,8 +21,8 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 435.21 | | | | Linux | ✗
 431.18 | 430_81-6 | | | GRD Hotfix for v430.97 | ✗
 425.89 | | | | Vulkan + Linux 418.52.14 | ✗
-436.15 | | | [Release Notes](http://us.download.nvidia.com/Windows/436.15/436.15-win10-win8-win7-release-notes.pdf) | WUS + GRD | ✗
-436.02 | 435 U1 (r435_95-4) | | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/436.02/436.02-win10-win8-win7-quadro-release-notes.pdf) | Quadro + GRD + Vulkan (new features driver) + 418.52.18 Linux | ✗
+436.15 | | 08/24/2019 | [Release Notes](http://us.download.nvidia.com/Windows/436.15/436.15-win10-win8-win7-release-notes.pdf) | WUS + GRD | ✗
+436.02 | 435 U1 (r435_95-4) | 08/16/2019 | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/436.02/436.02-win10-win8-win7-quadro-release-notes.pdf) | Quadro + GRD + Vulkan (new features driver) + 418.52.18 Linux | ✗
 418.87 | | | | Cuda Toolkit | ✗
 435.17 | | | | Linux Beta | ✗
 430.40 | | | | Linux | ✗
@@ -215,7 +215,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 
 ### Background Information
 
-* Hotfix drivers are always Beta the same goes for Vulkan test drivers.
+* Hotfix drivers are always Beta, the same goes for Vulkan test drivers.
 * Desktop & Notebook drivers are identical except the Setup.exe. Notebook user don't need to download the "Notebook version", just replace the .inf.
 * All drivers are WHQL unless there test/NDA or Hotfix (Beta WHQL) drivers. Microsoft (Windows) requires to sign all driver, otherwise you get the popup warning that the driver can't be installed or that you have agree to install a beta/homebrew driver.
 * _Test drivers_ are always [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) unless there is an official release.
@@ -226,13 +226,21 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 * OEM = Original Equipment Manufacturers
 
 
-### Official Links & FAQ's
+### Official Links & FAQ
 * [NVIDIA Control Panel from MS Store (UWP)](https://www.microsoft.com/store/productId/9nf8h0h7wmlt)
 * [NVIDIA DCH/Standard Display Drivers for Windows 10 FAQ](https://nvidia.custhelp.com/app/answers/detail/a_id/4777)
 * [x86 driver support will be shutdown](https://www.phoronix.com/scan.php?page=news_item&px=32-bit-NVIDIA-Drop-Dropping)
 * [Official Quadro Driver Branch History for Windows](https://www.nvidia.com/object/quadro-branch-history-table.html).
+* [Getting Started with Universal Windows drivers](https://docs.microsoft.com/en-us/windows-hardware/drivers/develop/getting-started-with-universal-drivers)
 
 
 ### How to decode Branch versions?
 
 Let's assume we have `421_76-8`, the first three numbers are the major release which indicates _the real_ versions number. The second number indicates the code commits after v421 was done, in our case 76 code changes. The last number indicates small fixes.
+
+
+### Avoid getting DCH drivers offered by WUS on top of standard driver package (WUS)
+
+* Via **registry**: Navigate to `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings` and create or change (DWord) `ExcludeWUDriversInQualityUpdate` and set it to `1`. On [older Windows 10 builds](https://docs.microsoft.com/en-us/windows/deployment/update/waas-configure-wufb) the path is `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\Update\ExcludeWUDriversInQualityUpdate\`.
+* Via **GPO**: `Computer Configuration > Administrative Templates > Windows Components > Windows Update` > **Do not include drivers with Windows Updates**
+
