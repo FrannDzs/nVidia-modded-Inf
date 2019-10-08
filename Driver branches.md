@@ -1,6 +1,7 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
-436.52 | | | | Vulkan 1.1 + 435.27.00 Linux (Vulkan) | ✗
+437.58 | | | | | ✓ (MSI)
+436.52 | | | [Via NVD](https://developer.nvidia.com/vulkan-driver) | Vulkan 1.1 + 435.27.00 Linux (Vulkan) | ✗
 437.02 | | | | | ✓ (MSI)
 436.51 | 436_45-7 | | [Answer ID 4876](https://nvidia.custhelp.com/app/answers/detail/a_id/4876) | Hotfix 436.48 | ✗
 441.12 | | | | | ✓ (HP)
