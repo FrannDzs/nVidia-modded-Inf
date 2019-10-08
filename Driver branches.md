@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+436.52 | | | | Vulkan 1.1 + 435.27.00 Linux (Vulkan) | ✗
 437.02 | | | | | ✓ (MSI)
 436.51 | 436_45-7 | | [Answer ID 4876](https://nvidia.custhelp.com/app/answers/detail/a_id/4876) | Hotfix 436.48 | ✗
 441.12 | | | | | ✓ (HP)
@@ -23,6 +24,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 425.89 | | | | Vulkan + Linux 418.52.14 | ✗
 436.15 | | 08/24/2019 | [Release Notes](http://us.download.nvidia.com/Windows/436.15/436.15-win10-win8-win7-release-notes.pdf) | WUS + GRD | ✗
 436.02 | 435 U1 (r435_95-4) | 08/16/2019 | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/436.02/436.02-win10-win8-win7-quadro-release-notes.pdf) | Quadro + GRD + Vulkan (new features driver) + 418.52.18 Linux | ✗
+418.88 | | | | Linux | ✗
 418.87 | | | | Cuda Toolkit | ✗
 435.17 | | | | Linux Beta | ✗
 430.40 | | | | Linux | ✗
