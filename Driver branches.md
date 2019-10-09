@@ -27,7 +27,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 436.02 | 435 U1 (r435_95-4) | 08/16/2019 | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/436.02/436.02-win10-win8-win7-quadro-release-notes.pdf) | Quadro + GRD + Vulkan (new features driver) + 418.52.18 Linux | ✗
 418.88 | | | | Linux | ✗
 418.87 | | | | Cuda Toolkit | ✗
-435.17 | | | | Linux Beta | ✗
+435.17 | r435_00-13355 | | | Linux Beta | ✗
 430.40 | | | | Linux | ✗
 431.70 | 431_65-2 | | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/431.70/431.70-win10-win8-win7-quadro-release-notes.pdf) + [Studio Release Notes](http://us.download.nvidia.com/Windows/431.70/431.70-win10-nsd-release-notes.pdf)| Studio + Quadro | ✗
 431.60 | 431_56-4 | | [Release Notes](http://us.download.nvidia.com/Windows/431.60/431.60-win10-win8-win7-release-notes.pdf) | [GRD](https://nvidia.custhelp.com/app/answers/detail/a_id/4841/~/security-bulletin%3A-nvidia-gpu-display-driver---august-2019) - RTX 2080 Super support | ✗
