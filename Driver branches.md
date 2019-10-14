@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+436.56 | | | Via [NVD](https://developer.nvidia.com/vulkan-driver) | Linux 435.27.01 | ✗
 437.58 | | | | | ✓ (MSI)
 436.52 | | | [Via NVD](https://developer.nvidia.com/vulkan-driver) | Vulkan 1.1 + 435.27.00 Linux (Vulkan) | ✗
 437.02 | | | | | ✓ (MSI)
