@@ -1,6 +1,7 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
-440.97 | | | |  Quadro + GRD | ✗
+441.10 | | | | | ✓ (MSI)
+440.97 | 440_92-4 | 10/16/2019 | [Quadro](http://us.download.nvidia.com/Windows/Quadro_Certified/440.97/440.97-win10-win8-win7-quadro-release-notes.pdf) & [Desktop](http://us.download.nvidia.com/Windows/440.97/440.97-win10-win8-win7-release-notes.pdf) |  Quadro + GRD | ✗
 440.26 | | | | Linux | ✗
 436.56 | | | Via [NVD](https://developer.nvidia.com/vulkan-driver) | Linux 435.27.01 | ✗
 437.58 | | | | | ✓ (MSI)
