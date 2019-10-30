@@ -229,6 +229,7 @@ Driver Release Overview
 
 
 ## Acknowledgement & References
+* [Reshade filters (nvidia.com)](https://www.nvidia.com/en-us/geforce/news/geforce-gtx-16-series-super-game-ready-driver/)
 * [DDU Source Code (github.com/Wagnard)](https://github.com/Wagnard/display-drivers-uninstaller)
 * [GeForce Driver Installation Guide A guide to ensure your drivers are installed properly (forums.geforce.com)](https://forums.geforce.com/default/topic/467215/geforce-driver-installation-guide-a-guide-to-ensure-your-drivers-are-installed-properly-/)
 * [Install nVidia drivers on macOS the easy way (github.com)](https://github.com/Benjamin-Dobell/nVidia-update)
