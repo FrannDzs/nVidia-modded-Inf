@@ -1,5 +1,8 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+430.31 | 440_00-13379 | | | Linux, FreeBSD and Solaris | ✗
+436.61 | | | | Vulkan + Linux 435.27.03 | ✗
+[441.12](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/441.12) | 441_09-4 | | [Quadro](http://us.download.nvidia.com/Windows/441.12/441.12-win10-win8-win7-release-notes.pdf), [SD](http://us.download.nvidia.com/Windows/441.12/441.12-win10-nsd-release-notes.pdf), [GRD](http://us.download.nvidia.com/Windows/441.12/441.12-win10-win8-win7-release-notes.pdf) | Quadro, SD, GRD | ✗
 443.02 | | | | _Possible candidate for 20H1_ | ✓ (Microsoft)
 441.08 | 440_98-5 | 10/22/2019 | [Changelog](http://us.download.nvidia.com/Windows/441.08/441.08-win10-win8-win7-release-notes.pdf) | This is not a 20H1 driver (WDDM 2.7) | ✗
 441.10 | | | | | ✓ (MSI)
