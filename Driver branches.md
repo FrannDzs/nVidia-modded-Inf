@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+450.32 | | | | | ✓
 430.31 | 440_00-13379 | | | Linux, FreeBSD and Solaris | ✗
 436.61 | | | | Vulkan + Linux 435.27.03 | ✗
 [441.12](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/441.12) | 441_09-4 | 10/24/2019 | [Quadro](http://us.download.nvidia.com/Windows/441.12/441.12-win10-win8-win7-release-notes.pdf), [SD](http://us.download.nvidia.com/Windows/441.12/441.12-win10-nsd-release-notes.pdf), [GRD](http://us.download.nvidia.com/Windows/441.12/441.12-win10-win8-win7-release-notes.pdf) | Quadro, SD, GRD | ✗
