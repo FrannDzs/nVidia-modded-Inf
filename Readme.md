@@ -241,10 +241,12 @@ Driver Release Overview
 * [nVidia INF driver modding (forums.guru3d.com)](http://forums.guru3d.com/showthread.php?t=377158)
 * [G-SYNC Compatible Testing, Phase 1 Complete: Only 5% of Adaptive-Sync Monitors Made The Cut (nvidia.com)](https://www.nvidia.com/en-us/geforce/news/g-sync-compatible-validation/)
 
-## Debugging
+## Debugging & Official Driver Feedback Websites
+* [NVIDIA Display Driver Feedback (bug reporting)](https://forms.gle/kJ9Bqcaicvjb82SdA) - **Use it to report your bugs!**
+* [Capturing application crash or TDR dump files on Windows](https://nvidia.custhelp.com/app/answers/detail/a_id/3335) 
 * [How to enable nVidia Graphics Driver and GeForce Experience installer logging (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/3171/)
 
-## Unofficial patches
+## Unofficial NVIDIA patches
 * [Driver patch for enabling unlimited NVENC sessions (old) (github.com)](https://github.com/Matviy/nVidia-NVENC-multi-session-patch)
 * [NvencSessionLimitBump (github.com)](https://github.com/jantenhove/NvencSessionLimitBump)
 * [WhateverGreen (github.com)](https://github.com/acidanthera/WhateverGreen)
