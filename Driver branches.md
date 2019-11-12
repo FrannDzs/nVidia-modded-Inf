@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+441.20 | | | [Release Notes](http://us.download.nvidia.com/Windows/441.20/441.20-win10-win8-win7-release-notes.pdf) | GRD | ✗
 450.32 | | | | | ✓
 430.31 | 440_00-13379 | | | Linux, FreeBSD and Solaris | ✗
 436.61 | | | | Vulkan + Linux 435.27.03 | ✗
