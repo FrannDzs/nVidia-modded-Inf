@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+436.64 | | | | Vulkan | ✗
 441.38 | | | | | ✓ (MSI)
 441.20 | 440_00-161 | | [Release Notes](http://us.download.nvidia.com/Windows/441.20/441.20-win10-win8-win7-release-notes.pdf) | GRD | ✗
 450.32 | | | | | ✓
