@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+445.23 | 11/3/2019| | | Windows Insiders | ✗
 441.28 | | | [Studio](http://us.download.nvidia.com/Windows/441.28/441.28-win10-nsd-release-notes.pdf) & [Quadro](http://us.download.nvidia.com/Windows/Quadro_Certified/441.28/441.28-win10-win8-win7-quadro-release-notes.pdf) | Studio (NSD) & Quadro | ✗
 436.64 | | | | Vulkan | ✗
 441.38 | | | | | ✓ (MSI)
