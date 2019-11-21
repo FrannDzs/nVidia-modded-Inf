@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+440.33 | 441_20-13394 | | | [Linux](http://us.download.nvidia.com/tesla/440.33.01/NVIDIA-Linux-x86_64-440.33.01.run) | ✗
 441.22 | 440_00-163 | | | [CUDA 10.2 SDK and Tesla](https://developer.nvidia.com/cuda-downloads) | ✗
 441.06 | 440_00-143 | 10/20/2019 | | [HP](https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99940.exe) | ✗
 [441.34](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/441.34) | | | [Release Notes](http://us.download.nvidia.com/Windows/441.20/441.20-win10-win8-win7-release-notes.pdf) | GRD (Hotfix) | ✗
