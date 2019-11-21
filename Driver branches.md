@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+441.06 | 440_00-143 | 10/20/2019 | | [HP](https://ftp.hp.com/pub/softpaq/sp99501-100000/sp99940.exe) | ✗
 [441.34](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/441.34) | | | [Release Notes](http://us.download.nvidia.com/Windows/441.20/441.20-win10-win8-win7-release-notes.pdf) | GRD (Hotfix) | ✗
 450.11 | | | | | ✓ (HP)
 [445.23](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/445.23) | 11/3/2019| bugfix_main-16044 | | Windows Insiders | ✗
