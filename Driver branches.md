@@ -10,7 +10,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 [441.28](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/441.28) | | | [Studio](http://us.download.nvidia.com/Windows/441.28/441.28-win10-nsd-release-notes.pdf) & [Quadro](http://us.download.nvidia.com/Windows/Quadro_Certified/441.28/441.28-win10-win8-win7-quadro-release-notes.pdf) | Studio (NSD) & Quadro | ✗
 436.64 | | | | Vulkan | ✗
 441.38 | | | | | ✓ (MSI)
-441.20 | 440_00-161 | | [Release Notes](http://us.download.nvidia.com/Windows/441.20/441.20-win10-win8-win7-release-notes.pdf) | GRD | ✗
+441.20 | 440_00-161 | | [Release Notes](http://us.download.nvidia.com/Windows/441.20/441.20-win10-win8-win7-release-notes.pdf) | GRD + Mobile OEM | ✗
 450.32 | | | | | ✓
 430.31 | 440_00-13379 | | | Linux, FreeBSD and Solaris | ✗
 436.61 | | | | Vulkan + Linux 435.27.03 | ✗
