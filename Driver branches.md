@@ -1,6 +1,7 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
-436.64 | 440_00-150 | 10/27/2019 | | [Dell](https://downloads.dell.com/FOLDER05920706M/1/NVIDIA-Graphics-Driver_99XT0_WIN_26.21.14.4114_A05.EXE) | ✗
+442.67 | | | | | ✓ (MSI)
+441.14 | 440_00-150 | 10/27/2019 | | [Dell](https://downloads.dell.com/FOLDER05920706M/1/NVIDIA-Graphics-Driver_99XT0_WIN_26.21.14.4114_A05.EXE) | ✗
 440.36 | 441_20-13394 | | | [Linux](https://international.download.nvidia.com/XFree86/Linux-x86_64/440.36/NVIDIA-Linux-x86_64-440.36.run) | ✗
 440.33 | 441_20-13394 | | | [Linux](http://us.download.nvidia.com/tesla/440.33.01/NVIDIA-Linux-x86_64-440.33.01.run) | ✗
 441.22 | 440_00-163 | | | [CUDA 10.2 SDK and Tesla](https://developer.nvidia.com/cuda-downloads) | ✗
