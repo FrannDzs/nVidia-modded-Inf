@@ -269,3 +269,6 @@ Driver Release Overview
 * [End of Driver Support for Quadro Kepler-series Notebook Products (April 30, 2020)](https://nvidia.custhelp.com/app/answers/detail/a_id/4788)
 * [Support Plan for 3DVision Products (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/4781)
 * [Support Plan for Kepler-series GeForce GPUs for notebooks (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/4779)
+
+## NVIDIA market share
+* [GPU shipments in Q3’19](https://www.jonpeddie.com/press-releases/sharp-rise-in-global-gpu-shipments-in-q319-reports-jon-peddie-research)
