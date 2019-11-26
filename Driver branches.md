@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+441.41 | | | | GRD + Mobile OEM [Halo Driver](https://www.nvidia.com/en-us/geforce/news/halo-reach-game-ready-driver) | ✗
 436.65 | | | | [Vulkan](https://developer.nvidia.com/vulkan-driver) & Linux 435.27.08 | ✗
 442.67 | | | | | ✓ (MSI)
 441.14 | 440_00-150 | 10/27/2019 | | [Dell](https://downloads.dell.com/FOLDER05920706M/1/NVIDIA-Graphics-Driver_99XT0_WIN_26.21.14.4114_A05.EXE) | ✗
