@@ -261,8 +261,6 @@ Driver Release Overview
 ## Bios
 * [Maxwell Bios Tweaker for edit nVidia GTX 9XX bios (github.com)](https://github.com/richardblynd/maxwellbiostweaker)
 * [VGA and BIOS rom font extraction (github.com)](https://github.com/spacerace/romfont)
-* [nVidia-PascalBiosEditor (github.com)](https://github.com/vvaske/nVidia-PascalBiosEditor)
-* [nVidia-vBIOS-VFIO-Patcher (github.com)](https://github.com/Matoking/nVidia-vBIOS-VFIO-Patcher)
 
 ## EOL
 * CRD (Studio Drivers) are re-labeled to NSD
@@ -271,4 +269,4 @@ Driver Release Overview
 * [Support Plan for Kepler-series GeForce GPUs for notebooks (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/4779)
 
 ## NVIDIA market share
-* [GPU shipments in Q3’19](https://www.jonpeddie.com/press-releases/sharp-rise-in-global-gpu-shipments-in-q319-reports-jon-peddie-research)
+* [GPU shipments in Q3’19 (jonpeddie.com)](https://www.jonpeddie.com/press-releases/sharp-rise-in-global-gpu-shipments-in-q319-reports-jon-peddie-research)
