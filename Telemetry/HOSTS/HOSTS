@@ -1,9 +1,10 @@
 # Block all nVidia Telemetry
-# v1.0.1 by CHEF-KOCH
+# v1.0.2 by CHEF-KOCH
 #
 0.0.0.0 8.36.80.231
 0.0.0.0 8.36.113.126
 0.0.0.0 8.36.80.230
+0.0.0.0 activation.gfe.nvidia.com
 #0.0.0.0 accounts.nvgs.nvidia.com       # nVidia developer/GFE
 0.0.0.0 assets.nvidiagrid.net
 0.0.0.0 beta.telemetry.gfe.nvidia.com
