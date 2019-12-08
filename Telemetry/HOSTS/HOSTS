@@ -1,13 +1,27 @@
 # Block all nVidia Telemetry
-# v1.0.2 by CHEF-KOCH
+# https://github.com/CHEF-KOCH/nVidia-modded-Inf/edit/master/Telemetry/HOSTS/HOSTS
+# v1.0.3 by CHEF-KOCH
 #
-0.0.0.0 8.36.80.231
+
+#0.0.0.0 accounts.nvgs.nvidia.com       # nVidia developer/GFE
+#0.0.0.0 activation-dc1.gfe.nvidia.com
+#0.0.0.0 download-dc1.gfe.nvidia.com
+#0.0.0.0 gfe.geforce.com                # GFE
+#0.0.0.0 origin-services-dce.gfe.nvidia.com
+#0.0.0.0 services-dce.gfe.nvidia.com
 0.0.0.0 8.36.113.126
 0.0.0.0 8.36.80.230
+0.0.0.0 8.36.80.231
 0.0.0.0 activation.gfe.nvidia.com
-#0.0.0.0 accounts.nvgs.nvidia.com       # nVidia developer/GFE
+0.0.0.0 api.gfe.nvidia.com
 0.0.0.0 assets.nvidiagrid.net
 0.0.0.0 beta.telemetry.gfe.nvidia.com
+0.0.0.0 download-dce.gfe.nvidia.com
+0.0.0.0 downloadstage.gfe.nvidia.com
+0.0.0.0 events-dc1-1.gfe.nvidia.com
+0.0.0.0 events-dc1-2.gfe.nvidia.com
+0.0.0.0 events-dc1-3.gfe.nvidia.com
+0.0.0.0 events-dc1.gfe.nvidia.com
 0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 gfe.nvidia.com                  # GeForce Experience game optimization
 0.0.0.0 gfwsl.geforce.com               # Needed for Geforce Experience
@@ -16,7 +30,15 @@
 0.0.0.0 ota-downloads.nvidia.com
 0.0.0.0 rds-assets.nvidia.com
 0.0.0.0 services.gfe.nvidia.com
+0.0.0.0 sms.gfe.nvidia.co
+0.0.0.0 telemetry-dc1.gfe.nvidia.com
+0.0.0.0 telemetry-dce.gfe.nvidia.com
 0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 telemetry.nvidia.com
+0.0.0.0 ups-dc1-1.gfe.nvidia.com
+0.0.0.0 ups-dc1-2.gfe.nvidia.com
+0.0.0.0 ups-dc1-3.gfe.nvidia.com
+0.0.0.0 ups.gfe.nvidia.com
 # IPv6
 ::1 accounts.nvgs.nvidia.com
 ::1 assets.nvidiagrid.net
@@ -30,3 +52,5 @@
 ::1 rds-assets.nvidia.com
 ::1 services.gfe.nvidia.com
 ::1 telemetry.gfe.nvidia.com
+::1 telemetry.nvidia.com
+
