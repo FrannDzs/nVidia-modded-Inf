@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+432.06 | 421_00-359 | | | Quadro for Dell P, RTX and T | ✗
 441.41 | | | | GRD + Mobile OEM [Halo Driver](https://www.nvidia.com/en-us/geforce/news/halo-reach-game-ready-driver) | ✗
 436.65 | | | | [Vulkan](https://developer.nvidia.com/vulkan-driver) & Linux 435.27.08 | ✗
 442.67 | | | | | ✓ (MSI)
