@@ -58,6 +58,10 @@ Short answer:
 
 DCH is a collaboration platform supporting the process of commercial forecasting Demand Collaboration Hub (DCH) is a collaboration platform that enables all members of your Sales organization, at the various hierarchical levels, to submit, consolidate and validate their periodic commercial forecast. DCH is fully configurable, allowing you to model the workflow and segment the data between users, in relation to their level of responsibility, to configure your editing form, by selecting and publishing the information that are relevant for your sales organization, to enter commercial forecast at various level of aggregation, with automatic splitting of edited quantities to the level of maximum detail. DCH is part of the SO99+ (Service Optimizer 99+) product suite and more specifically it is complementary to its statistical forecasting functionality, since the statistical forecast may be used as a guidance to support the Sales organization to provide more reliable figures. To support mobility, DCH is available on the web or from any mobile device that your Sales organization may adopt.
 
+##### Update 13.12.2019
+
+[Windows 10 will get DCH by default](https://www.nvidia.com/en-us/geforce/forums/game-ready-drivers/13/332096/geforce-44166-game-ready-driver-feedback-thread-re/2339006/) (via WUS and NVIDIA website) (_Windows 7 is not affected_). This means "standards" driver are been fully replaced by DCH.
+
 
 Difference between INF(s) - Standard Vs. DCH
 ===================
