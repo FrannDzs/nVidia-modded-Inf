@@ -76,22 +76,6 @@ Basically nothing, except that you need at least Windows 10 Build 17098 (19H2)+ 
 The telemetry is disabled in any of the modded DHC infs. In case you like to enable it you have to manually set it to "1" within the inf files before you install your desired driver.
 
 
-
-Which driver should I install - Standad, DCH ...?
-===================
-
-##### Official nVidia recommendation
-* SD (Studio Driver, might replaces the "Creators Driver") = For **content creators, video editing, animation or graphic design**, use this driver.
-* CD (Creators Driver) = Same like SD, it might get replaced with the Studio Driver version (re-label).
-* GRD (Game Ready Driver) = For **gamers** which need the latest patches & DLCs. If you are gamer & creator, use this driver.
-* Standard GRD Driver = The normal oldschool driver for **Windows Home/Pro/Enterprise/LTSC** which want to game, use this driver.
-* DCH (Declarative, Componentized, Hardware Support Apps) = For **Windows S, Core users or user with a Windows Store which prefering to get the latest NVCP over the Store**, use this driver.
-
-
-##### My own recommendation
-* Stick with the **normal (GR [GRD]) driver** the rest is more or less marketing/pr with no real benefits. The driver packages are almost identical (except the DCH package). If you Windows version is a "special case" like the S/Core version then use the DCH version. 
-
-
 How-to remove old nVidia drivers
 ===================
 
