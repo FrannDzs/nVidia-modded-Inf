@@ -1,21 +1,71 @@
-# Block all nVidia Telemetry
+# Block all nVidia related Telemetry
 # https://github.com/CHEF-KOCH/nVidia-modded-Inf/edit/master/Telemetry/HOSTS/HOSTS
-# v1.0.3 by CHEF-KOCH
+# v1.0.4 by CHEF-KOCH
 #
 
+### Experience ###
+#0.0.0.0 143.204.214.89
+#0.0.0.0 152.195.52.18
+#0.0.0.0 152.195.53.31
+#0.0.0.0 192.229.182.215
+#0.0.0.0 192.229.210.202
+#0.0.0.0 52.27.113.27
+#0.0.0.0 52.85.135.107
+#0.0.0.0 8.36.112.54
+#0.0.0.0 8.36.113.137
+#0.0.0.0 8.36.120.11
+0.0.0.0 8.36.80.230
+#0.0.0.0 94.31.29.154
+
+### Patches - General download Server ###
+#0.0.0.0 8.36.80.209
+#0.0.0.0 international.download.nvidia.com
+#0.0.0.0 download.gfe.nvidia.com
+
+
+### Telemetry, Data collection, Statistics, OS version ###
+0.0.0.0 activation.gfe.nvidia.com
+0.0.0.0 telemetry-dc1.gfe.nvidia.com
+0.0.0.0 telemetry-dce.gfe.nvidia.com
+0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 telemetry.nvidia.com
+
+### NVProfileUpdater64.exe ###
+#0.0.0.0 152.195.52.18
+#0.0.0.0 192.229.189.227
+0.0.0.0 cs515.adn.phicdn.net
+
+### NVDisplayContainer.exe ###
+0.0.0.0 8.36.113.126
+#0.0.0.0 8.36.80.230
+0.0.0.0 8.36.80.231
+0.0.0.0 activation-dc1.gfe.nvidia.com
+
+### Nvidia WebHelper ###
+0.0.0.0 ota.nvidia.com
+#0.0.0.0 ota-downloads.nvidia.com
+
+### Installer ###
+0.0.0.0 104.91.25.159
+0.0.0.0 152.195.53.31
+0.0.0.0 192.229.182.215
+0.0.0.0 192.229.210.202
+0.0.0.0 185.136.68.145
+0.0.0.0 185.136.68.153
+
+### Misc ###
+#0.0.0.0 152.195.53.31                  # Website
 #0.0.0.0 accounts.nvgs.nvidia.com       # nVidia developer/GFE
 #0.0.0.0 activation-dc1.gfe.nvidia.com
 #0.0.0.0 download-dc1.gfe.nvidia.com
-#0.0.0.0 gfe.geforce.com                # GFE
+#0.0.0.0 gfe.geforce.com
 #0.0.0.0 origin-services-dce.gfe.nvidia.com
 #0.0.0.0 services-dce.gfe.nvidia.com
-0.0.0.0 8.36.113.126
-0.0.0.0 8.36.80.230
-0.0.0.0 8.36.80.231
-0.0.0.0 activation.gfe.nvidia.com
 0.0.0.0 api.gfe.nvidia.com
-0.0.0.0 assets.nvidiagrid.net
+#0.0.0.0 assets.nvidiagrid.net
 0.0.0.0 beta.telemetry.gfe.nvidia.com
+0.0.0.0 events-lon1.gfe.nvidia.com
+#0.0.0.0 images.nvidiagrid.net
 0.0.0.0 download-dce.gfe.nvidia.com
 0.0.0.0 downloadstage.gfe.nvidia.com
 0.0.0.0 events-dc1-1.gfe.nvidia.com
@@ -24,28 +74,26 @@
 0.0.0.0 events-dc1.gfe.nvidia.com
 0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 gfe.nvidia.com                  # GeForce Experience game optimization
-0.0.0.0 gfwsl.geforce.com               # Needed for Geforce Experience
+0.0.0.0 gfwsl.geforce.com               # Needed for Geforce Experience Update Check 
 0.0.0.0 heartbeats.omtrdc.net           # nVidia Shield (Adobe marketing Cloud)
 0.0.0.0 nvidia.tt.omtrdc.net
-0.0.0.0 ota-downloads.nvidia.com
 0.0.0.0 rds-assets.nvidia.com
-0.0.0.0 services.gfe.nvidia.com
+#0.0.0.0 services.gfe.nvidia.com
+#0.0.0.0 images.nvidia.com
 0.0.0.0 sms.gfe.nvidia.co
-0.0.0.0 telemetry-dc1.gfe.nvidia.com
-0.0.0.0 telemetry-dce.gfe.nvidia.com
-0.0.0.0 telemetry.gfe.nvidia.com
-0.0.0.0 telemetry.nvidia.com
 0.0.0.0 ups-dc1-1.gfe.nvidia.com
 0.0.0.0 ups-dc1-2.gfe.nvidia.com
 0.0.0.0 ups-dc1-3.gfe.nvidia.com
 0.0.0.0 ups.gfe.nvidia.com
-# IPv6
+
+
+### IPv6 ###
 ::1 accounts.nvgs.nvidia.com
 ::1 assets.nvidiagrid.net
 ::1 beta.telemetry.gfe.nvidia.com
 ::1 events.gfe.nvidia.com
 ::1 gfe.nvidia.com                      # GeForce Experience game optimization
-::1 gfwsl.geforce.com                   # Needed for Geforce Experience
+::1 gfwsl.geforce.com
 ::1 heartbeats.omtrdc.net               # nVidia Shield (Adobe marketing Cloud)
 ::1 nvidia.tt.omtrdc.net
 ::1 ota-downloads.nvidia.com
@@ -53,4 +101,3 @@
 ::1 services.gfe.nvidia.com
 ::1 telemetry.gfe.nvidia.com
 ::1 telemetry.nvidia.com
-
