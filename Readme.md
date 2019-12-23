@@ -212,7 +212,7 @@ Driver Release Overview
 * [![nVidia beta](https://img.shields.io/github/release-pre/CHEF-KOCH/nVidia-modded-Inf.svg?label=Latest%20nVidia%20beta&style=popout)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tags)
 
 * Latest nVidia PhysX System Software: [9.19.0218](http://us.download.nVidia.com/Windows/9.19.0218/PhysX-9.19.0218-SystemSoftware.exe)
-* Latest nVidia GeForce Experience ([Changelog](https://www.geforce.com/geforce-experience/download)): [3.20.1.57 Stable](https://de.download.nvidia.com/GFE/GFEClient/3.20.1.57/GeForce_Experience_v3.20.1.57.exe) & [Beta 3.20.2.34](https://de.download.nvidia.com/GFE/GFEClient/3.20.2.34/GeForce_Experience_Beta_v3.20.2.34.exe)
+* Latest nVidia GeForce Experience ([Changelog](https://www.geforce.com/geforce-experience/download)): [3.20.2.34 Stable](https://de.download.nvidia.com/GFE/GFEClient/3.20.2.34/GeForce_Experience_v3.20.2.34.exe) & [Beta (old) 3.20.2.34](https://de.download.nvidia.com/GFE/GFEClient/3.20.2.34/GeForce_Experience_Beta_v3.20.2.34.exe)
 
 
 
