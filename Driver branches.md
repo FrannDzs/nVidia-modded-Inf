@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+441.87 | 441_83-4 | 12/24/2019 | [Release Notes](http://us.download.nvidia.com/Windows/441.87/441.87-win10-win8-win7-release-notes.pdf) | [CES 2020 driver](https://www.nvidia.com/en-us/geforce/news/nvidia-geforce-ces-2020-game-ready-driver) | ✗
 441.71 | | | [Release Notes](https://developer.nvidia.com/vulkan-driver) | Vulkan + Linux 440.43.01 | ✗
 441.66 | | | [Release Notes](http://us.download.nvidia.com/Windows/441.66/441.66-win10-win8-win7-release-notes.pdf) | [Quadro](http://us.download.nvidia.com/Windows/Quadro_Certified/441.66/441.66-win10-win8-win7-quadro-release-notes.pdf) + GRD | ✗
 432.06 | 421_00-359 | | | Quadro for Dell P, RTX and T | ✗
