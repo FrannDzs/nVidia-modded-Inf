@@ -1,5 +1,7 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+441.99 | | | | [Vulkan 1.2](https://www.dsogaming.com/news/vulkan-1-2-is-now-available-improving-gpu-acceleration-functionality-and-performance/?) | ✗
+
 442.14 | | | | | ✓ (MSI)
 309.08 | | | | Curie architecture | ✗
 441.97 | | 01/07/2020, 26.21.14.4197 | Via [NVD](https://developer.nvidia.com/vulkan-driver) | Vulkan + Linux 440.43.02 | ✗
