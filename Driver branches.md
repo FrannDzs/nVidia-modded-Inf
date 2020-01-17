@@ -2,14 +2,14 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 :---: | :---: | :---: | :---: | --- | :---:
 442.54 | | | | | ✓ (MSI)
 442.67 | | | | | ✓ (Dell)
-442.01 | 441_83-5 | | | Via [NVD](https://nvidia.custhelp.com/app/answers/detail/a_id/4960/~/geforce-hotfix-driver-version-442.01) | ✗
+[442.01](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/442.01) | 441_83-5 | | | Via [NVD](https://nvidia.custhelp.com/app/answers/detail/a_id/4960/~/geforce-hotfix-driver-version-442.01) | ✗
 450.14 | | | | | ✗ (WUS)
-450.12 | bugfix_main-16168 | 1/3/2020 | | [Chinese leak](https://c-t.work/s/8316b48efff046), DCH DL via [Baidu](https://pan.baidu.coms/1LdUmtyDRCyFkuv2Qiq651A) | ✗
+[450.12](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/450.12) | bugfix_main-16168 | 1/3/2020 | | [Chinese leak](https://c-t.work/s/8316b48efff046), DCH DL via [Baidu](https://pan.baidu.coms/1LdUmtyDRCyFkuv2Qiq651A) | ✗
 441.99 | | | | [Vulkan 1.2](https://www.dsogaming.com/news/vulkan-1-2-is-now-available-improving-gpu-acceleration-functionality-and-performance/?), [PDF](https://www.khronos.org/assets/uploads/apis/Vulkan-1-2-Launch_Jan20.pdf) + [Press release](https://www.khronos.org/news/press/khronos-group-releases-vulkan-1.2) | ✗
 442.15 | | | | | ✓ (MSI)
 309.08 | | | | Curie architecture | ✗
 441.97 | | 01/07/2020, 26.21.14.4197 | Via [NVD](https://developer.nvidia.com/vulkan-driver) | Vulkan + Linux 440.43.02 | ✗
-441.87 | 441_83-4 | 12/24/2019 | [Release Notes](http://us.download.nvidia.com/Windows/441.87/441.87-win10-win8-win7-release-notes.pdf) | [CES 2020 driver](https://www.nvidia.com/en-us/geforce/news/nvidia-geforce-ces-2020-game-ready-driver) | ✗
+[441.87](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/441.87) | 441_83-4 | 12/24/2019 | [Release Notes](http://us.download.nvidia.com/Windows/441.87/441.87-win10-win8-win7-release-notes.pdf) | [CES 2020 driver](https://www.nvidia.com/en-us/geforce/news/nvidia-geforce-ces-2020-game-ready-driver) | ✗
 441.71 | | | [Release Notes](https://developer.nvidia.com/vulkan-driver) | Vulkan + Linux 440.43.01 | ✗
 441.66 | | | [Release Notes](http://us.download.nvidia.com/Windows/441.66/441.66-win10-win8-win7-release-notes.pdf) | [Quadro](http://us.download.nvidia.com/Windows/Quadro_Certified/441.66/441.66-win10-win8-win7-quadro-release-notes.pdf) + GRD | ✗
 432.06 | 421_00-359 | | | Quadro for Dell P, RTX and T | ✗
