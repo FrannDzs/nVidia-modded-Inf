@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+432.00 | `431_65-5` | `07/24/2019` | | re-released via [WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2019/10/2e685e86-e28f-4172-9bbf-bff0b9e1edc9_857e4a5473a85c2623285311e25e1bc0644c5862.cab) now with TU104 support, RTX 2060 | ✗
 436.64 | `421_00-386` | `11/20/2019` | | Via [WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2020/01/74332d23-fa84-4867-9982-08874101527a_62bf4e2504f1784d919482d6f755b014d94c8462.cab) for Lenovo (was original designed for HP but pulled) | ✗
 442.54 | | | | | ✓ (MSI)
 442.52 | | | | Developer | ✓ (MSI)
