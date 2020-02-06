@@ -1,7 +1,7 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
 442.58 | | | | Developer | ✓ (MSI)
-440.59 | | | | Linux: FreeBSD and Solaris | ✗
+440.59 | `440_00-13496` | | | Linux: FreeBSD and Solaris | ✗
 442.19 | 440_00-289 | | [Release Notes](http://us.download.nvidia.com/Windows/442.19/442.19-win10-win8-win7-release-notes.pdf), [Quadro Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/442.19/442.19-win10-win8-win7-quadro-release-notes.pdf) | GRD, SD & Quadro | ✗
 432.00 | `431_65-5` | `07/24/2019` | | re-released via [WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2019/10/2e685e86-e28f-4172-9bbf-bff0b9e1edc9_857e4a5473a85c2623285311e25e1bc0644c5862.cab) now with TU104 support, RTX 2060 | ✗
 436.64 | `421_00-386` | `11/20/2019` | | Via [WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2020/01/74332d23-fa84-4867-9982-08874101527a_62bf4e2504f1784d919482d6f755b014d94c8462.cab) for Lenovo (was original designed for HP but pulled) | ✗
