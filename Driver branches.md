@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+442.37 | | | | Hotfix | ✗
 442.58 | | | | Developer | ✓ (MSI)
 440.59 | `440_00-13496` | | | Linux: FreeBSD and Solaris | ✗
 442.19 | 440_00-289 | | [Release Notes](http://us.download.nvidia.com/Windows/442.19/442.19-win10-win8-win7-release-notes.pdf), [Quadro Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/442.19/442.19-win10-win8-win7-quadro-release-notes.pdf) | GRD, SD & Quadro | ✗
