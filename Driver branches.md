@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+440.59 | | | | Vulkan Dev driver | ✗
 442.37 | `442-19-4` | `02/13/2020` | Via [NVCH](https://nvidia.custhelp.com/app/answers/detail/a_id/4994) | Hotfix | ✗
 442.06 | `440_00-270` | `01/16/2020` | [Release Notes](https://nvid.nvidia.com/siteminderagent/forms/login.fcc) | GRID | ✗ 
 442.58 | | | | Developer | ✓ (MSI)
