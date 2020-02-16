@@ -1,5 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
+441.93 | | | | [Lenovo](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2020/02/61733186-99fa-4f15-86c3-0359e6267b01_321a6e84d74661bcc58cf81fb666356bfe25b31b.cab) | ✗
 442.36 | | | | Linux 440.58.01 - Vulkan Dev driver | ✗
 442.37 | `442-19-4` | `02/13/2020` | Via [NVCH](https://nvidia.custhelp.com/app/answers/detail/a_id/4994) | Hotfix | ✗
 442.06 | `440_00-270` | `01/16/2020` | [Release Notes](https://nvid.nvidia.com/siteminderagent/forms/login.fcc) | GRID | ✗ 
