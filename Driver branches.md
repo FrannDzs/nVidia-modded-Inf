@@ -2,6 +2,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 :---: | :---: | :---: | :---: | --- | :---:
 441.46 | `440_00-192` | | | [HP](https://whp-hou4.cold.extweb.hp.com/pub/softpaq/sp101001-101500/sp101007.exe) | ✗
 441.93 | `440_00-252` | | | [Lenovo](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2020/02/61733186-99fa-4f15-86c3-0359e6267b01_321a6e84d74661bcc58cf81fb666356bfe25b31b.cab) | ✗
+440.31 | `440_00-13379` | | | Curie architecture | ✗
 442.36 | `VK441_06-9` / `VK441_06-13384` | | | Linux 440.58.01 - Vulkan Dev driver | ✗
 442.37 | `442-19-4` | `02/13/2020` | Via [NVCH](https://nvidia.custhelp.com/app/answers/detail/a_id/4994) | Hotfix | ✗
 442.06 | `440_00-270` | `01/16/2020` | [Release Notes](https://nvid.nvidia.com/siteminderagent/forms/login.fcc) | GRID | ✗ 
