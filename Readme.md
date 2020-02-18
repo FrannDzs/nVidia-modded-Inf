@@ -250,6 +250,9 @@ Driver Release Overview
 * [Maxwell Bios Tweaker for edit nVidia GTX 9XX bios (github.com)](https://github.com/richardblynd/maxwellbiostweaker)
 * [VGA and BIOS rom font extraction (github.com)](https://github.com/spacerace/romfont)
 
+## GeForce Now
+* [GeForce Now Game List](https://www.gfnlist.com/)
+
 ## EOL
 * CRD (Studio Drivers) are re-labeled to NSD
 * [End of Driver Support for Quadro Kepler-series Notebook Products (April 30, 2020)](https://nvidia.custhelp.com/app/answers/detail/a_id/4788)
