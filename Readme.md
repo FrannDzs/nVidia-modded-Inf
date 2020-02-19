@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CHEF-KOCH/nVidia-modded-Inf/master/.github/Pictures/geforce.png" width="350"/>
   <img src="https://raw.githubusercontent.com/CHEF-KOCH/nVidia-modded-Inf/master/.github/Pictures/inf%20mod.png" width="350"/>
 </p>
 
@@ -252,6 +251,13 @@ Driver Release Overview
 
 ## GeForce Now
 * [GeForce Now Game List](https://www.gfnlist.com/)
+
+| Performance Overlay      | GPU           | Prozessor  |
+| ------------- |:-------------:| -----:|
+| Geforce GTX 1080c    | Tesla P40 (24GB) | Xeon E5-2697 v4 (8T @ 2,3 GHz) |
+| Geforce RTX 2060c    | Tesla RTX T10 (8GB) - 1/3     | Intel CC150 (8T @ 3,5 GHz) |
+| Geforce RTX 2080c (g6.full) | Tesla RTX T10 (16GB) - 2/3      | Intel CC150 (8T @ 3,5 GHz) |
+
 
 ## EOL
 * CRD (Studio Drivers) are re-labeled to NSD
