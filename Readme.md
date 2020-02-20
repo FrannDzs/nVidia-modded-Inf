@@ -228,6 +228,9 @@ Driver Release Overview
 * [nVidia INF driver modding (forums.guru3d.com)](http://forums.guru3d.com/showthread.php?t=377158)
 * [G-SYNC Compatible Testing, Phase 1 Complete: Only 5% of Adaptive-Sync Monitors Made The Cut (nvidia.com)](https://www.nvidia.com/en-us/geforce/news/g-sync-compatible-validation/)
 
+## Documentation
+* [open-gpu-doc (github.com)](https://github.com/NVIDIA/open-gpu-doc) 
+
 ## Debugging & Official Driver Feedback Websites
 * [NVIDIA Display Driver Feedback (bug reporting)](https://forms.gle/kJ9Bqcaicvjb82SdA) - **Use it to report your bugs!**
 * [Capturing application crash or TDR dump files on Windows](https://nvidia.custhelp.com/app/answers/detail/a_id/3335) 
