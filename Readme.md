@@ -262,6 +262,11 @@ Driver Release Overview
 | Geforce RTX 2080c (g6.full) | Tesla RTX T10 (16GB) - 2/3      | Intel CC150 (8T @ 3,5 GHz) |
 
 
+## Driver debloating & updater utilities
+- [NVSlimmer](https://forums.guru3d.com/threads/nvidia-driver-slimming-utility.423072/)
+- [NV Updater](https://www.sys-worx.net/downloads/file/7-nv-updater-nvidia-driver-updater/#versions)
+
+
 ## EOL
 * CRD (Studio Drivers) are re-labeled to NSD
 * [End of Driver Support for Quadro Kepler-series Notebook Products (April 30, 2020)](https://nvidia.custhelp.com/app/answers/detail/a_id/4788)
