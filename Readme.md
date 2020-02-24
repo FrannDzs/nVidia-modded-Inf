@@ -247,10 +247,14 @@ Driver Release Overview
 
 ## Unofficial driver updater
 * [nVidia Update PowerShell Script (github.com)](https://github.com/lord-carlos/nVidia-update)
+- [NVSlimmer](https://forums.guru3d.com/threads/nvidia-driver-slimming-utility.423072/)
+- ~~[NV Updater](https://www.sys-worx.net/downloads/file/7-nv-updater-nvidia-driver-updater/#versions)~~ stolen code from [TinyNV](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) without giving credits
 
-## Bios
+
+## BIOS
 * [Maxwell Bios Tweaker for edit nVidia GTX 9XX bios (github.com)](https://github.com/richardblynd/maxwellbiostweaker)
 * [VGA and BIOS rom font extraction (github.com)](https://github.com/spacerace/romfont)
+
 
 ## GeForce Now
 * [GeForce Now Game List](https://www.gfnlist.com/)
@@ -260,11 +264,6 @@ Driver Release Overview
 | Geforce GTX 1080c    | Tesla P40 (24GB) | Xeon E5-2697 v4 (8T @ 2,3 GHz) |
 | Geforce RTX 2060c    | Tesla RTX T10 (8GB) - 1/3     | Intel CC150 (8T @ 3,5 GHz) |
 | Geforce RTX 2080c (g6.full) | Tesla RTX T10 (16GB) - 2/3      | Intel CC150 (8T @ 3,5 GHz) |
-
-
-## Driver debloating & updater utilities
-- [NVSlimmer](https://forums.guru3d.com/threads/nvidia-driver-slimming-utility.423072/)
-- [NV Updater](https://www.sys-worx.net/downloads/file/7-nv-updater-nvidia-driver-updater/#versions)
 
 
 ## EOL
