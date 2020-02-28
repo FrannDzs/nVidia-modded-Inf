@@ -1,6 +1,6 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
-442.50 | `442_47-2` | `02/24/2020` | [Release Notes](http://us.download.nvidia.com/Windows/442.50/442.50-win10-win8-win7-release-notes.pdf) | GRD + Quadro | ✗
+442.50 | `442_47-2` | `02/24/2020` | [Release Notes](http://us.download.nvidia.com/Windows/442.50/442.50-win10-win8-win7-release-notes.pdf) | GRD + Quadro + Linux 440.64 | ✗
 441.83 | `440_00-236` | `12/22/2019` | Via [WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2020/02/831db9f0-10b9-4f11-b17d-c44b3cded9da_47e48a72e0ad403cbf8e8c9c897b499010281a09.cab) | PC Partner | ✗
 440.58.02 | | | | Linux Vulkan | ✗
 441.46 | `440_00-192` | | | [HP](https://whp-hou4.cold.extweb.hp.com/pub/softpaq/sp101001-101500/sp101007.exe) | ✗
