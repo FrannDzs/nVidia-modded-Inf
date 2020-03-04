@@ -65,10 +65,10 @@ DCH is a collaboration platform supporting the process of commercial forecasting
 Difference between INF(s) - Standard Vs. DCH
 ===================
 
-nVidia decided to make a clear cut with the "Super" cards, this basically means the infs got "separated" into two versions v7 - which represents DCH (see above what DCH drivers are) and v6 (old) are the normal "standard" drivers. The versions numbering might be changed completely next year (unclear at this point). 
+nVidia decided to make a clear cut with the "Super" cards, this basically means the infs got "separated" into two versions v7 - which represents DCH (see above what DCH drivers are) and v6 (old) are the normal "standard" drivers. The versions numbering might be changed completely next year (unclear at this point).
 
 
-What does this mean for you as user? 
+What does this mean for you as user?
 
 Basically nothing, except that you need at least Windows 10 Build 17098 (19H2)+ in order to run DCH modded drivers/infs, theoretically the infs are working on lower builds too but due to performance problems I do not recommended it (WDDM 2.7 was introduced in later drivers/Windows versions). However, keep in mind that (because I often get asked) that it's not possible to combine Standard and DCH Infs ("All-in-one inf") because DCH setups are different from the normal ones.
 
@@ -228,14 +228,18 @@ Driver Release Overview
 * [nVidia INF driver modding (forums.guru3d.com)](http://forums.guru3d.com/showthread.php?t=377158)
 * [G-SYNC Compatible Testing, Phase 1 Complete: Only 5% of Adaptive-Sync Monitors Made The Cut (nvidia.com)](https://www.nvidia.com/en-us/geforce/news/g-sync-compatible-validation/)
 * [List of NVIDIA specific ID's used to download graphics card drivers, etc. - NVID (github.com)](https://github.com/K4onashi/NVID)
+* [Driver Installation issues on Windows 7 (Code 52) (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/5002)
+
 
 ## Documentation
-* [open-gpu-doc (github.com)](https://github.com/NVIDIA/open-gpu-doc) 
+* [open-gpu-doc (github.com)](https://github.com/NVIDIA/open-gpu-doc)
+
 
 ## Debugging & Official Driver Feedback Websites
 * [NVIDIA Display Driver Feedback (bug reporting)](https://forms.gle/kJ9Bqcaicvjb82SdA) - **Use it to report your bugs!**
-* [Capturing application crash or TDR dump files on Windows](https://nvidia.custhelp.com/app/answers/detail/a_id/3335) 
+* [Capturing application crash or TDR dump files on Windows](https://nvidia.custhelp.com/app/answers/detail/a_id/3335)
 * [How to enable nVidia Graphics Driver and GeForce Experience installer logging (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/3171/)
+
 
 ## Unofficial NVIDIA patches
 * [Driver patch for enabling unlimited NVENC sessions (old) (github.com)](https://github.com/Matviy/nVidia-NVENC-multi-session-patch)
@@ -245,6 +249,7 @@ Driver Release Overview
 * [nVidia kvm patcher (github.com)](https://github.com/sk1080/nVidia-kvm-patcher)
 * [nVidia patch to remove restriction on maximum number of simultaneous NVENC video encoding session (github.com)](https://github.com/keylase/nVidia-patch)
 * [purge-wrangler (github.com)](https://github.com/mayankk2308/purge-wrangler)
+
 
 ## Unofficial driver updater
 * [nVidia Update PowerShell Script (github.com)](https://github.com/lord-carlos/nVidia-update)
@@ -260,11 +265,11 @@ Driver Release Overview
 ## GeForce Now
 * [GeForce Now Game List](https://www.gfnlist.com/)
 
-| Performance Overlay      | GPU           | Prozessor  |
-| ------------- |:-------------:| -----:|
-| Geforce GTX 1080c    | Tesla P40 (24GB) | Xeon E5-2697 v4 (8T @ 2,3 GHz) |
-| Geforce RTX 2060c    | Tesla RTX T10 (8GB) - 1/3     | Intel CC150 (8T @ 3,5 GHz) |
-| Geforce RTX 2080c (g6.full) | Tesla RTX T10 (16GB) - 2/3      | Intel CC150 (8T @ 3,5 GHz) |
+| Performance Overlay         |            GPU             |                      Prozessor |
+| --------------------------- | :------------------------: | -----------------------------: |
+| Geforce GTX 1080c           |      Tesla P40 (24GB)      | Xeon E5-2697 v4 (8T @ 2,3 GHz) |
+| Geforce RTX 2060c           | Tesla RTX T10 (8GB) - 1/3  |     Intel CC150 (8T @ 3,5 GHz) |
+| Geforce RTX 2080c (g6.full) | Tesla RTX T10 (16GB) - 2/3 |     Intel CC150 (8T @ 3,5 GHz) |
 
 
 ## EOL
@@ -272,6 +277,7 @@ Driver Release Overview
 * [End of Driver Support for Quadro Kepler-series Notebook Products (April 30, 2020)](https://nvidia.custhelp.com/app/answers/detail/a_id/4788)
 * [Support Plan for 3DVision Products (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/4781)
 * [Support Plan for Kepler-series GeForce GPUs for notebooks (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/4779)
+
 
 ## NVIDIA market share
 * [GPU shipments in Q3’19 (jonpeddie.com)](https://www.jonpeddie.com/press-releases/sharp-rise-in-global-gpu-shipments-in-q319-reports-jon-peddie-research)
