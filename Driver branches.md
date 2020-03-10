@@ -1,6 +1,7 @@
 Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
 :---: | :---: | :---: | :---: | --- | :---:
-442.59 | `442.59` | `3-4-2020` | [Release Notes](http://us.download.nvidia.com/Windows/442.59/442.59-win10-win8-win7-release-notes.pdf) | GRD | ✗
+442.62 | | | | | ✓ (Dell)
+[442.59](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/442.59) | `442_47-6)` | `3-4-2020` | [Release Notes](http://us.download.nvidia.com/Windows/442.59/442.59-win10-win8-win7-release-notes.pdf) | GRD | ✗
 392.59 | `390_00-600` | | Via [official page](https://www.nvidia.com/download/driverResults.aspx/157261) | Quadro mobile | ✗
 432.28 | | | Via [official page](https://www.nvidia.com/download/driverResults.aspx/157257) | Mobile Quadro - [NVIDIA Security Bulletin 4996](https://nvidia.custhelp.com/app/answers/detail/a_id/4996)  | ✗
 442.50 | `442_47-2` | `02/24/2020` | [Release Notes](http://us.download.nvidia.com/Windows/442.50/442.50-win10-win8-win7-release-notes.pdf) | GRD + Quadro + Linux 440.64 | ✗
