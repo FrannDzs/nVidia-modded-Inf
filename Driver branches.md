@@ -1,8 +1,10 @@
-Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement)
-:---: | :---: | :---: | :---: | --- | :---:
+| Driver | Branch | Date  | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
+| :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+442.05 | `440_00-269` | `01/16/2020` | | [1](https://support.ts.fujitsu.com/IndexDownload.asp?Softwareguid=795F963E-F961-4CDD-A74A-93C06C0EA15B) + [2](https://support.ts.fujitsu.com/IndexDownload.asp?Softwareguid=AA1B317D-CCF9-465C-9E5E-A3E2C2117D7D) | ✗
+442.23 | `440_00-293` | `01/31/2020` | | [Via Dell](https://dl.dell.com/FOLDER06123070M/1/NVIDIA-Graphics-Driver_6JYMM_WIN_26.21.14.4223_A07.EXE) | ✗
 442.62 | | | | | ✓ (Dell)
 442.60 | | | | | ✓ (MSI)
-[442.59](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/442.59) | `442_47-6` | `3-4-2020` | [Release Notes](http://us.download.nvidia.com/Windows/442.59/442.59-win10-win8-win7-release-notes.pdf) | GRD | ✗
+[442.59](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/442.59) | `442_47-6` | `3-4-2020` | [Release Notes](http://us.download.nvidia.com/Windows/442.59/442.59-win10-win8-win7-release-notes.pdf) | GRD + GRD Laptop | ✗
 392.59 | `390_00-600` | | Via [official page](https://www.nvidia.com/download/driverResults.aspx/157261) | Quadro mobile | ✗
 432.28 | | | Via [official page](https://www.nvidia.com/download/driverResults.aspx/157257) | Mobile Quadro - [NVIDIA Security Bulletin 4996](https://nvidia.custhelp.com/app/answers/detail/a_id/4996)  | ✗
 442.50 | `442_47-2` | `02/24/2020` | [Release Notes](http://us.download.nvidia.com/Windows/442.50/442.50-win10-win8-win7-release-notes.pdf) | GRD + Quadro + Linux 440.64 | ✗
@@ -13,7 +15,7 @@ Driver | Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikip
 440.31 | `440_00-13379` | | | Curie architecture | ✗
 442.36 | `VK441_06-9` / `VK441_06-13384` | | | Linux 440.58.01 - Vulkan Dev driver | ✗
 442.37 | `442-19-4` | `02/13/2020` | Via [NVCH](https://nvidia.custhelp.com/app/answers/detail/a_id/4994) | Hotfix | ✗
-442.06 | `440_00-270` | `01/16/2020` | [Release Notes](https://nvid.nvidia.com/siteminderagent/forms/login.fcc) | GRID | ✗ 
+442.06 | `440_00-270` | `01/16/2020` | [Release Notes](https://nvid.nvidia.com/siteminderagent/forms/login.fcc) | GRID | ✗
 442.58 | | | | Developer | ✓ (MSI)
 440.59 | `440_00-13496` | | | Linux: FreeBSD and Solaris | ✗
 442.19 | 440_00-289 | | [Release Notes](http://us.download.nvidia.com/Windows/442.19/442.19-win10-win8-win7-release-notes.pdf), [Quadro Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/442.19/442.19-win10-win8-win7-quadro-release-notes.pdf) | GRD, SD & Quadro | ✗
