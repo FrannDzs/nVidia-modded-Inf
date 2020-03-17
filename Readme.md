@@ -229,6 +229,7 @@ Driver Release Overview
 * [G-SYNC Compatible Testing, Phase 1 Complete: Only 5% of Adaptive-Sync Monitors Made The Cut (nvidia.com)](https://www.nvidia.com/en-us/geforce/news/g-sync-compatible-validation/)
 * [List of NVIDIA specific ID's used to download graphics card drivers, etc. - NVID (github.com)](https://github.com/K4onashi/NVID)
 * [Driver Installation issues on Windows 7 (Code 52) (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/5002)
+* [NVIDIA Configure Driver Utility (nvidia.com)](https://www.nvidia.com/en-us/drivers/driver-utility/) 
 
 
 ## Documentation
