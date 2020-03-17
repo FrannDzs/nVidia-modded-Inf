@@ -1,6 +1,6 @@
 | Driver | Branch | Date  | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
-[440.66.02](https://developer.nvidia.com/vulkan-driver) | | | |  [Vulkan Ray Tracing presentation](https://www.khronos.org/assets/uploads/apis/Vulkan-Ray-Tracing-Launch-Mar20.pdf) |  ✗
+442.75 / [440.66.02](https://developer.nvidia.com/vulkan-driver) | | | | Windows 442.75 Vulkan 1.2 Dev, [Vulkan Ray Tracing presentation](https://www.khronos.org/assets/uploads/apis/Vulkan-Ray-Tracing-Launch-Mar20.pdf) |  ✗
 441.70 | `440_00-218` | `12/10/2019` | | Via [WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2020/03/2b09581d-fc89-409d-b875-29ce8a594e20_3e6b23570efd70d38c8b3e7c067a1c5270d110da.cab) | ✗
 442.65 | | | | | ✓ (MSI)
 442.05 | `440_00-269` | `01/16/2020` | | Via Fujitsu [1](https://support.ts.fujitsu.com/IndexDownload.asp?Softwareguid=795F963E-F961-4CDD-A74A-93C06C0EA15B) + [2](https://support.ts.fujitsu.com/IndexDownload.asp?Softwareguid=AA1B317D-CCF9-465C-9E5E-A3E2C2117D7D) | ✗
