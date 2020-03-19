@@ -2,7 +2,7 @@
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
 442.77 | | | | Vulkan dev. driver + Linux: 440.66.03 Vulkan dev. driver | ✗
 443.08 | | | | | ✓ (Gigabyte)
-442.72 | `442_70-2` | `3-13-2020` | [Release Notes](https://us.download.nvidia.com/Windows/442.74/442.74-win10-win8-win7-release-notes.pdf)| Doom Eternal driver | ✗
+[442.74](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/442.74) | `442_70-2` | `3-13-2020` | [Release Notes](https://us.download.nvidia.com/Windows/442.74/442.74-win10-win8-win7-release-notes.pdf)| Doom Eternal driver + Qudro + Mobile | ✗
 442.75 / [440.66.02](https://developer.nvidia.com/vulkan-driver) | | | | Windows 442.75 Vulkan 1.2 Dev, [Vulkan Ray Tracing presentation](https://www.khronos.org/assets/uploads/apis/Vulkan-Ray-Tracing-Launch-Mar20.pdf) |  ✗
 441.70 | `440_00-218` | `12/10/2019` | | Via [WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2020/03/2b09581d-fc89-409d-b875-29ce8a594e20_3e6b23570efd70d38c8b3e7c067a1c5270d110da.cab) | ✗
 442.65 | | | | | ✓ (MSI)
