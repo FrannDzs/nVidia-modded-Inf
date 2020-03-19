@@ -1,5 +1,6 @@
 | Driver | Branch | Date  | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+442.77 | | | | Vulkan dev. driver + Linux: 440.66.03 Vulkan dev. driver | ✗
 443.08 | | | | | ✓ (Gigabyte)
 442.72 | `442_70-2` | `3-13-2020` | [Release Notes](https://us.download.nvidia.com/Windows/442.74/442.74-win10-win8-win7-release-notes.pdf)| Doom Eternal driver | ✗
 442.75 / [440.66.02](https://developer.nvidia.com/vulkan-driver) | | | | Windows 442.75 Vulkan 1.2 Dev, [Vulkan Ray Tracing presentation](https://www.khronos.org/assets/uploads/apis/Vulkan-Ray-Tracing-Launch-Mar20.pdf) |  ✗
