@@ -1,5 +1,6 @@
 | Driver | Branch | Date  | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+445.75 | 445_00-138 | | | [Half-Life: Alyx GRD](https://www.nvidia.com/en-us/geforce/news/half-life-alyx-nvidia-dlss-2-0-game-ready-driver/) | ✗
 444.16 | | | | | ✓ (MSI)
 442.77 | | | | Vulkan dev. driver + Linux: 440.66.03 Vulkan dev. driver | ✗
 443.08 | | | | | ✓ (Gigabyte)
