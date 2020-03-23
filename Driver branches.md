@@ -1,7 +1,8 @@
 | Driver | Branch | Date  | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+444.48 | | | | | ✓ (Dell)
 446.02 | | | | | ✓ (MSI)
-445.75 | `445_00-138` | `02/24/2020` | [Release Notes](http://us.download.nvidia.com/Windows/445.75/445.75-win10-win8-win7-release-notes.pdf) | [Half-Life: Alyx GRD](https://www.nvidia.com/en-us/geforce/news/half-life-alyx-nvidia-dlss-2-0-game-ready-driver/) | ✗
+[445.75](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/445.759) | `445_00-138` | `02/24/2020` | [Release Notes](http://us.download.nvidia.com/Windows/445.75/445.75-win10-win8-win7-release-notes.pdf) | [Half-Life: Alyx GRD](https://www.nvidia.com/en-us/geforce/news/half-life-alyx-nvidia-dlss-2-0-game-ready-driver/) | ✗
 444.16 | | | | | ✓ (MSI)
 442.77 | | | | Vulkan dev. driver + Linux: 440.66.03 Vulkan dev. driver | ✗
 443.08 | | | | | ✓ (Gigabyte)
