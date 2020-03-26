@@ -1,5 +1,6 @@
 | Driver | Branch | Date  | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+417.54 | | | | | ✓ (nVidia)
 445.70 | | | | | ✓ (MSI)
 [445.78](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/445.78) | `445_75-2` | `02/24/2020` | [Release Notes](https://www.nvidia.com/en-us/geforce/forums/game-ready-drivers/13/350672/announcing-geforce-hotfix-driver-version-44578-rel/) | GRD Hotfix | ✗
 442.81 | | | | Vulkan 1-2 Dev Driver + Linux 440.66.04 | ✗
