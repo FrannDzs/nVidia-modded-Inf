@@ -1,6 +1,10 @@
 | Driver | Branch | Date  | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+450.62 | | | | Possible candidate for Tier 1.1 (_20H1 official release?_) | ✓ (nVidia)
+444.09 | | | | | ✓ (nVidia)
 450.56 | | | | [DirectX 12 Ultimate driver](https://devblogs.microsoft.com/directx/directx-12-ultimate-getting-started-guide/) for Windows 10 19587 Insiders | ✗
+444.12 | | | | | ✓ (nVidia)
+444.69 | | | | | ✓ (nVidia)
 417.54 | | | | | ✓ (nVidia)
 445.70 | | | | | ✓ (MSI)
 [445.78](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/445.78) | `445_75-2` | `02/24/2020` | [Release Notes](https://www.nvidia.com/en-us/geforce/forums/game-ready-drivers/13/350672/announcing-geforce-hotfix-driver-version-44578-rel/) | GRD Hotfix | ✗
