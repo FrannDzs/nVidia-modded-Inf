@@ -1,5 +1,6 @@
 | Driver | Branch | Date  | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+442.86 | | | | Vulkan 1.1 + [Vulkan 1.2 (dev)](https://developer.nvidia.com/vulkan-driver) + Linux 440.66.07 | ✗
 450.62 | | | | Possible candidate for Tier 1.1 (_20H1 official release?_) | ✓ (nVidia)
 444.09 | | | | | ✓ (nVidia)
 450.56 | | | | [DirectX 12 Ultimate driver](https://devblogs.microsoft.com/directx/directx-12-ultimate-getting-started-guide/) for Windows 10 19587 Insiders | ✗
