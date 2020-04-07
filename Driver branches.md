@@ -1,5 +1,6 @@
 | Driver | Branch | Date  | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+440.82 | | | | Linux | ✗
 442.89 | | | | Dev | ✓ (nVidia)
 442.88 | | | | [Vulkan 1.2 (dev)](https://developer.nvidia.com/vulkan-driver) + Linux 440.66.08 | ✗
 442.86 | | | | Vulkan 1.1 + [Vulkan 1.2 (dev)](https://developer.nvidia.com/vulkan-driver) + Linux 440.66.07 | ✗
