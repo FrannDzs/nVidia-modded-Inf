@@ -1,6 +1,6 @@
 | Driver | Branch | Date  | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
-440.82 | | | | Linux | ✗
+440.82 | | | | [Linux](http://de.download.nvidia.com/XFree86/Linux-x86_64/440.82/NVIDIA-Linux-x86_64-440.82.run), [FreeBSD](http://us.download.nvidia.com/XFree86/FreeBSD-x86_64/440.82/NVIDIA-FreeBSD-x86_64-440.82.tar.gz), [Solaris](http://fr.download.nvidia.com/solaris/440.82/NVIDIA-Solaris-x86-440.82.run) | ✗
 442.89 | | | | Dev | ✓ (nVidia)
 442.88 | | | | [Vulkan 1.2 (dev)](https://developer.nvidia.com/vulkan-driver) + Linux 440.66.08 | ✗
 442.86 | | | | Vulkan 1.1 + [Vulkan 1.2 (dev)](https://developer.nvidia.com/vulkan-driver) + Linux 440.66.07 | ✗
