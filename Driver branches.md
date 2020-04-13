@@ -37,7 +37,7 @@
 441.93 | `440_00-252` | | | [Lenovo](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2020/02/61733186-99fa-4f15--0359e6267b01_321a6e84d74661bcc58cf81fb666356bfe25b31b.cab) | ✗
 440.31 | `440_00-13379` | | | Curie architecture | ✗
 442.36 | `VK441_06-9` / `VK441_06-13384` | | | Linux 440.58.01 - Vulkan Dev driver | ✗
-442.37 | `442-19-4` | `02/13/2020` | Via [NVCH](https://nvidia.custhelp.com/app/answers/detail/a_id/4994) | Hotfix | ✗
+442.37 | `442_19-4` | `02/13/2020` | Via [NVCH](https://nvidia.custhelp.com/app/answers/detail/a_id/4994) | Hotfix | ✗
 442.06 | `440_00-270` | `01/16/2020` | [Release Notes](https://nvid.nvidia.com/siteminderagent/forms/login.fcc) | GRID | ✗
 442.58 | | | | Developer | ✓ (MSI)
 440.59 | `440_00-13496` | | | Linux: FreeBSD and Solaris | ✗
@@ -183,7 +183,7 @@
 417.88 | | 02/12/2019 | | HP | ✗
 419.26 | | 02/24/2019 | | iCafe driver | ✗
 421.65 | 421_00-28 | 02/22/2019 | WDDM 2.6 driver | [Download + Info](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/1.06) | ✗
-419.35 | 419-29_2 | 03/01/2019 | [Release Notes](http://us.download.nvidia.com/Windows/419.35/419.35-win10-win8-win7-desktop-release-notes.pdf) | First GeForce GTX 1660 Ti driver | ✗
+419.35 | 419_29-2 | 03/01/2019 | [Release Notes](http://us.download.nvidia.com/Windows/419.35/419.35-win10-win8-win7-desktop-release-notes.pdf) | First GeForce GTX 1660 Ti driver | ✗
 419.38 | | | | | ✓
 419.34 | VK418.62 | 03/01/2019 | [Via NVD](https://developer.nvidia.com/vulkan-driver) | Linux 418.42.02 | ✗
 419.26 | | | | | ✓
