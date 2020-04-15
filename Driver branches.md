@@ -1,5 +1,6 @@
 | Driver | Branch | Date  | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+445.87 | `r445_85-2` | `4/3/2020` | [Release Notes](http://us.download.nvidia.com/Windows/445.87/445.87-win10-win8-win7-release-notes.pdf) | GRD for Minecraft with RTX Beta | ✗
 440.82 | | | | [Linux](http://de.download.nvidia.com/XFree86/Linux-x86_64/440.82/NVIDIA-Linux-x86_64-440.82.run), [FreeBSD](http://us.download.nvidia.com/XFree86/FreeBSD-x86_64/440.82/NVIDIA-FreeBSD-x86_64-440.82.tar.gz), [Solaris](http://fr.download.nvidia.com/solaris/440.82/NVIDIA-Solaris-x86-440.82.run) | ✗
 442.89 | | | | Dev | ✓ (nVidia)
 442.88 | | | | [Vulkan 1.2 (dev)](https://developer.nvidia.com/vulkan-driver) + Linux 440.66.08 | ✗
