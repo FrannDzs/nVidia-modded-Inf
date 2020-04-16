@@ -1,7 +1,8 @@
 | Driver | Branch | Date  | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+450.57 | | | | | ✓ (nVidia)
 442.31 | | | Via [WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2020/04/d0da088a-3f78-4ce1-b2b4-959fb8f23947_b79006ac17f8c0105dc2ec070be42f2cfbfcc511.cab) | Clevo | ✗
-[442.92](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/442.92) | | | | Studio Driver + Quadro | ✗
+[442.92](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/442.92) | | `04/07/2020` | | Studio Driver + Quadro | ✗
 445.87 | `r445_85-2` | `4/3/2020` | [Release Notes](http://us.download.nvidia.com/Windows/445.87/445.87-win10-win8-win7-release-notes.pdf) | GRD for Minecraft with RTX Beta | ✗
 440.82 | | | | [Linux](http://de.download.nvidia.com/XFree86/Linux-x86_64/440.82/NVIDIA-Linux-x86_64-440.82.run), [FreeBSD](http://us.download.nvidia.com/XFree86/FreeBSD-x86_64/440.82/NVIDIA-FreeBSD-x86_64-440.82.tar.gz), [Solaris](http://fr.download.nvidia.com/solaris/440.82/NVIDIA-Solaris-x86-440.82.run) | ✗
 442.89 | | | | Dev | ✓ (nVidia)
