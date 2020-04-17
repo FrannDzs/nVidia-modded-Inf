@@ -1,7 +1,8 @@
 | Driver | Branch | Date  | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+450.84 | | | | | ✓ (nVidia)
 450.83 | | | | | ✓ (nVidia)
-450.82 | `450_00-129` | `02/24/2020` | Via [announce](https://developer.nvidia.com/directx) | [DirectX 12 Ultimate Driver](https://developer.nvidia.com/directx) (Desktop + Quadro) | ✗
+[450.82](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/450.82) | `450_00-129` | `02/24/2020` | Via [announce](https://developer.nvidia.com/directx) | [DirectX 12 Ultimate Driver](https://developer.nvidia.com/directx) (Desktop + Quadro) | ✗
 450.58 | | | | | ✓ (MSI)
 450.57 | | | | | ✓ (nVidia)
 442.31 | | | Via [WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2020/04/d0da088a-3f78-4ce1-b2b4-959fb8f23947_b79006ac17f8c0105dc2ec070be42f2cfbfcc511.cab) | Clevo | ✗
