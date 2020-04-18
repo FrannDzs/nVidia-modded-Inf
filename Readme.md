@@ -229,8 +229,8 @@ Driver Release Overview
 * [G-SYNC Compatible Testing, Phase 1 Complete: Only 5% of Adaptive-Sync Monitors Made The Cut (nvidia.com)](https://www.nvidia.com/en-us/geforce/news/g-sync-compatible-validation/)
 * [List of NVIDIA specific ID's used to download graphics card drivers, etc. - NVID (github.com)](https://github.com/K4onashi/NVID)
 * [Driver Installation issues on Windows 7 (Code 52) (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/5002)
-* [NVIDIA Configure Driver Utility (nvidia.com)](https://www.nvidia.com/en-us/drivers/driver-utility/) 
-
+* [NVIDIA Configure Driver Utility (nvidia.com)](https://www.nvidia.com/en-us/drivers/driver-utility/)
+* [How to provide valuable feedback to NVIDIA (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/3141/~/how-to-provide-valuable-feedback-to-nvidia)
 
 ## Documentation
 * [open-gpu-doc (github.com)](https://github.com/NVIDIA/open-gpu-doc)
@@ -279,6 +279,13 @@ Driver Release Overview
 * [End of Driver Support for Quadro Kepler-series Notebook Products (April 30, 2020)](https://nvidia.custhelp.com/app/answers/detail/a_id/4788)
 * [Support Plan for 3DVision Products (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/4781)
 * [Support Plan for Kepler-series GeForce GPUs for notebooks (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/4779)
+
+
+## RTX Voice (Beta)
+- [Announce](https://www.nvidia.com/en-us/geforce/forums/broadcasting/18/361740/rtx-voice-beta/)
+- [Beta (download, Windows only, needs Turing and 410.18+)](https://developer.nvidia.com/rtx/broadcast_engine/secure/NVIDIA_RTX_Voice.exe)
+- [Audio Samples](https://broadcast.nvidia.com/feedback?ncid=afm-chs-44270&ranMID=44270&ranEAID=a1LgFw09t88&ranSiteID=a1LgFw09t88-rnrumlx4Roc9F7npHQkoLg&sdk=voice)
+- [NVIDIA RTX Voice Setup Guide](https://www.nvidia.com/en-us/geforce/guides/nvidia-rtx-voice-setup-guide/)
 
 
 ## NVIDIA market share
