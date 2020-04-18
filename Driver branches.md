@@ -1,6 +1,7 @@
 | Driver | Branch | Date  | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
-442.98 | | | | nVidia Vulkan, Linux: | 440.66.09 | ✗
+450.59 | | | | | ✓ (MSI)
+442.98 | | | | nVidia Vulkan, Linux: 440.66.09 | ✗
 450.84 | | | | | ✓ (nVidia)
 450.83 | | | | | ✓ (nVidia)
 [450.82](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/450.82) | `450_00-129` | `02/24/2020` | Via [announce](https://developer.nvidia.com/directx) | [DirectX 12 Ultimate Driver](https://developer.nvidia.com/directx) (Desktop + Quadro) | ✗
