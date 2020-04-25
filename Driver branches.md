@@ -1,6 +1,7 @@
 | Driver | Branch | Date  | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
-445.98 | | | | Hotfix driver | ✗
+445.99 | | | |  | ✓ (MSI)
+[445.98](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/445.98) | `r445_85-7` | `04/23/2020` | | Hotfix driver | ✗
 440.66.09 | | | | [Vulkan 1.2](https://developer.nvidia.com/vulkan-driver) | ✗
 450.59 | | | | | ✓ (Dell)
 450.59 | | | | | ✓ (MSI)
