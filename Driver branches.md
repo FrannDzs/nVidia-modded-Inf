@@ -1,5 +1,6 @@
 | Driver | Branch | Date  | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+445.98 | | | | Hotfix driver | ✗
 440.66.09 | | | | [Vulkan 1.2](https://developer.nvidia.com/vulkan-driver) | ✗
 450.59 | | | | | ✓ (Dell)
 450.59 | | | | | ✓ (MSI)
