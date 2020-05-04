@@ -1,5 +1,6 @@
 | Driver | Branch | Date  | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+440.66.12  | | | | [Linux Vulkan 1.2 Dev Beta](https://developer.nvidia.com/vulkan-beta-4406612-linux)| ✗
 418.113 | | | | [Linux](http://us.download.nvidia.com/XFree86/Linux-x86_64/418.113/NVIDIA-Linux-x86_64-418.113.run) | ✗
 450.58 | | | | | ✓ (Dell)
 [450.82](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/450.82pre) | | | | [Pre-Release](https://developer.nvidia.com/search/site/450.82) | ✗
