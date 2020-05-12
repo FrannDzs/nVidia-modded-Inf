@@ -1,6 +1,7 @@
-| Driver | Branch | Date  | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
+| Win Driver | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
-443.15 | | | | Linux 440.66.14 | ✗
+443.26 | | | | | ✓ (nVidia)
+443.15 | `VK441_06-21` | | | Linux 440.66.14 & Vulkan API 1.2.140 | ✗
 443.09 | | | | [Linux 440.66.12 Vulkan 1.2 Dev Beta](https://developer.nvidia.com/vulkan-beta-4406612-linux) | ✗
 [418.113](https://www.nvidia.com/Download/driverResults.aspx/153717/en-us) | | | | [Linux](http://us.download.nvidia.com/XFree86/Linux-x86_64/418.113/NVIDIA-Linux-x86_64-418.113.run) | ✗
 450.58 | | | | | ✓ (Dell)
