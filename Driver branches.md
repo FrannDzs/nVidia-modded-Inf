@@ -1,6 +1,6 @@
 | Win Driver | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
-450.99 | | | | Windows Insider | ✗
+[450.99](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/450.99) | `450_00-165` | `01/05/2020` | | Windows Insiders | ✗
 443.26 | | | | | ✓ (nVidia)
 443.15 | `VK441_06-21` | | | Linux 440.66.14 & Vulkan API 1.2.140 | ✗
 443.09 | | | | [Linux 440.66.12 Vulkan 1.2 Dev Beta](https://developer.nvidia.com/vulkan-beta-4406612-linux) | ✗
