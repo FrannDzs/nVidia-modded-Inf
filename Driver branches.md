@@ -1,5 +1,6 @@
 | Win Driver | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+443.24 | | | Via NVD | [Vulkan 1.2](https://developer.nvidia.com/vulkan-driver) & Linux 440.66.15 | ✗
 [450.99](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/450.99) | `450_00-165` | `01/05/2020` | | Windows Insiders + [Developer Preview](https://developer.nvidia.com/directx) | ✗
 443.26 | | | | | ✓ (nVidia)
 443.15 | `VK441_06-21` | | | Linux 440.66.14 & Vulkan API 1.2.140 | ✗
