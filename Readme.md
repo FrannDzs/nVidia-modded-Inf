@@ -212,6 +212,7 @@ Driver Release Overview
 
 * Latest nVidia PhysX System Software: [9.19.0218](http://us.download.nVidia.com/Windows/9.19.0218/PhysX-9.19.0218-SystemSoftware.exe)
 * Latest nVidia GeForce Experience ([Changelog](https://www.geforce.com/geforce-experience/download)): [3.20.2.34 Stable](https://de.download.nvidia.com/GFE/GFEClient/3.20.3.63/GeForce_Experience_v3.20.3.63.exe) & [Beta 3.20.3.63 (old)](https://de.download.nvidia.com/GFE/GFEClient/3.20.3.63/GeForce_Experience_Beta_v3.20.3.63.exe)
+* Latest [Nvidia Quadro Experience](https://www.nvidia.com/en-us/design-visualization/software/quadro-experience/): [1.0.0.53](https://de.download.nvidia.com/QXP/QXPClient/1.0.0.53/QuadroExperienceSetupInt.exe)
 
 
 
