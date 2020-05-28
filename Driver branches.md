@@ -1,5 +1,6 @@
 | Win Driver | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+450.99 | | | | Quadro/-GRD [pre-release](https://developer.nvidia.com/directx) | ✗
 451.01 | | | | | ✓ (Dell)
 451.04 | | | | | ✓ (nVidia)
 [446.14](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/446.14) | `445_85-16` | `05/15/2020` | [Release Notes](https://us.download.nvidia.com/Windows/446.14/446.14-win10-win8-win7-release-notes.pdf) | GRD | ✗
