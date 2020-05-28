@@ -1,5 +1,6 @@
 | Win Driver | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+// | | | | [Linux 450.36.01](https://developer.nvidia.com/gameworksdownload#?dn=nsight-visual-studio-edition-2020-1) + [CUDA Toolkit 11.0](https://developer.nvidia.com/cuda-toolkit) | ✗
 450.99 | | | | Quadro/-GRD [pre-release](https://developer.nvidia.com/directx) | ✗
 451.01 | | | | | ✓ (Dell)
 451.04 | | | | | ✓ (nVidia)
