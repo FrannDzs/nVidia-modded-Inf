@@ -1,7 +1,8 @@
 | Win Driver | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+451.01 | | | | | ✓ (Dell)
 451.04 | | | | | ✓ (nVidia)
-[446.14](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/446.14) | | `05/15/2020` | [Release Notes](https://us.download.nvidia.com/Windows/446.14/446.14-win10-win8-win7-release-notes.pdf) | GRD | ✗
+[446.14](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/446.14) | `445_85-16` | `05/15/2020` | [Release Notes](https://us.download.nvidia.com/Windows/446.14/446.14-win10-win8-win7-release-notes.pdf) | GRD | ✗
 443.24 | | | Via NVD | [Vulkan 1.2](https://developer.nvidia.com/vulkan-driver) & Linux 440.66.15 | ✗
 [450.99](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/450.99) | `450_00-165` | `01/05/2020` | | Windows Insiders + [Developer Preview](https://developer.nvidia.com/directx) | ✗
 443.26 | | | | | ✓ (nVidia)
