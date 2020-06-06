@@ -233,6 +233,7 @@ Driver Release Overview
 * [NVIDIA Configure Driver Utility (nvidia.com)](https://www.nvidia.com/en-us/drivers/driver-utility/)
 * [How to provide valuable feedback to NVIDIA (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/3141/~/how-to-provide-valuable-feedback-to-nvidia)
 
+
 ## Documentation
 * [open-gpu-doc (github.com)](https://github.com/NVIDIA/open-gpu-doc)
 * [The Khronos Vulkan Ray Tracing presentation (March 2020) (khronos.org)](https://www.khronos.org/assets/uploads/apis/Vulkan-Ray-Tracing-Launch-Mar20.pdf)
@@ -258,8 +259,8 @@ Driver Release Overview
 
 ## Unofficial driver updater
 * [nVidia Update PowerShell Script (github.com)](https://github.com/lord-carlos/nVidia-update)
-- [NVSlimmer](https://forums.guru3d.com/threads/nvidia-driver-slimming-utility.423072/)
-- ~~[NV Updater](https://www.sys-worx.net/downloads/file/7-nv-updater-nvidia-driver-updater/#versions)~~ stolen code from [TinyNV](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) without giving credits
+* [NVSlimmer](https://forums.guru3d.com/threads/nvidia-driver-slimming-utility.423072/)
+* ~~[NV Updater](https://www.sys-worx.net/downloads/file/7-nv-updater-nvidia-driver-updater/#versions)~~ stolen code from [TinyNV](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) without giving credits
 
 
 ## BIOS
@@ -277,7 +278,7 @@ Driver Release Overview
 | Geforce RTX 2080c (g6.full) | Tesla RTX T10 (16GB) - 2/3 |     Intel CC150 (8T @ 3,5 GHz) |
 
 
-## EOL
+## End of Life (EOL) Products 
 * CRD (Studio Drivers) are re-labeled to NSD
 * [End of Driver Support for Quadro Kepler-series Notebook Products (April 30, 2020)](https://nvidia.custhelp.com/app/answers/detail/a_id/4788)
 * [Support Plan for 3DVision Products (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/4781)
