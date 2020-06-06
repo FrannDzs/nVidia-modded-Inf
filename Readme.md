@@ -253,6 +253,7 @@ Driver Release Overview
 * [nVidia kvm patcher (github.com)](https://github.com/sk1080/nVidia-kvm-patcher)
 * [nVidia patch to remove restriction on maximum number of simultaneous NVENC video encoding session (github.com)](https://github.com/keylase/nVidia-patch)
 * [purge-wrangler (github.com)](https://github.com/mayankk2308/purge-wrangler)
+* [Remove-HypervisorChecks (github.com)](https://github.com/riverar/Remove-HypervisorChecks) & [Blog post](https://withinrafael.com/2020/06/06/how-to-get-consumer-gpus-working-in-hyperv-virtual-machines/)
 
 
 ## Unofficial driver updater
