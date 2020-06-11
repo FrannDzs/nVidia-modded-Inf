@@ -1,5 +1,6 @@
 | Win Driver | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+426.06 | | | | The last developer driver for Kepler-series GeForce GPUs (notebooks) + Linux 418.52.20 | ✗
 [451.22](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/451.22) | `451_05-10` | `06/02/2020` | Via [NV](https://developer.nvidia.com/cuda-toolkit) | CUDA toolkit 11.0.1 + Linux [450.36.06](https://developer.download.nvidia.com/compute/cuda/11.0.1/local_installers/cuda_11.0.1_450.36.06_linux.run) | ✗
 // | | | | [Linux 450.36.01](https://developer.nvidia.com/gameworksdownload#?dn=nsight-visual-studio-edition-2020-1) + [CUDA Toolkit 11.0](https://developer.nvidia.com/cuda-toolkit) | ✗
 450.99 | | | | Quadro/-GRD [pre-release](https://developer.nvidia.com/directx) | ✗
