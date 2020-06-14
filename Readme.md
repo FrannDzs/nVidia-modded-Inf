@@ -241,7 +241,7 @@ Driver Release Overview
 
 ## Debugging & Official Driver Feedback Websites
 * [NVIDIA Display Driver Feedback (bug reporting)](https://forms.gle/kJ9Bqcaicvjb82SdA) - **Use it to report your bugs!**
-* [Capturing application crash or TDR dump files on Windows](https://nvidia.custhelp.com/app/answers/detail/a_id/3335)
+* [Capturing application crash or TDR dump files on Windows (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/3335)
 * [How to enable nVidia Graphics Driver and GeForce Experience installer logging (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/3171/)
 * [Enable installer logging in the NVIDIA Geforce display driver (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/3171/)
 * [How to generating an event trace log for GPUView to troubleshoot performance issues/low FPS/game stutter (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/3507)
