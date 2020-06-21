@@ -2,7 +2,7 @@
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
 442.80 | | `03/23/2020` | | Via [WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2020/06/c6da83a1-03e2-435f-84b8-0c2fdd9006d6_2b90bfccaf49743914f1a849cdc3ae825a55ab02.cab) | ✗
 442.92 | | `04/07/2020` | | Via [WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2020/06/15213c35-5167-4fb9-bacc-0a0eedcead0a_fddb35939300987cfdf3a099ef60112cfdb46ce5.cab) | ✗
-[455.41](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/455.41) |  |  | [Changelog](https://docs.nvidia.com/cuda/wsl-user-guide/index.html#changelog) | [CUDA on WSL](https://docs.nvidia.com/cuda/wsl-user-guide/index.html#changelog) | ✗
+[455.41](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/455.41) | `bugfix_main-16473` | `06/19/2020`  | [Changelog](https://docs.nvidia.com/cuda/wsl-user-guide/index.html#changelog) | [CUDA on WSL](https://docs.nvidia.com/cuda/wsl-user-guide/index.html#changelog) | ✗
 455.31 | | | | | ✓ (nVidia)
 [455.32](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/455.32) | `bugfix_main-16466` | `06/17/2020` | [Changelog](https://docs.nvidia.com/cuda/wsl-user-guide/index.html#changelog) | [CUDA on WSL](https://docs.nvidia.com/cuda/wsl-user-guide/index.html#changelog) | ✗
 443.17 | `440_00-419` | `05/11/2020` | | DL via [Dell](https://dl.dell.com/FOLDER06274330M/1/NVIDIA-Graphics-Driver_7WWCV_WIN_26.21.14.4317_A00.EXE), Vulkan API 1.1.119 | ✗
