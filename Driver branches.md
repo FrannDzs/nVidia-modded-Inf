@@ -1,5 +1,6 @@
 | Win Driver | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+442.80 | | `03/23/2020` | | Via [WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2020/06/c6da83a1-03e2-435f-84b8-0c2fdd9006d6_2b90bfccaf49743914f1a849cdc3ae825a55ab02.cab) | ✗
 442.92 | | `04/07/2020` | | Via [WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2020/06/15213c35-5167-4fb9-bacc-0a0eedcead0a_fddb35939300987cfdf3a099ef60112cfdb46ce5.cab) | ✗
 [455.41](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/455.41) |  |  | [Changelog](https://docs.nvidia.com/cuda/wsl-user-guide/index.html#changelog) | [CUDA on WSL](https://docs.nvidia.com/cuda/wsl-user-guide/index.html#changelog) | ✗
 455.31 | | | | | ✓ (nVidia)
