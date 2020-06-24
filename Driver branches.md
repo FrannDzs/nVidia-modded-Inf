@@ -1,6 +1,7 @@
 | Win Driver | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
-450.51 | | | [Changelog](https://forums.developer.nvidia.com/t/linux-solaris-and-freebsd-driver-450-51-beta/129482) | [Linux Beta](https://www.nvidia.de/download/driverResults.aspx/160563/en) | ✗
+451.62 | | | | | ✓ (MSI)
+// | | | [Changelog](https://forums.developer.nvidia.com/t/linux-solaris-and-freebsd-driver-450-51-beta/129482) | [Linux Beta](https://www.nvidia.de/download/driverResults.aspx/160563/en) | ✗
 440.100 | | | Via [nVidia](https://www.nvidia.de/download/driverResults.aspx/160188/en) | Linux x64 only | ✗
 390.138 | | | Via [nVidia](https://www.nvidia.de/download/driverResults.aspx/160242/en) | Linux x86 only | ✗
 451.48 | |  | [Release Notes](http://us.download.nvidia.com/Windows/451.48/451.48-win10-win8-win7-release-notes.pdf), [Release Notes Quadro](http://cn.download.nvidia.com/Windows/Quadro_Certified/451.48/451.48-win10-win8-win7-quadro-release-notes.pdf) | Quadro + Desktop, Laptop  | ✗
