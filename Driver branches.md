@@ -1,5 +1,6 @@
 | Win Driver | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+451.48 | |  | [Release Notes](http://us.download.nvidia.com/Windows/451.48/451.48-win10-win8-win7-release-notes.pdf), [Release Notes Quadro](http://cn.download.nvidia.com/Windows/Quadro_Certified/451.48/451.48-win10-win8-win7-quadro-release-notes.pdf) | Quadro + Desktop, Laptop  | ✗
 451.25 | `06/04/2020` | `450_00-208` | | Via Windows Update  | ✗
 443.41 | | | | Vulkan 1.2.145 / [Vulkan Ray Tracing](https://khr.io/vkrayprovblog) + Linux 440.66.17 | ✗
 442.80 | | `03/23/2020` | | Via [WUS](http://download.windowsupdate.com/c/msdownload/update/driver/drvs/2020/06/c6da83a1-03e2-435f-84b8-0c2fdd9006d6_2b90bfccaf49743914f1a849cdc3ae825a55ab02.cab) | ✗
