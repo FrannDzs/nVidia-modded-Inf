@@ -237,6 +237,7 @@ Driver Release Overview
 ## Documentation
 * [open-gpu-doc (github.com)](https://github.com/NVIDIA/open-gpu-doc)
 * [The Khronos Vulkan Ray Tracing presentation (March 2020) (khronos.org)](https://www.khronos.org/assets/uploads/apis/Vulkan-Ray-Tracing-Launch-Mar20.pdf)
+* [Microsoft details Hardware Accelerated GPU Scheduling (devblogs.microsoft.com)](https://devblogs.microsoft.com/directx/hardware-accelerated-gpu-scheduling/)
 
 
 ## Debugging & Official Driver Feedback Websites
