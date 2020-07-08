@@ -1,6 +1,7 @@
 | Win Driver | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
-451.52| | | | WUS | ✗
+450.51.05  | | | Linux only | ✗
+451.52  | | | WUS | ✗
 443.18 | `440_00-420` | `05/13/2020` | | 440.95.01 Linux (`443_18-13644`) | ✗
 392.65 | | | | | ✗
 392.61 | | | [Release Notes](http://fr.download.nvidia.com/Windows/Quadro_Certified/392.61/392.61-win10-win8-win7-quadro-release-notes.pdf) | Quadro Fermi | ✗
