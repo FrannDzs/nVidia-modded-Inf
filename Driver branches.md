@@ -1,6 +1,6 @@
 | Win Driver | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
-451.67 | `451_62-2` | | | GRD | ✗
+451.67 | `451_62-2` | `07/05/2020` | [Release Notes](https://us.download.nvidia.com/Windows/451.67/451.67-win10-win8-win7-release-notes.pdf) | GRD + Linux 450.57 | ✗
 450.51.05  | | | | Linux only | ✗
 451.52  | | | | WUS | ✗
 443.18 | `440_00-420` | `05/13/2020` | | 440.95.01 Linux (`443_18-13644`) | ✗
