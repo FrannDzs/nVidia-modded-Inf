@@ -77,6 +77,7 @@
 442.65 | | | | | ✓ (MSI)
 442.05 | `440_00-269` | `01/16/2020` | | Via Fujitsu [1](https://support.ts.fujitsu.com/IndexDownload.asp?Softwareguid=795F963E-F961-4CDD-A74A-93C06C0EA15B) + [2](https://support.ts.fujitsu.com/IndexDownload.asp?Softwareguid=AA1B317D-CCF9-465C-9E5E-A3E2C2117D7D) | ✗
 442.23 | `440_00-293` | `01/31/2020` | | [Via Dell](https://dl.dell.com/FOLDER06123070M/1/NVIDIA-Graphics-Driver_6JYMM_WIN_26.21.14.4223_A07.EXE) | ✗
+442.62 | `03/08/2020` | | | [Lenovo](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2020/04/f762ca72-aa62-49e5-9470-99582732b443_1d7e875ff7f078929c0110d7259b0bfe5d6fab90.cab) + [Acer (DCH)](https://global-download.acer.com/GDFiles/Driver/VGA/VGA_NVIDIA_26.21.14.4262_W10x64_A.zip?acerid=637230557387576204) | ✗
 442.62 | | | | | ✓ (Dell)
 442.60 | | | | | ✓ (MSI)
 [442.59](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/442.59) | `442_47-6` | `3-4-2020` | [Release Notes](http://us.download.nvidia.com/Windows/442.59/442.59-win10-win8-win7-release-notes.pdf) | GRD + GRD Laptop | ✗
