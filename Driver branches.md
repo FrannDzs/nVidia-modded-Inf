@@ -1,5 +1,6 @@
 | Win Driver | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+443.36 | | `06/12/2020` | | HP [Win 7](https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105883.exe) & [Win 10](https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105882.exe) | ✗
 443.25 | `440_00-434` | `05/24/2020` | | Via [WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2020/07/4883b6e3-558f-478e-854a-391473a13c30_3cae34bdec2f1136ec0155dfe3152e7dae602880.cab) | ✗
 451.48  | | | | [Grid](https://nvidia.custhelp.com/app/answers/detail/a_id/4120) | ✗
 451.74 | | | Via [NVD](https://developer.nvidia.com/vulkan-driver) | Vulkan + Linux 450.56.01 | ✗
