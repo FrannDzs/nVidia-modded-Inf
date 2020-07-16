@@ -261,8 +261,9 @@ Driver Release Overview
 
 ## Unofficial driver updater
 * [nVidia Update PowerShell Script (github.com)](https://github.com/lord-carlos/nVidia-update)
-* [NVSlimmer](https://forums.guru3d.com/threads/nvidia-driver-slimming-utility.423072/)
-* ~~[NV Updater](https://www.sys-worx.net/downloads/file/7-nv-updater-nvidia-driver-updater/#versions)~~ stolen code from [TinyNV](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) without giving credits
+* [NVSlimmer (forums.guru3d)](https://forums.guru3d.com/threads/nvidia-driver-slimming-utility.423072/)
+* ~~[NV Updater (sys-worx.net)](https://www.sys-worx.net/downloads/file/7-nv-updater-nvidia-driver-updater/#versions)~~ stolen code from [TinyNV](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) without giving any credits
+* [NVCleanstall (techpowerup.com)](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
 
 
 ## BIOS
