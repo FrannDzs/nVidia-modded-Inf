@@ -1,5 +1,6 @@
 | Win Driver | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+451.79 | | | |  | ✓ (nVidia)
 451.77 | `451_40-8` | ` 07/13/2020` | [Release Notes](http://us.download.nvidia.com/Windows/451.77/451.77-win10-nsd-release-notes.pdf) + [Quadro](http://cn.download.nvidia.com/Windows/Quadro_Certified/451.77/451.77-win10-win8-win7-quadro-release-notes.pdf) | NSD | ✗
 443.36 | | `06/12/2020` | | HP [Win 7](https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105883.exe) & [Win 10](https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105882.exe) | ✗
 443.25 | `440_00-434` | `05/24/2020` | | Via [WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2020/07/4883b6e3-558f-478e-854a-391473a13c30_3cae34bdec2f1136ec0155dfe3152e7dae602880.cab) | ✗
