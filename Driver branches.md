@@ -1,5 +1,6 @@
 | Win Driver | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+387.10.10.10.40.138 | | | | MacOS High Sierra | ✗
 451.79 | | | |  | ✓ (nVidia)
 451.77 | `451_40-8` | ` 07/13/2020` | [Release Notes](http://us.download.nvidia.com/Windows/451.77/451.77-win10-nsd-release-notes.pdf) + [Quadro](http://cn.download.nvidia.com/Windows/Quadro_Certified/451.77/451.77-win10-win8-win7-quadro-release-notes.pdf) | NSD + Linux 450.56.01 | ✗
 443.36 | | `06/12/2020` | | HP [Win 7](https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105883.exe) & [Win 10](https://ftp.hp.com/pub/softpaq/sp105501-106000/sp105882.exe) | ✗
