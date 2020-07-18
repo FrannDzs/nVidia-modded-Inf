@@ -1,4 +1,4 @@
-| Win Driver | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
+| Driver Version | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
 387.10.10.10.40.138 | | | | MacOS High Sierra | ✗
 451.79 | | | |  | ✓ (nVidia)
