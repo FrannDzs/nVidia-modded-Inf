@@ -1,5 +1,6 @@
 | Driver Version | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+451.79 | | `06/08/2020` | | Linux 450.56.02 | ✗
 443.33 | | `06/08/2020` | | Via [WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2020/07/3e152c75-2bd4-47df-9393-599af34b26db_db312790f67aaf7ee44e0477cb458035f1a82505.cab) | ✗
 387.10.10.10.40.138 | | | | MacOS High Sierra | ✗
 451.79 | | | |  | ✓ (nVidia)
