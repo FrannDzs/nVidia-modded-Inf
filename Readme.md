@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/CHEF-KOCH/nVidia-modded-Inf/master/.github/Pictures/inf%20mod.png" width="350"/>
 </p>
 
-#### nVidia modded Inf project was created 2017 by CHEF-KOCH and is under GNU GENERAL PUBLIC LICENSE v3.
+## nVidia modded Inf project was created 2017 by CHEF-KOCH and is under GNU GENERAL PUBLIC LICENSE v3.
 
 The project is _unofficial_ and not in any relationship or supported by [nVidia Cooperation](https://www.nVidia.com/en-us/about-nVidia/).
 
@@ -14,8 +14,7 @@ This project only support x64 Windows 10 versions, if you like to see x86 [ask n
 [![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
 
 
-What is a modded INF?
-===================
+## What is a modded INF?
 
 All drivers come with an "Installation INF(ormation) file". This tells the Windows internal installer how to install the driver. The INF has the instructions to what files to copy and where. It will also setup settings to install with. The INF-file itself contains a list of supported products (hardware/software/OS) that it will check and install for.
 
@@ -42,28 +41,44 @@ Modded drivers will NEVER transform your GPU to another one and will NEVER add f
 
 
 
-SD, CD, GRD, DCH or Standard drivers?
-===================
+## Legacy, SD, CRD, GRD, Quadro, DCH or Standard drivers?
+
+To check what type of driver you have installed go to `System Information` menu in the `nVidia Control Panel`, which detects your OS as well as what kind of Driver Type was installed.
 
 Short answer:
-* "Standard" packages are those that do not require the DCH driver components. DCH represents UWD which you can install via the Windows Store or manually.
-* Standard is the "old" way which you (for now) should prefer since UWD drivers aren't tweakable (in terms of mods) compared to the standard (legacy) drivers.
-* "DCH" (Declarative, Componentized, Hardware Support Apps) refers to new packages pre-installed by OEMs implementing the Microsoft Universal Driver paradigm.
-* DCH drivers cannot be installed over a standard system, and Standard drivers cannot be installed over a DCH system.
-* To confirm the type of system you have, locate Driver Type under the System Information menu in the nVidia Control Panel.
+* `Standard` packages/drivers are those that do not require the DCH driver components. DCH represents UWD which you can install via the Windows Store or manually. Standard is the "old" way which you (for now) should prefer since UWD drivers are harderm to tweak (in terms of modding) compared to the standard drivers.
+* `Legacy` This is basically the same as Standard except that this kind of driver is for none supported gaming cards ([legacy](https://www.nvidia.com/en-us/drivers/unix/legacy-gpu/)), the driver will only be updated once a year or in case there are security vulnerabilities.
+* `DCH` (Declarative, Componentized, Hardware Support Apps) refers to new packages pre-installed by OEMs implementing the Microsoft Universal Driver paradigm. DCH drivers cannot be installed over a standard system, and Standard drivers cannot be installed over a DCH system.
+* `SD` Studio Drivers, are _optimized_ (_needs evidence_) for "Creator Applications" such as Adobe Photoshop. CRD was the old name for Studio Drivers (SD).
+* `GRD` Game Ready Drivers are optimized for gaming, this is normally the driver you want to install, GRD has nothing to do how the drievrs are been packed. It just labels the driver as "okay, these are for gaming". There is typically no difference between SD and GRD drivers, so that you should install GRD.
+* `Quadro` As the name suggest, this is only for Quadro Card users, since the support is limited to explicit these GPUs.
 
 
-##### Detailed Answer
+### Detailed Answer what DCH means
 
 DCH is a collaboration platform supporting the process of commercial forecasting Demand Collaboration Hub (DCH) is a collaboration platform that enables all members of your Sales organization, at the various hierarchical levels, to submit, consolidate and validate their periodic commercial forecast. DCH is fully configurable, allowing you to model the workflow and segment the data between users, in relation to their level of responsibility, to configure your editing form, by selecting and publishing the information that are relevant for your sales organization, to enter commercial forecast at various level of aggregation, with automatic splitting of edited quantities to the level of maximum detail. DCH is part of the SO99+ (Service Optimizer 99+) product suite and more specifically it is complementary to its statistical forecasting functionality, since the statistical forecast may be used as a guidance to support the Sales organization to provide more reliable figures. To support mobility, DCH is available on the web or from any mobile device that your Sales organization may adopt.
 
-##### Update 13.12.2019
 
-[Windows 10 will get DCH by default](https://www.nvidia.com/en-us/geforce/forums/game-ready-drivers/13/332096/geforce-44166-game-ready-driver-feedback-thread-re/2339006/) (via WUS and NVIDIA website) (_Windows 7 is not affected_). This means "standards" driver are been fully replaced by DCH.
+**What to install?**
+
+There is no "best" whatever driver packag you install, there is no real downside when it comes to performance. DCH requires the Windows Store and the Standard Driver is perfectly fine.
+
+* SD = Install this on Windows cloud based operating systems. Who enforce UWP/Store apps.
+* Standard = This is the one you should prefer, it does not require the Windows Store and works on all systems (except the ones who do not include win32 apps). Start here, however keep in mind that one day MS or/and nVidia will enforce DCH drivers only.
+* SD = Studio Drivers are not worth to be installed unless they are newer as Game Ready Drivers.
 
 
-Difference between INF(s) - Standard Vs. DCH
-===================
+**Switching back from DCH to Standard and vice versa**
+
+This can be tricky since leftovers can cause problems (nVidia Control Panel not visible etc). Use [DDU](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/tools) for this, you do not need to uninstall nVidia driver via setup, you can just go streight ahead and uninstall (in Safe Mode) the entire driver via DDU. Typically you should only do this once if you want to switch drivers, the normal uninstaller routine from nVidia's Setup.exe is normally enough, that been said DDU is not a "wonder weapon" and should only be used in case there are problems discovered.
+
+
+### Update 13.12.2019
+
+[Windows 10 will get DCH by default](https://www.nvidia.com/en-us/geforce/forums/game-ready-drivers/13/332096/geforce-44166-game-ready-driver-feedback-thread-re/2339006/) (via WUS and NVIDIA website) (_Windows 7 is not affected_). This means "standards" driver are been fully replaced by DCH. Windows Update will check what system you're on and install DCH (it does not replace the driver if you're on a standard driver).
+
+
+## Difference between INF(s) - Standard Vs. DCH
 
 nVidia decided to make a clear cut with the "Super" cards, this basically means the infs got "separated" into two versions v7 - which represents DCH (see above what DCH drivers are) and v6 (old) are the normal "standard" drivers. The versions numbering might be changed completely next year (unclear at this point).
 
@@ -75,8 +90,7 @@ Basically nothing, except that you need at least Windows 10 Build 17098 (19H2)+ 
 The telemetry is disabled in any of the modded DHC infs. In case you like to enable it you have to manually set it to "1" within the inf files before you install your desired driver.
 
 
-How-to remove old nVidia drivers
-===================
+## How-to remove old nVidia drivers
 
 * Extract Display Driver Uninstaller (DDU) and start the program, boot into "safe mode" (you can do this manually or within the given DDU option) and let DDU auto-clean and restart the OS automatically for you. You do not need to uninstall the driver or any package via Windows own uninstaller program first (that's the whole point using DDU). Keep in mind that **DDU should only be used in case you get troubles while uninstalling/installing the driver with nVidia's own Setup**, it's not recommend and needed to use DDU as 'normal' driver removal procedure. nVidia's own setup routine usually does the job just fine, however in some cases in can help to remove leftovers which _might_ cause trouble.
 * After you rebooted you install the (modded/repack) nVidia driver, if the driver isn't digital signed you need to do it yourself or disable Windows driver signature enforcement.
@@ -85,26 +99,23 @@ The official DDU guide can be found over [here](https://www.wagnardsoft.com/cont
 
 
 
-Modded Inf Driver installation
-===================
+##  Modded Inf Driver installation
 
 * Download and extract the Driver (download from official source) - wait until the installer has unzipped the files e.g. to `C:\nVidia`.
-* Search for e.g. "nv_disp.cat" (or corresponding inf-file) in the 'Display.Driver Folder'.
-* Follow the Video or the written instruction to install the certificate manually (optional).
+* Search for e.g. `nv_disp.cat` (or corresponding inf-file) in the `Display.Driver Folder'.
+* Follow the [Video](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/Videos) or the written instruction to install the certificate manually (_optional_).
 * Now you can install all my modded drivers, without disabling 'driver signature enforcement'.
 
 
 
-How to show current driver branch?!
-===================
+## How to show current driver branch?!
 
 * Download [nVidia Inspector](https://www.softpedia.com/get/System/System-Info/nVidia-Inspector.shtml)
 * Check the Overview Window under "Driver version" you see the installed driver branch.
 
 
 
-Troubleshoot - Disable Driver Signatures
-===================
+## Troubleshoot - Disable Driver Signatures
 
 Check the [current secure boot status](https://docs.microsoft.com/en-us/powershell/module/secureboot/confirm-securebootuefi?view=win10-ps) (optional), which gives you `true` or `false` (enabled/disabled) back:
 
@@ -141,8 +152,7 @@ After executing the mentioned commands you need to reboot Windows 10 in order to
 
 
 
-How-to sign your own modded driver?
-===================
+## How-to sign your own modded driver?
 
 Download and install (or use the portable) [SelfCert](https://www.pluralsight.com/blog/software-development/selfcert-create-a-self-signed-certificate-interactively-gui-or-programmatically-in-net).
 
@@ -181,16 +191,15 @@ Inf2Cat /driver:<path_to_folder_with_INF_&_Files> /os:Vista_X86,Vista_X64,Server
 
 
 
-What an "inf mod" can't provide
-===================
+## What an "inf mod" can't provide
 
+- [x] They do not magically improve performance, this is a myth. In the old days it was possible to tweak specific things, these times are over and nVidia changes a lot of things so fast that randomly applying some tweaks often has no affect or even result in a lower performance.
 - [x] Adding support for [legacy GPU's](https://www.nvidia.com/object/IO_32667.html)  (see EOL) because nVidia removed (within the source code) support for it and there is no _patch_ which can undo or manipulate it.
 - [x] I'm not permitted to upload modified .dll files so please do not ask for "patch xyz". I _consider_ to provide bunch of offset patches I use, without any tool or information how you add these patches because it violates nVidia TOS (it's not _my fault_).
 
 
 
-Telemetry
-===================
+## Telemetry
 
 All information regarding driver bundled telemetry can be found under the `/Telemetry` folder.
 
@@ -203,8 +212,7 @@ Another program (rip-off from NVSlimmer) called "NVCleanstall" can be found in t
 
 
 
-Driver Release Overview
-===================
+## Driver Release Overview
 
 * [![nVidia stable](https://img.shields.io/github/release/CHEF-KOCH/nVidia-modded-Inf.svg?label=Latest%20nVidia%20stable&style=popout)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/latest)
 
@@ -216,7 +224,7 @@ Driver Release Overview
 
 
 
-## Acknowledgement & References
+### Acknowledgement & References
 * [Reshade filters (nvidia.com)](https://www.nvidia.com/en-us/geforce/news/geforce-gtx-16-series-super-game-ready-driver/)
 * [DDU Source Code (github.com/Wagnard)](https://github.com/Wagnard/display-drivers-uninstaller)
 * [GeForce Driver Installation Guide A guide to ensure your drivers are installed properly (forums.geforce.com)](https://forums.geforce.com/default/topic/467215/geforce-driver-installation-guide-a-guide-to-ensure-your-drivers-are-installed-properly-/)
@@ -234,13 +242,13 @@ Driver Release Overview
 * [How to provide valuable feedback to NVIDIA (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/3141/~/how-to-provide-valuable-feedback-to-nvidia)
 
 
-## Documentation
+### Documentation
 * [open-gpu-doc (github.com)](https://github.com/NVIDIA/open-gpu-doc)
 * [The Khronos Vulkan Ray Tracing presentation (March 2020) (khronos.org)](https://www.khronos.org/assets/uploads/apis/Vulkan-Ray-Tracing-Launch-Mar20.pdf)
 * [Microsoft details Hardware Accelerated GPU Scheduling (devblogs.microsoft.com)](https://devblogs.microsoft.com/directx/hardware-accelerated-gpu-scheduling/)
 
 
-## Debugging & Official Driver Feedback Websites
+### Debugging & Official Driver Feedback Websites
 * [NVIDIA Display Driver Feedback (bug reporting)](https://forms.gle/kJ9Bqcaicvjb82SdA) - **Use it to report your bugs!**
 * [Capturing application crash or TDR dump files on Windows (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/3335)
 * [How to enable nVidia Graphics Driver and GeForce Experience installer logging (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/3171/)
@@ -248,7 +256,7 @@ Driver Release Overview
 * [How to generating an event trace log for GPUView to troubleshoot performance issues/low FPS/game stutter (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/3507)
 
 
-## Unofficial NVIDIA patches
+### Unofficial NVIDIA patches
 * [Driver patch for enabling unlimited NVENC sessions (old) (github.com)](https://github.com/Matviy/nVidia-NVENC-multi-session-patch)
 * [NvencSessionLimitBump (github.com)](https://github.com/jantenhove/NvencSessionLimitBump)
 * [WhateverGreen (github.com)](https://github.com/acidanthera/WhateverGreen)
@@ -259,19 +267,19 @@ Driver Release Overview
 * [Remove-HypervisorChecks (github.com)](https://github.com/riverar/Remove-HypervisorChecks) & [Blog post](https://withinrafael.com/2020/06/06/how-to-get-consumer-gpus-working-in-hyperv-virtual-machines/)
 
 
-## Unofficial driver updater
+### Unofficial driver updater
 * [nVidia Update PowerShell Script (github.com)](https://github.com/lord-carlos/nVidia-update)
 * [NVSlimmer (forums.guru3d)](https://forums.guru3d.com/threads/nvidia-driver-slimming-utility.423072/)
 * ~~[NV Updater (sys-worx.net)](https://www.sys-worx.net/downloads/file/7-nv-updater-nvidia-driver-updater/#versions)~~ stolen code from [TinyNV](https://github.com/ElPumpo/TinyNvidiaUpdateChecker) without giving any credits
 * [NVCleanstall (techpowerup.com)](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
 
 
-## BIOS
+### BIOS
 * [Maxwell Bios Tweaker for edit nVidia GTX 9XX bios (github.com)](https://github.com/richardblynd/maxwellbiostweaker)
 * [VGA and BIOS rom font extraction (github.com)](https://github.com/spacerace/romfont)
 
 
-## GeForce Now
+### GeForce Now
 * [GeForce Now Game List](https://www.gfnlist.com/)
 
 | Performance Overlay         |            GPU             |                      Prozessor |
@@ -281,19 +289,19 @@ Driver Release Overview
 | Geforce RTX 2080c (g6.full) | Tesla RTX T10 (16GB) - 2/3 |     Intel CC150 (8T @ 3,5 GHz) |
 
 
-## End of Life (EOL) Products 
+### End of Life (EOL) Products 
 * CRD (Studio Drivers) are re-labeled to NSD
 * [End of Driver Support for Quadro Kepler-series Notebook Products (April 30, 2020)](https://nvidia.custhelp.com/app/answers/detail/a_id/4788)
 * [Support Plan for 3DVision Products (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/4781)
 * [Support Plan for Kepler-series GeForce GPUs for notebooks (nvidia.custhelp.com)](https://nvidia.custhelp.com/app/answers/detail/a_id/4779)
 
 
-## RTX Voice (Beta)
+### RTX Voice (Beta)
 - [Announce](https://www.nvidia.com/en-us/geforce/forums/broadcasting/18/361740/rtx-voice-beta/)
 - [Beta (download, Windows only, needs Turing and 410.18+)](https://developer.nvidia.com/rtx/broadcast_engine/secure/NVIDIA_RTX_Voice.exe)
 - [Audio Samples](https://broadcast.nvidia.com/feedback?ncid=afm-chs-44270&ranMID=44270&ranEAID=a1LgFw09t88&ranSiteID=a1LgFw09t88-rnrumlx4Roc9F7npHQkoLg&sdk=voice)
 - [NVIDIA RTX Voice Setup Guide](https://www.nvidia.com/en-us/geforce/guides/nvidia-rtx-voice-setup-guide/)
 
 
-## NVIDIA market share
+### NVIDIA market share
 * [GPU shipments in Q3’19 (jonpeddie.com)](https://www.jonpeddie.com/press-releases/sharp-rise-in-global-gpu-shipments-in-q319-reports-jon-peddie-research)
