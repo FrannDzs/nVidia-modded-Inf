@@ -1,4 +1,5 @@
 | Driver Version | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
+451.85 | `451_65-4` | | | Hotfix + Vulkan 1.2.133 | ✗
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
 451.80 | |  | |  | ✓ (MSI)
 451.79 | | | | Linux 450.56.02 | ✗
