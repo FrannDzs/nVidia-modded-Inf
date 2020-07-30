@@ -1,6 +1,7 @@
 | Driver Version | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
-451.82  | | | | Tesla | ✗
+443.46 | `440_00-478` | | | GRID + Linux 440.107 | ✗
+451.82 | | | | Tesla | ✗
 450.51.06 | | | | Linux tesla/cuda toolkit | ✗
 452.15 | | | |  | ✓ (nVidia)
 451.85 | `451_65-4` | | | Hotfix + Vulkan 1.2.133 | ✗
@@ -16,7 +17,7 @@
 451.74 | | | Via [NVD](https://developer.nvidia.com/vulkan-driver) | Vulkan + Linux 450.56.01 | ✗
 451.28 | | `06/21/2020` | [Release Notes](http://us.download.nvidia.com/Windows/Quadro_Certified/451.48/451.48-win10-win8-win7-quadro-release-notes.pdf) | | ✗
 451.67 | `451_62-2` | `07/05/2020` | [Release Notes](https://us.download.nvidia.com/Windows/451.67/451.67-win10-win8-win7-release-notes.pdf) | GRD + Linux [450.57](http://de.download.nvidia.com/XFree86/Linux-x86_64/450.57/NVIDIA-Linux-x86_64-450.57.run) | ✗
-450.51.05 | | | | Linux only | ✗
+450.51.05 | | | Via [NVCH](https://nvidia.custhelp.com/app/answers/detail/a_id/4120) | Linux only | ✗
 451.52  | | | | WUS | ✗
 443.18 | `440_00-420` | `05/13/2020` | | 440.95.01 Linux (`443_18-13644`) | ✗
 392.65 | | | | | ✗
