@@ -1,7 +1,7 @@
 | Driver Version | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
 443.46 | `440_00-478` | | | GRID + Linux 440.107 | ✗
-451.82 | | | | Tesla | ✗
+451.82 | | | | Tesla + [CUDA Toolkit 11.0.3 Update 1](https://developer.nvidia.com/cuda-toolkit) | ✗
 450.51.06 | | | | Linux tesla/cuda toolkit | ✗
 452.15 | | | |  | ✓ (nVidia)
 451.85 | `451_65-4` | | | Hotfix + Vulkan 1.2.133 | ✗
