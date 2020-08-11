@@ -1,5 +1,6 @@
 | Driver Version | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+451.55 | `451_40-6` | `06/24/2020` | | Dell | ✗
 451.98 | | | | Vulkan + 450.56.06 Linux | ✗
 443.46 | `440_00-478` | | | GRID + Linux 440.107 | ✗
 451.82 | | | | Tesla + [CUDA Toolkit 11.0.3 Update 1](https://developer.nvidia.com/cuda-toolkit) | ✗
