@@ -1,6 +1,6 @@
 | Driver Version | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
-452.06 | `452_02-2` | `12/08/2020` | [Release Notes](http://us.download.nvidia.com/Windows/452.06/452.06-win10-win8-win7-release-notes.pdf) +[Quadro](http://us.download.nvidia.com/Windows/Quadro_Certified/452.06/452.06-win10-win8-win7-quadro-release-notes.pdf) | GRD + SD + Quadro + [Linux 450.66](https://www.nvidia.de/download/driverResults.aspx/163398/en) | ✗
+[452.06](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/tag/452.06) | `452_02-2` | `12/08/2020` | [Release Notes](http://us.download.nvidia.com/Windows/452.06/452.06-win10-win8-win7-release-notes.pdf) + [Quadro](http://us.download.nvidia.com/Windows/Quadro_Certified/452.06/452.06-win10-win8-win7-quadro-release-notes.pdf) | GRD + SD + Quadro + [Linux 450.66](https://www.nvidia.de/download/driverResults.aspx/163398/en) | ✗
 451.55 | `451_40-6` | `06/24/2020` | | Dell | ✗
 451.98 | | | | Vulkan + 450.56.06 Linux | ✗
 443.46 | `440_00-478` | | | GRID + Linux 440.107 | ✗
