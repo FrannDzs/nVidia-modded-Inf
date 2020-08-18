@@ -280,9 +280,10 @@ Another program (rip-off from NVSlimmer) called "NVCleanstall" can be found in t
 
 
 ### GeForce Now
-* [GeForce Now Game List](https://www.gfnlist.com/)
+* [GeForce Now Game List (gfnlist.com)](https://www.gfnlist.com/)
+* [Nvidia's Geforce Now now supports ChromeOS (r/GeForceNOW)](https://old.reddit.com/r/GeForceNOW/comments/gk065x/geforce_now_app_live_on_chromebook/)
 
-| Performance Overlay         |            GPU             |                      Prozessor |
+| Performance Overlay         |            GPU             |              CPU               |
 | --------------------------- | :------------------------: | -----------------------------: |
 | Geforce GTX 1080c           |      Tesla P40 (24GB)      | Xeon E5-2697 v4 (8T @ 2,3 GHz) |
 | Geforce RTX 2060c           | Tesla RTX T10 (8GB) - 1/3  |     Intel CC150 (8T @ 3,5 GHz) |
