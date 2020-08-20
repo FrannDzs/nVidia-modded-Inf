@@ -346,6 +346,16 @@ The Setup which is required to install the driver and it's components. `EULA.txt
 Removable: No.
 
 
+## NvModuleTracker
+
+It is a process primarily used for Gamestream to monitor creation and exiting events.
+
+
+Removable: Yes.
+
+
+
+
 ## Where does GeForce Experience download the drivers?
 ```
 C:\ProgramData\NVIDIA Corporation\NetService 
