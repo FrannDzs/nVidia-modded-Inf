@@ -346,6 +346,14 @@ The Setup which is required to install the driver and it's components. `EULA.txt
 Removable: No.
 
 
+## Display.Nview
+
+This is the [NView desktop manager](http://forums.nvidia.com/index.php?s=0810c64506081036f52ca974f03ead29&showtopic=102357&pid=605794&st=0&#entry605794).
+
+Removable: Yes.
+
+
+
 ## NvModuleTracker
 
 It is a process primarily used for Gamestream to monitor creation and exiting events.
