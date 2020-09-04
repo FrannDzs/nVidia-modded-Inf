@@ -1,6 +1,8 @@
 | Driver Version | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
-452.22 | | | | [Hotfix](https://nvidia.custhelp.com/app/answers/detail/a_id/5074?linkId=100000014925836) | ✗
+452.25 | | | | | ✓
+452.24 | | | | | ✓
+452.22 | | `08/12/2020` | | [Hotfix](https://nvidia.custhelp.com/app/answers/detail/a_id/5074?linkId=100000014925836) | ✗
 460.15 | `bugfix_main-16604` | `08/28/2020` | | Via nVidia developer program | ✗
 452.18 | | | | Attempt to fix HDR/HDCP errors | ✓
 452.17 | | | | Attempt to fix HDR/HDCP errors | ✓
