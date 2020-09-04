@@ -1,5 +1,6 @@
 | Driver Version | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+460.15 | `bugfix_main-16604` | `08/28/2020` | | Via nVidia developer Program | ✗
 452.18 | | | | Attempt to fix HDR/HDCP errors | ✓
 452.17 | | | | Attempt to fix HDR/HDCP errors | ✓
 452.16 | | | | Attempt to fix HDR/HDCP errors | ✓
