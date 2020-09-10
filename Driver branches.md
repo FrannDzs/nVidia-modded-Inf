@@ -1,5 +1,6 @@
 | Driver Version | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+452.28 | | | | Via [NVD](https://developer.nvidia.com/vulkan-driver) + Linux 450.56.11 | ✗
 452.25 | | | | | ✓
 452.24 | | | | | ✓
 452.22 | | `08/12/2020` | | [Hotfix](https://nvidia.custhelp.com/app/answers/detail/a_id/5074?linkId=100000014925836) | ✗
