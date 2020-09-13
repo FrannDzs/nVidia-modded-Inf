@@ -99,7 +99,7 @@ The official DDU guide can be found over [here](https://www.wagnardsoft.com/cont
 
 
 
-##  Modded Inf Driver installation
+## Modded Inf Driver installation
 
 * Download and extract the Driver (download from official source) - wait until the installer has unzipped the files e.g. to `C:\nVidia`.
 * Search for e.g. `nv_disp.cat` (or corresponding inf-file) in the `Display.Driver Folder'.
@@ -219,7 +219,7 @@ Another program (rip-off from NVSlimmer) called "NVCleanstall" can be found in t
 * [![nVidia beta](https://img.shields.io/github/release-pre/CHEF-KOCH/nVidia-modded-Inf.svg?label=Latest%20nVidia%20beta&style=popout)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tags)
 
 * Latest nVidia PhysX System Software: [9.20.0221](http://us.download.nVidia.com/Windows/9.20.0221/PhysX-9.20.0221-SystemSoftware.exe)
-* Latest nVidia GeForce Experience ([Changelog](https://www.geforce.com/geforce-experience/download)): [3.20.4.14 Stable](https://de.download.nvidia.com/GFE/GFEClient/3.20.4.14/GeForce_Experience_Beta_v3.20.4.14.exe) & ~~[Beta 3.20.4.14](https://de.download.nvidia.com/GFE/GFEClient/3.20.4.14/GeForce_Experience_Beta_v3.20.4.14.exe)~~
+* Latest nVidia GeForce Experience ([Changelog](https://www.geforce.com/geforce-experience/download)): [3.20.4.14 Stable](https://de.download.nvidia.com/GFE/GFEClient/3.20.4.14/GeForce_Experience_Beta_v3.20.4.14.exe) & [3.20.4.15 Hotfix](https://us.download.nvidia.com/GFE/GFEClient/3.20.4.15/GeForce_Experience_v3.20.4.15.exe)
 * Latest [Nvidia Quadro Experience](https://www.nvidia.com/en-us/design-visualization/software/quadro-experience/): [1.0.0.53](https://de.download.nvidia.com/QXP/QXPClient/1.0.0.53/QuadroExperienceSetupInt.exe)
 
 
