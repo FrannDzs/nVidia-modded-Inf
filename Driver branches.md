@@ -1,5 +1,6 @@
 | Driver Version | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+451.83 | `450_00-279` | | | Xiaomi via [WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2020/09/9f4bc58c-eb4d-4875-b516-4b3247e0e82a_8eea4abec79f992d827bf1690c7990ca7f537992.cab) | ✓
 452.28 | | | | Via [NVD](https://developer.nvidia.com/vulkan-driver) + Linux 450.56.11 | ✗
 452.25 | | | | | ✓
 452.24 | | | | | ✓
