@@ -1,6 +1,6 @@
 | Driver Version | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
-456.38 | | |  [Release Notes](https://us.download.nvidia.com/Windows/456.38/456.38-win10-win8-win7-release-notes.pdf) | GRD + Studio| ✗
+456.38 | `456_26-8` | `09/14/2020` |  [Release Notes](https://us.download.nvidia.com/Windows/456.38/456.38-win10-win8-win7-release-notes.pdf) + [NSD](https://us.download.nvidia.com/Windows/456.38/456.38-win10-nsd-release-notes.pdf) | GRD + Studio| ✗
 455.23.04 | `456_26-181` | | | FreeBSD and Solaris | ✗
 451.80 | `450_00-276` | `07/17/2020` | | [Lenovo](https://support.lenovo.com/nl/nl/downloads/DS544159) | ✗
 451.83 | `450_00-279` | `07/19/2020` | | Xiaomi via [WUS](http://download.windowsupdate.com/d/msdownload/update/driver/drvs/2020/09/9f4bc58c-eb4d-4875-b516-4b3247e0e82a_8eea4abec79f992d827bf1690c7990ca7f537992.cab) | ✗
