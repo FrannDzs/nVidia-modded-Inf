@@ -1,5 +1,6 @@
 | Driver Version | Win Branch | Date | Release Notes (.PDF) | Comment | [NDA](https://en.wikipedia.org/wiki/Non-disclosure_agreement) |
 | :----: | :----: | :---: | :------------------: | ------- | :-----------------------------------------------------------: |
+460.20 | `bugfix_main-16631` | `09/17/2020` | [None provided](https://developer.nvidia.com/cuda/wsl/download) | CUDA on WSL | ✗
 456.38 | `456_26-8` | `09/14/2020` |  [Release Notes](https://us.download.nvidia.com/Windows/456.38/456.38-win10-win8-win7-release-notes.pdf) + [NSD](https://us.download.nvidia.com/Windows/456.38/456.38-win10-nsd-release-notes.pdf) + [Quadro](http://us.download.nvidia.com/Windows/Quadro_Certified/456.38/456.38-win10-quadro-release-notes.pdf) | GRD + Studio + Quadro | ✗
 455.23.04 | `456_26-181` | | | FreeBSD and Solaris | ✗
 451.80 | `450_00-276` | `07/17/2020` | | [Lenovo](https://support.lenovo.com/nl/nl/downloads/DS544159) | ✗
