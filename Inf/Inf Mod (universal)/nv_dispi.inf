@@ -6,7 +6,7 @@ Signature   = "$Windows NT$"
 Provider    = %NVIDIA%
 ClassGUID   = {4D36E968-E325-11CE-BFC1-08002BE10318}
 Class       = Display
-DriverVer   = 06/02/2020, 27.21.14.5122
+DriverVer   = 07/03/2023, 23.21.13.9268
 CatalogFile = NV_DISP.CAT
 
 [nv_CplInstaller]
@@ -14,12 +14,12 @@ Default_addreg = nv_CplInstaller_addreg
 Default_copyfiles = nv_CplInstaller_copyfiles
 
 [nv_coinstaller_copyfiles]
-nvdispco6445122.dll,nvdispco64.dll,,0x00004000
-nvdispgenco6445122.dll,nvdispgenco64.dll,,0x00004000
+nvdispco6439268.dll,nvdispco64.dll,,0x00004000
+nvdispgenco6439268.dll,nvdispgenco64.dll,,0x00004000
 
 [nv_commonCoinstaller_addreg]
-HKR,,CoInstallers32,%REG_MULTI_SZ%,"nvdispgenco6445122.dll,NvGenericCoInstall"
-HKR,,CoInstallers32,%REG_SZ_APPEND%,"nvdispco6445122.dll,NVDisplayCoInstall"
+HKR,,CoInstallers32,%REG_MULTI_SZ%,"nvdispgenco6439268.dll,NvGenericCoInstall"
+HKR,,CoInstallers32,%REG_SZ_APPEND%,"nvdispco6439268.dll,NVDisplayCoInstall"
 HKLM,"SYSTEM\CurrentControlSet\Control\GraphicsDrivers",TdrDelay,%REG_DWORD%,20
 HKLM,"SYSTEM\CurrentControlSet\Control\GraphicsDrivers",HwSchMode,%REG_DWORD%,2
 HKCU,"Software\Microsoft\DirectX\UserGpuPreferences",VRROptimizeEnable,%REG_SZ%,1
