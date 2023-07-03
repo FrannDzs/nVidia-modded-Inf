@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CHEF-KOCH/nVidia-modded-Inf/master/.github/Pictures/inf%20mod.png" width="350"/>
+  <img src=".github/Pictures/inf%20mod.png" width="350"/>
 </p>
 
 ## nVidia modded Inf project was created 2017 by CHEF-KOCH and is under GNU GENERAL PUBLIC LICENSE v3.
@@ -8,10 +8,8 @@ The project is _unofficial_ and not in any relationship or supported by [nVidia 
 
 This project only support x64 Windows 10 versions, if you like to see x86 [ask nVidia to extend the support](https://www.anandtech.com/show/12191/nVidia-to-cease-driver-development-for-32bit-operating-systems).
 
-[![GitHub](https://img.shields.io/github/license/CHEF-KOCH/nVidia-modded-Inf.svg?label=Project%20license&style=popout)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/blob/master/LICENSE)
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40CHEF-KOCH)](https://twitter.com/CKsTechNews)
-![GitHub All Releases](https://img.shields.io/github/downloads/CHEF-KOCH/nVidia-modded-Inf/total.svg?style=popout)
-[![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
+[![GitHub](https://img.shields.io/github/license/FrannDzs/nVidia-modded-Inf.svg?label=Project%20license&style=popout)](https://github.com/FrannDzs/nVidia-modded-Inf/master/LICENSE)
+![GitHub All Releases](https://img.shields.io/github/downloads/FrannDzs/nVidia-modded-Inf/total.svg?style=popout)
 
 
 ## What is a modded INF?
@@ -214,9 +212,9 @@ Another program (rip-off from NVSlimmer) called "NVCleanstall" can be found in t
 
 ## Driver Release Overview
 
-* [![nVidia stable](https://img.shields.io/github/release/CHEF-KOCH/nVidia-modded-Inf.svg?label=Latest%20nVidia%20stable&style=popout)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/releases/latest)
+* [![nVidia stable](https://img.shields.io/github/release/FrannDzs/nVidia-modded-Inf.svg?label=Latest%20nVidia%20stable&style=popout)](https://github.com/FrannDzs/nVidia-modded-Inf/releases/latest)
 
-* [![nVidia beta](https://img.shields.io/github/release-pre/CHEF-KOCH/nVidia-modded-Inf.svg?label=Latest%20nVidia%20beta&style=popout)](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tags)
+* [![nVidia beta](https://img.shields.io/github/release-pre/FrannDzs/nVidia-modded-Inf.svg?label=Latest%20nVidia%20beta&style=popout)](https://github.com/FrannDzs/nVidia-modded-Inf/tags)
 
 * Latest nVidia PhysX System Software: [9.20.0221](http://us.download.nVidia.com/Windows/9.20.0221/PhysX-9.20.0221-SystemSoftware.exe)
 * Latest nVidia GeForce Experience ([Changelog](https://www.geforce.com/geforce-experience/download)): [3.20.4.14 Stable](https://de.download.nvidia.com/GFE/GFEClient/3.20.5.48/GeForce_Experience_Beta_v3.20.5.48.exe) & [3.20.5.48 Beta](https://us.download.nvidia.com/GFE/GFEClient/3.20.4.15/GeForce_Experience_v3.20.4.15.exe)
