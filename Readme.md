@@ -35,7 +35,7 @@ Modded drivers will NEVER transform your GPU to another one and will NEVER add f
 
 **Keep in mind**:
 
-> Fermi GPUs (400 & 500 series) as from 396+ driver are official no longer supported! Same goes for [700M and 800M GPU's](https://nvidia.custhelp.com/app/answers/detail/a_id/4779). Latest official Fermi driver is Quadro 392.58, [Windows 7/8](http://us.download.nvidia.com/Windows/Quadro_Certified/392.58/392.58-quadro-desktop-notebook-win8-win7-64bit-international-whql.exe) & [Windows 10](http://us.download.nvidia.com/Windows/Quadro_Certified/392.58/392.58-quadro-desktop-notebook-win10-64bit-international-whql.exe) (the driver works for all GTX 460 series up to GTX 1080 Ti [via Inf. mod]).
+> Fermi GPUs (400 & 500 series) as from 396+ driver are official no longer supported! Same goes for [700M and 800M GPU's](https://nvidia.custhelp.com/app/answers/detail/a_id/4779). Latest official Fermi driver is Quadro 392.68, [Windows 7/8](http://us.download.nvidia.com/Windows/Quadro_Certified/392.68/392.68-quadro-desktop-notebook-win8-win7-64bit-international-whql.exe) & [Windows 10](http://us.download.nvidia.com/Windows/Quadro_Certified/392.68/392.68-quadro-desktop-notebook-win10-64bit-international-whql.exe) (the driver works for all GTX 460 series up to GTX 1080 Ti [via Inf. mod]).
 
 
 
