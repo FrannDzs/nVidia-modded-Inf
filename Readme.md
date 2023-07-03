@@ -4,7 +4,7 @@
 
 ## nVidia modded Inf project was created 2017 by CHEF-KOCH and is under GNU GENERAL PUBLIC LICENSE v3.
 
-The project is _unofficial_ and not in any relationship or supported by [nVidia Cooperation](https://www.nVidia.com/en-us/about-nVidia/).
+The project is _unofficial_ and not in any relationship or supported by [nVidia Corporation](https://www.nVidia.com/en-us/about-nVidia/).
 
 This project only support x64 Windows 10 versions, if you like to see x86 [ask nVidia to extend the support](https://www.anandtech.com/show/12191/nVidia-to-cease-driver-development-for-32bit-operating-systems).
 
