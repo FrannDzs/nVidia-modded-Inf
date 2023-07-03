@@ -220,7 +220,7 @@ Another program (rip-off from NVSlimmer) called "NVCleanstall" can be found in t
 * Latest nVidia GeForce Experience ([Changelog](https://www.geforce.com/geforce-experience/download)):  
 [v3.27.0.112 Stable](https://us.download.nvidia.com/GFE/GFEClient/3.27.0.112/GeForce_Experience_v3.27.0.112.exe)  
 [v3.27.0.112 Beta](https://us.download.nvidia.com/GFE/GFEClient/3.27.0.112/GeForce_Experience_Beta_v3.27.0.112.exe)  
-* Latest [Nvidia Quadro Experience](https://www.nvidia.com/en-us/design-visualization/software/quadro-experience/): [1.0.0.90](https://us.download.nvidia.com/QXP/QXPClient/1.0.0.90/QuadroExperienceSetup_1.0.0.90.exe)
+* Latest [Nvidia Quadro Experience](https://www.nvidia.com/en-au/design-visualization/software/quadro-experience/release-highlights/): [1.0.0.90](https://us.download.nvidia.com/QXP/QXPClient/1.0.0.90/QuadroExperienceSetup_1.0.0.90.exe)
 
 
 
