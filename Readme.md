@@ -68,7 +68,7 @@ There is no "best" whatever driver packag you install, there is no real downside
 
 **Switching back from DCH to Standard and vice versa**
 
-This can be tricky since leftovers can cause problems (nVidia Control Panel not visible etc). Use [DDU](https://github.com/CHEF-KOCH/nVidia-modded-Inf/tree/master/tools) for this, you do not need to uninstall nVidia driver via setup, you can just go streight ahead and uninstall (in Safe Mode) the entire driver via DDU. Typically you should only do this once if you want to switch drivers, the normal uninstaller routine from nVidia's Setup.exe is normally enough, that been said DDU is not a "wonder weapon" and should only be used in case there are problems discovered.
+This can be tricky since leftovers can cause problems (nVidia Control Panel not visible etc). Use [DDU](https://github.com/FrannDzs/nVidia-modded-Inf/tree/master/tools) for this, you do not need to uninstall nVidia driver via setup, you can just go streight ahead and uninstall (in Safe Mode) the entire driver via DDU. Typically you should only do this once if you want to switch drivers, the normal uninstaller routine from nVidia's Setup.exe is normally enough, that been said DDU is not a "wonder weapon" and should only be used in case there are problems discovered.
 
 
 ### Update 13.12.2019
