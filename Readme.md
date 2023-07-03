@@ -108,7 +108,7 @@ The official DDU guide can be found over [here](https://www.wagnardsoft.com/cont
 
 ## How to show current driver branch?!
 
-* Download [nVidia Inspector](https://www.softpedia.com/get/System/System-Info/nVidia-Inspector.shtml)
+* Download [nVidia Inspector](https://download.orbmu2k.de/download.php?id=51)
 * Check the Overview Window under "Driver version" you see the installed driver branch.
 
 
